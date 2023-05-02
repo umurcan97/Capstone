@@ -12,15 +12,15 @@ namespace Capstone
         public static void Main(string[] args)
         {
             var chromeOptions = new ChromeOptions();
-            string downloadDirectory = Environment.CurrentDirectory + "/../../../data";
-            chromeOptions.AddUserProfilePreference("download.default_directory", @"C:\Users\SnorlaX\source\repos\Capstone\data");
+            string downloadDirectory = Environment.CurrentDirectory.Substring(0, Environment.CurrentDirectory.IndexOf("bin")) + "data";
+            chromeOptions.AddUserProfilePreference("download.default_directory", @$"{downloadDirectory}");
             using (var driver = new ChromeDriver(chromeOptions))
             {
                 driver.Manage().Window.Maximize();
                 List<Company> companies = new();
                 try
                 {
-                    var jsonText = File.ReadAllText(Environment.CurrentDirectory + "/../../../data/companies.txt");
+                    var jsonText = File.ReadAllText(downloadDirectory + "/companies.txt");
                     companies = JsonConvert.DeserializeObject<List<Company>>(jsonText);
                 }
                 catch (Exception)
@@ -46,12 +46,21 @@ namespace Capstone
                     }
                     driver.FindElement(By.XPath("/html/body/div[7]/div/div/div[1]/div[2]/a[" + columnNo + "]/div")).Click();
                     Thread.Sleep(1000);
-                driver.FindElement(By.XPath("//html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[1]/isteven-multi-select/span/button")).Click();
+                    driver.FindElement(By.XPath("//html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[1]/isteven-multi-select/span/button")).Click();
                     Thread.Sleep(1000);
-                driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[1]/isteven-multi-select/span/div/div[2]/div[2]/div/label/span")).Click();
+                    driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[1]/isteven-multi-select/span/div/div[2]/div[2]/div/label/span")).Click();
                     Thread.Sleep(1000);
-                driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[3]/a")).Click();
+                    driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[3]/a")).Click();
                     Thread.Sleep(1000);
+                    try
+                    {
+                        driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/disclosure-list/div/div/div/div[1]/div[1]/div/button[3]")).Click();
+                        Thread.Sleep(1000);
+                    }
+                    catch (Exception e)
+                    {
+                        Console.WriteLine(e.Message);
+                    }
                     columnNo = 0;
                     a = "";
                     try
@@ -75,7 +84,7 @@ namespace Capstone
                     Thread.Sleep(2000);
                 driver.FindElement(By.XPath("/html/body/div[11]/div/div/div[3]/a[3]")).Click();
                     Thread.Sleep(5000);
-                    File.Move(@"C:\Users\SnorlaX\source\repos\Capstone\data\Bildirimler.xls", @$"C:\Users\SnorlaX\source\repos\Capstone\data\{companies[i].Name}({date.ToShortDateString()}).xls");
+                    File.Move(@$"{downloadDirectory}/Bildirimler.xls", @$"{downloadDirectory}/{companies[i].Name}({date.ToShortDateString()}).xls");
                     Thread.Sleep(1000);
                 }
             }
