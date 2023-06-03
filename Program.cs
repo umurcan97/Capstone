@@ -4,6 +4,7 @@ using Newtonsoft.Json;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Interactions;
+using OfficeOpenXml;
 
 namespace Capstone
 {
@@ -28,6 +29,19 @@ namespace Capstone
                     companies = GetBistCompanies(driver);
                 }
                 DownloadFinancialReports(driver, downloadDirectory, companies);
+            }
+            var d = new DirectoryInfo(@"C:\Users\SnorlaX\Downloads\at\Capstone\data\Upload");
+            var files = d.GetFiles("*.xlsx");
+            foreach (var file in files)
+            {
+                ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
+                using (var package = new ExcelPackage(new FileInfo(file.FullName.Replace('\\', '/'))))
+                {
+                    var firstSheet = package.Workbook.Worksheets["A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş."];
+                    Console.WriteLine("Sheet 1 Data");
+                    Console.WriteLine($"Cell A2 Value   : {firstSheet.Cells["A3"].Text}");
+                }
             }
         }
         public static List<Company> GetBistCompanies(ChromeDriver driver)
@@ -90,54 +104,62 @@ namespace Capstone
         {
             for (int i = 0; i < companies.Count; i++)
             {
-                driver.Navigate().GoToUrl("https://www.kap.org.tr/");
-                Thread.Sleep(1000);
-                driver.FindElement(By.XPath("/html/body/div[5]/form/input[1]")).SendKeys(companies[i].Code);
-                Thread.Sleep(1000);
-                driver.FindElement(By.XPath("/html/body/div[5]/form/div")).Click();
-                Thread.Sleep(1000);
-                driver.FindElement(By.XPath("/html/body/div[5]/div/div[3]/a[1]")).Click();
-                Thread.Sleep(1000);
-                string a = "";
-                int columnNo = 0;
-                while (a != "Bildirim Sorgu")
-                {
-                    columnNo++;
-                    a = driver.FindElement(By.XPath("/html/body/div[7]/div/div/div[1]/div[2]/a[" + columnNo + "]/div")).Text;
-                }
-                driver.FindElement(By.XPath("/html/body/div[7]/div/div/div[1]/div[2]/a[" + columnNo + "]/div")).Click();
-                Thread.Sleep(1000);
-                driver.FindElement(By.XPath("//html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[1]/isteven-multi-select/span/button")).Click();
-                Thread.Sleep(1000);
-                driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[1]/isteven-multi-select/span/div/div[2]/div[2]/div/label/span")).Click();
-                Thread.Sleep(1000);
-                driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[3]/a")).Click();
-                Thread.Sleep(1000);
-                columnNo = 0;
-                a = "";
                 try
                 {
-                    a = driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/disclosure-list/div/div/div/div[3]/div/span")).Text;
-                    if (a == "Gösterilecek Bildirim Bulunamadı...")
-                        continue;
+                    driver.Navigate().GoToUrl("https://www.kap.org.tr/");
+                    Thread.Sleep(1000);
+                    driver.FindElement(By.XPath("/html/body/div[5]/form/input[1]")).SendKeys(companies[i].Code);
+                    Thread.Sleep(1000);
+                    driver.FindElement(By.XPath("/html/body/div[5]/form/div")).Click();
+                    Thread.Sleep(1000);
+                    driver.FindElement(By.XPath("/html/body/div[5]/div/div[3]/a[1]")).Click();
+                    Thread.Sleep(1000);
+                    string a = "";
+                    int columnNo = 0;
+                    while (a != "Bildirim Sorgu")
+                    {
+                        columnNo++;
+                        a = driver.FindElement(By.XPath("/html/body/div[7]/div/div/div[1]/div[2]/a[" + columnNo + "]/div")).Text;
+                    }
+                    driver.FindElement(By.XPath("/html/body/div[7]/div/div/div[1]/div[2]/a[" + columnNo + "]/div")).Click();
+                    Thread.Sleep(1000);
+                    driver.FindElement(By.XPath("//html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[1]/isteven-multi-select/span/button")).Click();
+                    Thread.Sleep(1000);
+                    driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[1]/isteven-multi-select/span/div/div[2]/div[2]/div/label/span")).Click();
+                    Thread.Sleep(1000);
+                    driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/div/div[3]/a")).Click();
+                    Thread.Sleep(1000);
+                    columnNo = 0;
+                    a = "";
+                    try
+                    {
+                        a = driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/disclosure-list/div/div/div/div[3]/div/span")).Text;
+                        if (a == "Gösterilecek Bildirim Bulunamadı...")
+                            continue;
+                    }
+                    catch (Exception) { }
+                    while (a != "Finansal Rapor")
+                    {
+                        columnNo++;
+                        a = driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/disclosure-list/div/div/div/div[1]/disclosure-list-item[" + columnNo + "]/div/div/div/div/div[3]/div/div[3]/span")).Text;
+                    }
+                    driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/disclosure-list/div/div/div/div[1]/disclosure-list-item[" + columnNo + "]/div/div/div/div/div[3]/div/div[1]/span")).Click();
+                    Thread.Sleep(2000);
+                    DateTime date = DateTime.Parse(driver.FindElement(By.XPath("/html/body/div[11]/div/div/div[2]/div/div[5]/div/div[1]/div[2]")).Text);
+                    Actions actions = new Actions(driver);
+                    WebElement excelButton = (WebElement)driver.FindElement(By.XPath("/html/body/div[11]/div/div/div[3]/a[3]"));
+                    actions.ContextClick(excelButton);
+                    Thread.Sleep(2000);
+                    driver.FindElement(By.XPath("/html/body/div[11]/div/div/div[3]/a[3]")).Click();
+                    Thread.Sleep(5000);
+                    File.Move(@$"{downloadDirectory}/Bildirimler.xls", @$"{downloadDirectory}/{companies[i].Name}({date.ToShortDateString()}).xls");
+                    Thread.Sleep(1000);
                 }
-                catch (Exception) { }
-                while (a != "Finansal Rapor")
+                catch (Exception)
                 {
-                    columnNo++;
-                    a = driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/disclosure-list/div/div/div/div[1]/disclosure-list-item[" + columnNo + "]/div/div/div/div/div[3]/div/div[3]/span")).Text;
+                    i--;
+                    continue;
                 }
-                driver.FindElement(By.XPath("/html/body/div[10]/div/div/div[2]/div/div[2]/div/disclosure-list/div/div/div/div[1]/disclosure-list-item[" + columnNo + "]/div/div/div/div/div[3]/div/div[1]/span")).Click();
-                Thread.Sleep(2000);
-                DateTime date = DateTime.Parse(driver.FindElement(By.XPath("/html/body/div[11]/div/div/div[2]/div/div[5]/div/div[1]/div[2]")).Text);
-                Actions actions = new Actions(driver);
-                WebElement excelButton = (WebElement)driver.FindElement(By.XPath("/html/body/div[11]/div/div/div[3]/a[3]"));
-                actions.ContextClick(excelButton);
-                Thread.Sleep(2000);
-                driver.FindElement(By.XPath("/html/body/div[11]/div/div/div[3]/a[3]")).Click();
-                Thread.Sleep(5000);
-                File.Move(@$"{downloadDirectory}/Bildirimler.xls", @$"{downloadDirectory}/{companies[i].Name}({date.ToShortDateString()}).xls");
-                Thread.Sleep(1000);
             }
         }
     }
