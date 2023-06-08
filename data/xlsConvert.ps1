@@ -1,6 +1,10 @@
-$downloadfolder = "C:\Users\SnorlaX\Downloads\at\Capstone\data"         # folder where the .xls files are
-$uploadfolder   = "C:\Users\SnorlaX\Downloads\at\Capstone\data\Upload"  # folder that uploads the .xlsx files
-$backupfolder   = "C:\Users\SnorlaX\Downloads\at\Capstone\data\Backup"  # folder that has .xls files as backup
+param(
+    $downloadfolder
+)
+#$downloadfolder="C:\Users\SnorlaX\Downloads\at\Capstone\data"         # folder where the .xls files are
+
+$uploadfolder   = "$downloadfolder/Upload"  # folder that uploads the .xlsx files
+$backupfolder   = "$downloadfolder/Backup"  # folder that has .xls files as backup
 
 # open and convert xls to xlsx
 Add-Type -AssemblyName Microsoft.Office.Interop.Excel
