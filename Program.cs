@@ -28,7 +28,7 @@ namespace Capstone
             }
             DownloadFinancialReports(chromeOptions, downloadDirectory, companies);
             PrepareExcelFiles(downloadDirectory);
-            var d = new DirectoryInfo(@"C:\Users\SnorlaX\Downloads\at\Capstone\data\Upload");
+            var d = new DirectoryInfo($@"{downloadDirectory}/Upload");
             var files = d.GetFiles("*.xlsx");
             foreach (var file in files)
             {
