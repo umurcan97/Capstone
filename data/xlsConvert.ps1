@@ -6,6 +6,17 @@ param(
 $uploadfolder   = "$downloadfolder/Upload"  # folder that uploads the .xlsx files
 $backupfolder   = "$downloadfolder/Backup"  # folder that has .xls files as backup
 
+if((Test-Path -Path "$uploadfolder") -eq $false)
+{
+    mkdir $uploadfolder
+}
+
+if((Test-Path -Path "$backupfolder") -eq $false)
+{
+    mkdir $backupfolder
+}
+
+
 # open and convert xls to xlsx
 Add-Type -AssemblyName Microsoft.Office.Interop.Excel
 $xlFixedFormat = [Microsoft.Office.Interop.Excel.XlFileFormat]::xlOpenXMLWorkbook
