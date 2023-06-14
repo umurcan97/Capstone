@@ -1,0 +1,31 @@
+{
+  "Code": "KRGYO",
+  "Name": "KÖRFEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 8411932.0,
+    "CostOfRevenue": -1407055.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 7004877.0,
+    "NetProfit": 1529998.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4203265.0,
+      "MarketingExpenses": -4903596.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -181661.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 159468.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KÖRFEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(27.04.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "BRMEN",
+  "Name": "BİRLİK MENSUCAT TİCARET VE SANAYİ İŞLETMESİ A.Ş.",
+  "City": "KAYSERİ",
+  "IndependentAuditingFirm": "ARILAR BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1959178.0,
+    "CostOfRevenue": -1006455.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 952723.0,
+    "NetProfit": -826564.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -709156.0,
+      "MarketingExpenses": -1661592.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -57091.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 4560.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BİRLİK MENSUCAT TİCARET VE SANAYİ İŞLETMESİ A.Ş.(10.05.2023).xlsx"
+}

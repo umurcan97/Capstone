@@ -1,0 +1,31 @@
+{
+  "Code": "TCELL",
+  "Name": "TURKCELL İLETİŞİM HİZMETLERİ A.Ş.",
+  "City": "",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 16718545.0,
+    "CostOfRevenue": -11298719.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 5749498.0,
+    "NetProfit": 2816401.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -560548.0,
+      "MarketingExpenses": -911759.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -170102.0
+    },
+    "Tax": {
+      "Tax1": -305500.0,
+      "Tax2": -434321.0
+    },
+    "Amortization": 2102717.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TURKCELL İLETİŞİM HİZMETLERİ A.Ş.(9.05.2023).xlsx"
+}

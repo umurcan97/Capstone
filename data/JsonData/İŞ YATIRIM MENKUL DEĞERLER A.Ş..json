@@ -1,0 +1,31 @@
+{
+  "Code": "ISMEN, IYM",
+  "Name": "İŞ YATIRIM MENKUL DEĞERLER A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 86825954.0,
+    "CostOfRevenue": -84400981.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 2424973.0,
+    "NetProfit": 1444318.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -499289.0,
+      "MarketingExpenses": -124361.0,
+      "RD_Expenses": -1650.0,
+      "OtherExpenses": -51067.0
+    },
+    "Tax": {
+      "Tax1": -667765.0,
+      "Tax2": 248059.0
+    },
+    "Amortization": 14715.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İŞ YATIRIM MENKUL DEĞERLER A.Ş.(2.05.2023).xlsx"
+}

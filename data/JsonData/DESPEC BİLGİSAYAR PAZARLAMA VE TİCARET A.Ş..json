@@ -1,0 +1,31 @@
+{
+  "Code": "DESPC",
+  "Name": "DESPEC BİLGİSAYAR PAZARLAMA VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 567814169.0,
+    "CostOfRevenue": -532309352.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 35504817.0,
+    "NetProfit": 5683771.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4035942.0,
+      "MarketingExpenses": -8475382.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -43187096.0
+    },
+    "Tax": {
+      "Tax1": -3179004.0,
+      "Tax2": 1490619.0
+    },
+    "Amortization": 187489.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DESPEC BİLGİSAYAR PAZARLAMA VE TİCARET A.Ş.(3.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "KTSKR",
+  "Name": "KÜTAHYA ŞEKER FABRİKASI A.Ş.",
+  "City": "KÜTAHYA",
+  "IndependentAuditingFirm": "VİZYON GRUP BAĞIMSIZ DENETİM.A.Ş.",
+  "Data": {
+    "Revenue": 245115308.0,
+    "CostOfRevenue": -177477344.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 67637964.0,
+    "NetProfit": 47751281.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -12147912.0,
+      "MarketingExpenses": -827160.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -10376917.0
+    },
+    "Tax": {
+      "Tax1": -16331294.0,
+      "Tax2": 6824029.0
+    },
+    "Amortization": 17010.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KÜTAHYA ŞEKER FABRİKASI A.Ş.(3.05.2023).xlsx"
+}

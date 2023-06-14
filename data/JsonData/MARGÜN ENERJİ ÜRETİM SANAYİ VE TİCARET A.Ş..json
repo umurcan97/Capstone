@@ -1,0 +1,31 @@
+{
+  "Code": "MAGEN",
+  "Name": "MARGÜN ENERJİ ÜRETİM SANAYİ VE TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 123815548.0,
+    "CostOfRevenue": -87258193.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 36557355.0,
+    "NetProfit": 576599366.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -14424619.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -35194730.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -142808691.0
+    },
+    "Amortization": 27654384.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MARGÜN ENERJİ ÜRETİM SANAYİ VE TİCARET A.Ş.(20.04.2023).xlsx"
+}

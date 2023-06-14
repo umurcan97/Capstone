@@ -1,0 +1,31 @@
+{
+  "Code": "GSDHO",
+  "Name": "GSD HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 151435.0,
+    "CostOfRevenue": -104396.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 152981.0,
+    "NetProfit": 120878.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -52010.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -313.0
+    },
+    "Tax": {
+      "Tax1": -17752.0,
+      "Tax2": 1453.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GSD HOLDİNG A.Ş.(10.05.2023).xlsx"
+}

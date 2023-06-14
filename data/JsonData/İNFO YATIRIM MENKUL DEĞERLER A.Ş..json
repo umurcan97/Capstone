@@ -1,0 +1,31 @@
+{
+  "Code": "INFO, IYF",
+  "Name": "İNFO YATIRIM MENKUL DEĞERLER A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 740532230.0,
+    "CostOfRevenue": -322356809.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 418175421.0,
+    "NetProfit": 89292081.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -126013536.0,
+      "MarketingExpenses": -47350489.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -25342971.0
+    },
+    "Tax": {
+      "Tax1": -45463413.0,
+      "Tax2": -4314875.0
+    },
+    "Amortization": 2913149.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İNFO YATIRIM MENKUL DEĞERLER A.Ş.(5.05.2023).xlsx"
+}

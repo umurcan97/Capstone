@@ -1,0 +1,31 @@
+{
+  "Code": "MRBAS, MRS",
+  "Name": "MARBAŞ MENKUL DEĞERLER A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "",
+  "Data": {
+    "Revenue": 675545251.0,
+    "CostOfRevenue": -597756417.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 77788834.0,
+    "NetProfit": 29209714.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -26687690.0,
+      "MarketingExpenses": -6857464.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -733925.0
+    },
+    "Tax": {
+      "Tax1": -10315063.0,
+      "Tax2": -42237.0
+    },
+    "Amortization": 546699.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MARBAŞ MENKUL DEĞERLER A.Ş.(2.05.2023).xlsx"
+}

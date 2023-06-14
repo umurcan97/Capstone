@@ -1,0 +1,31 @@
+{
+  "Code": "KAREL",
+  "Name": "KAREL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 1454635496.0,
+    "CostOfRevenue": -1205816162.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 248819334.0,
+    "NetProfit": -16846834.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -28012790.0,
+      "MarketingExpenses": -55770203.0,
+      "RD_Expenses": -20746753.0,
+      "OtherExpenses": -16308945.0
+    },
+    "Tax": {
+      "Tax1": -18694501.0,
+      "Tax2": 5247614.0
+    },
+    "Amortization": 11195577.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KAREL ELEKTRONİK SANAYİ VE TİCARET A.Ş.(4.05.2023).xlsx"
+}

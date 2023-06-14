@@ -1,0 +1,31 @@
+{
+  "Code": "BALAT",
+  "Name": "BALATACILAR BALATACILIK SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "MEGA GLOBAL ULUSLARARASI BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 4838158.0,
+    "CostOfRevenue": -3883909.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 954249.0,
+    "NetProfit": -2391504.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3164884.0,
+      "MarketingExpenses": -86220.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -3903749.0
+    },
+    "Tax": {
+      "Tax1": -98022.0,
+      "Tax2": 405244.0
+    },
+    "Amortization": -3786293.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BALATACILAR BALATACILIK SANAYİ VE TİCARET A.Ş.(11.04.2023).xlsx"
+}

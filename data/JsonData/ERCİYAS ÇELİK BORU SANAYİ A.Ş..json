@@ -1,0 +1,31 @@
+{
+  "Code": "ERCB",
+  "Name": "ERCİYAS ÇELİK BORU SANAYİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "İRFAN BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1639446559.0,
+    "CostOfRevenue": -1324091016.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 315355543.0,
+    "NetProfit": 24121909.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -29615552.0,
+      "MarketingExpenses": -235625744.0,
+      "RD_Expenses": -841114.0,
+      "OtherExpenses": -400420305.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 5738037.0
+    },
+    "Amortization": 25083022.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ERCİYAS ÇELİK BORU SANAYİ A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "NTHOL",
+  "Name": "NET HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "ATA ULUSLARARASI BAĞIMSIZ DENETİM VE SMMM A.Ş.",
+  "Data": {
+    "Revenue": 1082528.0,
+    "CostOfRevenue": -752983.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 329545.0,
+    "NetProfit": 16767.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -144976.0,
+      "MarketingExpenses": -15723.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -93067.0
+    },
+    "Tax": {
+      "Tax1": -2125.0,
+      "Tax2": -2815.0
+    },
+    "Amortization": 73350.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/NET HOLDİNG A.Ş.(10.05.2023).xlsx"
+}

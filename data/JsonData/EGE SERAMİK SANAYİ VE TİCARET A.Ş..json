@@ -1,0 +1,31 @@
+{
+  "Code": "EGSER",
+  "Name": "EGE SERAMİK SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "AS BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 430495823.0,
+    "CostOfRevenue": -383421074.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 47074749.0,
+    "NetProfit": -15171692.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -82770879.0,
+      "MarketingExpenses": -29227054.0,
+      "RD_Expenses": -4252022.0,
+      "OtherExpenses": -32266027.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 7618159.0
+    },
+    "Amortization": 6418987.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EGE SERAMİK SANAYİ VE TİCARET A.Ş.(28.04.2023).xlsx"
+}

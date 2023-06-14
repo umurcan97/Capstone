@@ -1,0 +1,31 @@
+{
+  "Code": "TUKAS",
+  "Name": "TUKAŞ GIDA SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 953528042.0,
+    "CostOfRevenue": -662336252.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 291191790.0,
+    "NetProfit": 51523190.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -14856841.0,
+      "MarketingExpenses": -37844876.0,
+      "RD_Expenses": -1494856.0,
+      "OtherExpenses": -185994679.0
+    },
+    "Tax": {
+      "Tax1": -19466471.0,
+      "Tax2": 7336841.0
+    },
+    "Amortization": 7844053.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TUKAŞ GIDA SANAYİ VE TİCARET A.Ş.(9.05.2023).xlsx"
+}

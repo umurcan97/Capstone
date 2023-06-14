@@ -1,0 +1,31 @@
+{
+  "Code": "SUWEN",
+  "Name": "SUWEN TEKSTİL SANAYİ PAZARLAMA A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 295299499.0,
+    "CostOfRevenue": -133111354.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 162188145.0,
+    "NetProfit": 14471792.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -11017303.0,
+      "MarketingExpenses": -119876776.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -17185219.0
+    },
+    "Tax": {
+      "Tax1": -3058038.0,
+      "Tax2": -1062022.0
+    },
+    "Amortization": 13473477.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SUWEN TEKSTİL SANAYİ PAZARLAMA A.Ş.(8.05.2023).xlsx"
+}

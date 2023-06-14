@@ -1,0 +1,31 @@
+{
+  "Code": "SNICA",
+  "Name": "SANİCA ISI SANAYİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 333973690.0,
+    "CostOfRevenue": -263984457.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 69989233.0,
+    "NetProfit": 79466413.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -15716406.0,
+      "MarketingExpenses": -15911324.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -51558274.0
+    },
+    "Tax": {
+      "Tax1": -4487542.0,
+      "Tax2": 55236578.0
+    },
+    "Amortization": 4021121.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SANİCA ISI SANAYİ A.Ş.(2.05.2023).xlsx"
+}

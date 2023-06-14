@@ -1,0 +1,31 @@
+{
+  "Code": "RYSAS",
+  "Name": "REYSAŞ TAŞIMACILIK VE LOJİSTİK TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "ULUSLARARASI BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 813862524.0,
+    "CostOfRevenue": -526899098.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 286963426.0,
+    "NetProfit": 175394801.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -23200375.0,
+      "MarketingExpenses": -4657238.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -51137848.0
+    },
+    "Tax": {
+      "Tax1": -33017.0,
+      "Tax2": 7362532.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/REYSAŞ TAŞIMACILIK VE LOJİSTİK TİCARET A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "KRVGD",
+  "Name": "KERVAN GIDA SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "YEDİTEPE BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1498911907.0,
+    "CostOfRevenue": -1078898165.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 420013742.0,
+    "NetProfit": 64701990.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -74944147.0,
+      "MarketingExpenses": -169964753.0,
+      "RD_Expenses": -4315512.0,
+      "OtherExpenses": -22874899.0
+    },
+    "Tax": {
+      "Tax1": -52755120.0,
+      "Tax2": 2821328.0
+    },
+    "Amortization": 31046469.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KERVAN GIDA SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

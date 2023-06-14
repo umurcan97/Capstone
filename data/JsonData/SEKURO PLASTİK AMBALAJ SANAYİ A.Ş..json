@@ -1,0 +1,31 @@
+{
+  "Code": "SEKUR",
+  "Name": "SEKURO PLASTİK AMBALAJ SANAYİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 130259504.0,
+    "CostOfRevenue": -114565258.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 15694246.0,
+    "NetProfit": 1538216.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5025067.0,
+      "MarketingExpenses": -5273747.0,
+      "RD_Expenses": -241864.0,
+      "OtherExpenses": -6142104.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -2008251.0
+    },
+    "Amortization": 1897627.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SEKURO PLASTİK AMBALAJ SANAYİ A.Ş.(10.05.2023).xlsx"
+}

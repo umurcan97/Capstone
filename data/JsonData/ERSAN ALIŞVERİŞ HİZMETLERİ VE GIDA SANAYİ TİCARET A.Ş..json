@@ -1,0 +1,31 @@
+{
+  "Code": "KIMMR",
+  "Name": "ERSAN ALIŞVERİŞ HİZMETLERİ VE GIDA SANAYİ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BOĞAZİÇİ BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1002728108.0,
+    "CostOfRevenue": -754058278.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 248669830.0,
+    "NetProfit": 10123317.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -20737413.0,
+      "MarketingExpenses": -160051289.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -57089314.0
+    },
+    "Tax": {
+      "Tax1": -9919062.0,
+      "Tax2": -77789.0
+    },
+    "Amortization": 6321779.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ERSAN ALIŞVERİŞ HİZMETLERİ VE GIDA SANAYİ TİCARET A.Ş.(2.05.2023).xlsx"
+}

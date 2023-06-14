@@ -1,0 +1,31 @@
+{
+  "Code": "CLDNM",
+  "Name": "ÇALIK DENİM TEKSTİL SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 3691843.0,
+    "CostOfRevenue": -2699572.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 992271.0,
+    "NetProfit": 862594.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -138527.0,
+      "MarketingExpenses": -221540.0,
+      "RD_Expenses": -55008.0,
+      "OtherExpenses": -15282.0
+    },
+    "Tax": {
+      "Tax1": -23980.0,
+      "Tax2": 615231.0
+    },
+    "Amortization": 83974.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ÇALIK DENİM TEKSTİL SANAYİ VE TİCARET A.Ş.(10.04.2023).xlsx"
+}

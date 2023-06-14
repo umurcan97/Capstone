@@ -1,0 +1,31 @@
+{
+  "Code": "FORMT",
+  "Name": "FORMET METAL VE CAM SANAYİ A.Ş.",
+  "City": "KAYSERİ",
+  "IndependentAuditingFirm": "DENEYİM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 79081182.0,
+    "CostOfRevenue": -50105248.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 28975934.0,
+    "NetProfit": 2267134.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -14229172.0,
+      "MarketingExpenses": -4330745.0,
+      "RD_Expenses": -606931.0,
+      "OtherExpenses": -5246432.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -1225475.0
+    },
+    "Amortization": 2861754.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/FORMET METAL VE CAM SANAYİ A.Ş.(10.05.2023).xlsx"
+}

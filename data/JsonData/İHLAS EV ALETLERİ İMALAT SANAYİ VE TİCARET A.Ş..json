@@ -1,0 +1,31 @@
+{
+  "Code": "IHEVA",
+  "Name": "İHLAS EV ALETLERİ İMALAT SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "İRFAN BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 348049141.0,
+    "CostOfRevenue": -302827616.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 45221525.0,
+    "NetProfit": 10624154.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -15844221.0,
+      "MarketingExpenses": -8603788.0,
+      "RD_Expenses": -960014.0,
+      "OtherExpenses": -5353778.0
+    },
+    "Tax": {
+      "Tax1": -5785214.0,
+      "Tax2": 1624978.0
+    },
+    "Amortization": 1606329.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İHLAS EV ALETLERİ İMALAT SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

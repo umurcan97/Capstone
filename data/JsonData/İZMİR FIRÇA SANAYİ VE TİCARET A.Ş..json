@@ -1,0 +1,31 @@
+{
+  "Code": "IZFAS",
+  "Name": "İZMİR FIRÇA SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "GÖRÜŞ BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 54016608.0,
+    "CostOfRevenue": -42716028.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 11300580.0,
+    "NetProfit": 2443514.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2479192.0,
+      "MarketingExpenses": -4667691.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1335032.0
+    },
+    "Tax": {
+      "Tax1": -282482.0,
+      "Tax2": -337092.0
+    },
+    "Amortization": 309518.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İZMİR FIRÇA SANAYİ VE TİCARET A.Ş.(9.05.2023).xlsx"
+}

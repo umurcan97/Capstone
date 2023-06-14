@@ -1,0 +1,31 @@
+{
+  "Code": "QUAGR",
+  "Name": "QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
+  "City": "AYDIN",
+  "IndependentAuditingFirm": "NEVADOS BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 1255796790.0,
+    "CostOfRevenue": -861285967.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 394510823.0,
+    "NetProfit": 199057588.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -27512113.0,
+      "MarketingExpenses": -77820553.0,
+      "RD_Expenses": -2766382.0,
+      "OtherExpenses": -107668609.0
+    },
+    "Tax": {
+      "Tax1": 6308774.0,
+      "Tax2": 101594808.0
+    },
+    "Amortization": 13064273.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş.(10.05.2023).xlsx"
+}

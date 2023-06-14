@@ -1,0 +1,31 @@
+{
+  "Code": "KCHOL",
+  "Name": "KOÇ HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 173859.0,
+    "CostOfRevenue": -140546.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 56018.0,
+    "NetProfit": 26255.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -12712.0,
+      "MarketingExpenses": -9377.0,
+      "RD_Expenses": -374.0,
+      "OtherExpenses": -4249.0
+    },
+    "Tax": {
+      "Tax1": -7522.0,
+      "Tax2": 1474.0
+    },
+    "Amortization": 1779.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KOÇ HOLDİNG A.Ş.(2.05.2023).xlsx"
+}

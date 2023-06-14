@@ -1,0 +1,31 @@
+{
+  "Code": "AFYON",
+  "Name": "AFYON ÇİMENTO SANAYİ T.A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 397524140.0,
+    "CostOfRevenue": -283873051.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 113651089.0,
+    "NetProfit": 109098107.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7928366.0,
+      "MarketingExpenses": -1744241.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -6580791.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 755501.0
+    },
+    "Amortization": 8122625.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AFYON ÇİMENTO SANAYİ T.A.Ş.(2.05.2023).xlsx"
+}

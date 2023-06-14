@@ -1,0 +1,31 @@
+{
+  "Code": "FADE",
+  "Name": "FADE GIDA YATIRIM SANAYİ TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "HSY DANIŞMANLIK VE BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 65547074.0,
+    "CostOfRevenue": -57017753.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 7761593.0,
+    "NetProfit": 144500587.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5433631.0,
+      "MarketingExpenses": -1915133.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2772992.0
+    },
+    "Tax": {
+      "Tax1": -1817310.0,
+      "Tax2": -21780686.0
+    },
+    "Amortization": 365323.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/FADE GIDA YATIRIM SANAYİ TİCARET A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "PKENT",
+  "Name": "PETROKENT TURİZM A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "C&Ç BAĞIMSIZ DENETİM VE YÖNETİM DANIŞMANLIĞI A.Ş.",
+  "Data": {
+    "Revenue": 4855187.0,
+    "CostOfRevenue": -31861625.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": -27006438.0,
+    "NetProfit": -20987794.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1609528.0,
+      "MarketingExpenses": -168061.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1960728.0
+    },
+    "Tax": {
+      "Tax1": 4677441.0,
+      "Tax2": 910879.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PETROKENT TURİZM A.Ş.(2.05.2023).xlsx"
+}

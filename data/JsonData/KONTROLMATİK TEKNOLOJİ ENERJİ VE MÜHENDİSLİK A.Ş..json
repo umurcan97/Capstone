@@ -1,0 +1,31 @@
+{
+  "Code": "KONTR",
+  "Name": "KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "SER-BERKER BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 551032805.0,
+    "CostOfRevenue": -512543791.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 38489014.0,
+    "NetProfit": 139283662.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -25734605.0,
+      "MarketingExpenses": -9196970.0,
+      "RD_Expenses": -11371916.0,
+      "OtherExpenses": -34228076.0
+    },
+    "Tax": {
+      "Tax1": -13347016.0,
+      "Tax2": 80105758.0
+    },
+    "Amortization": 2317330.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş.(11.05.2023).xlsx"
+}

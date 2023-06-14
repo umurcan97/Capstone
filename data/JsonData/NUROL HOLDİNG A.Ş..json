@@ -1,0 +1,31 @@
+{
+  "Code": "NRHOL",
+  "Name": "NUROL HOLDİNG A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "AS BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 23765773.0,
+    "CostOfRevenue": -15107160.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 10730436.0,
+    "NetProfit": 9947917.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1057008.0,
+      "MarketingExpenses": -560012.0,
+      "RD_Expenses": -279852.0,
+      "OtherExpenses": -479140.0
+    },
+    "Tax": {
+      "Tax1": -621652.0,
+      "Tax2": 593255.0
+    },
+    "Amortization": 1033444.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/NUROL HOLDİNG A.Ş.(13.03.2023).xlsx"
+}

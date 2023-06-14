@@ -1,0 +1,31 @@
+{
+  "Code": "TUCLK",
+  "Name": "TUĞÇELİK ALÜMİNYUM VE METAL MAMÜLLERİ SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNCEL BAĞIMSIZ DENETİM DANIŞMANLIK VE YMM A.Ş.",
+  "Data": {
+    "Revenue": 245769208.0,
+    "CostOfRevenue": -202999534.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 42769674.0,
+    "NetProfit": 13051955.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7681346.0,
+      "MarketingExpenses": -8876426.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -9290738.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 525791.0
+    },
+    "Amortization": 2840493.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TUĞÇELİK ALÜMİNYUM VE METAL MAMÜLLERİ SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

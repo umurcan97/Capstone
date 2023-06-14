@@ -1,0 +1,31 @@
+{
+  "Code": "PHC, PHLLP",
+  "Name": "PHİLLİPCAPİTAL MENKUL DEĞERLER A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 285239995.0,
+    "CostOfRevenue": -70532072.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 214707923.0,
+    "NetProfit": 65719039.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -54799472.0,
+      "MarketingExpenses": -18809966.0,
+      "RD_Expenses": -1233175.0,
+      "OtherExpenses": -1072135.0
+    },
+    "Tax": {
+      "Tax1": -24483626.0,
+      "Tax2": 1214667.0
+    },
+    "Amortization": 1776807.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PHİLLİPCAPİTAL MENKUL DEĞERLER A.Ş.(10.05.2023).xlsx"
+}

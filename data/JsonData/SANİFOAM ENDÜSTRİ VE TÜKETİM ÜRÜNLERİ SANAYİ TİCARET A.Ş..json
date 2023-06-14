@@ -1,0 +1,31 @@
+{
+  "Code": "SANFM",
+  "Name": "SANİFOAM ENDÜSTRİ VE TÜKETİM ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
+  "City": "TEKİRDAĞ",
+  "IndependentAuditingFirm": "VİZYON GRUP BAĞIMSIZ DENETİM.A.Ş.",
+  "Data": {
+    "Revenue": 103022643.0,
+    "CostOfRevenue": -84006247.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 19016396.0,
+    "NetProfit": 5403968.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5218429.0,
+      "MarketingExpenses": -5687122.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -5239367.0
+    },
+    "Tax": {
+      "Tax1": -2271494.0,
+      "Tax2": -1084303.0
+    },
+    "Amortization": 1094717.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SANİFOAM ENDÜSTRİ VE TÜKETİM ÜRÜNLERİ SANAYİ TİCARET A.Ş.(10.05.2023).xlsx"
+}

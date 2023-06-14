@@ -1,0 +1,31 @@
+{
+  "Code": "DEVA",
+  "Name": "DEVA HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 2003347540.0,
+    "CostOfRevenue": -838236517.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1165111023.0,
+    "NetProfit": 444836412.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -141710489.0,
+      "MarketingExpenses": -238575705.0,
+      "RD_Expenses": -42690973.0,
+      "OtherExpenses": -10184608.0
+    },
+    "Tax": {
+      "Tax1": -157291324.0,
+      "Tax2": -26037224.0
+    },
+    "Amortization": 18783352.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DEVA HOLDİNG A.Ş.(5.05.2023).xlsx"
+}

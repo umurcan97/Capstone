@@ -1,0 +1,31 @@
+{
+  "Code": "DMSAS",
+  "Name": "DEMİSAŞ DÖKÜM EMAYE MAMÜLLERİ SANAYİ A.Ş.",
+  "City": "KOCAELİ",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 497489665.0,
+    "CostOfRevenue": -456127020.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 41362645.0,
+    "NetProfit": -20244374.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -10455165.0,
+      "MarketingExpenses": -14324448.0,
+      "RD_Expenses": -2509158.0,
+      "OtherExpenses": -70586719.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 7213204.0
+    },
+    "Amortization": 5134476.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DEMİSAŞ DÖKÜM EMAYE MAMÜLLERİ SANAYİ A.Ş.(2.05.2023).xlsx"
+}

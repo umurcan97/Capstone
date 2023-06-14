@@ -1,0 +1,31 @@
+{
+  "Code": "SUMAS",
+  "Name": "SUMAŞ SUNİ TAHTA VE MOBİLYA SANAYİ A.Ş.",
+  "City": "BALIKESİR",
+  "IndependentAuditingFirm": "İBD İSTANBUL BAĞIMSIZ DENETİM VE SMMM A.Ş.",
+  "Data": {
+    "Revenue": 226886166.0,
+    "CostOfRevenue": -166443612.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 60442554.0,
+    "NetProfit": 53647451.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5735011.0,
+      "MarketingExpenses": -2408255.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2324293.0
+    },
+    "Tax": {
+      "Tax1": -11177101.0,
+      "Tax2": 7037559.0
+    },
+    "Amortization": 1416831.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SUMAŞ SUNİ TAHTA VE MOBİLYA SANAYİ A.Ş.(28.02.2023).xlsx"
+}

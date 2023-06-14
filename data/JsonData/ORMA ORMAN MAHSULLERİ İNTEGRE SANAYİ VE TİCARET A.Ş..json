@@ -1,0 +1,31 @@
+{
+  "Code": "ORMA",
+  "Name": "ORMA ORMAN MAHSULLERİ İNTEGRE SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BDO DENET BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 1943014807.0,
+    "CostOfRevenue": -1435450697.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 507564110.0,
+    "NetProfit": 312572042.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -44231108.0,
+      "MarketingExpenses": -175937753.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -165057232.0
+    },
+    "Tax": {
+      "Tax1": -10270933.0,
+      "Tax2": 129949430.0
+    },
+    "Amortization": 28711851.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ORMA ORMAN MAHSULLERİ İNTEGRE SANAYİ VE TİCARET A.Ş.(1.03.2023).xlsx"
+}

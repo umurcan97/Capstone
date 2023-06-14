@@ -1,0 +1,31 @@
+{
+  "Code": "BLCYT",
+  "Name": "BİLİCİ YATIRIM SANAYİ VE TİCARET A.Ş.",
+  "City": "ADANA",
+  "IndependentAuditingFirm": "DENEYİM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 135075711.0,
+    "CostOfRevenue": -95271040.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 39804671.0,
+    "NetProfit": 53182005.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7117246.0,
+      "MarketingExpenses": -436487.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -4234780.0
+    },
+    "Tax": {
+      "Tax1": -9080245.0,
+      "Tax2": -444605.0
+    },
+    "Amortization": 6068460.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BİLİCİ YATIRIM SANAYİ VE TİCARET A.Ş.(5.05.2023).xlsx"
+}

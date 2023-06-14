@@ -1,0 +1,31 @@
+{
+  "Code": "ALKIM",
+  "Name": "ALKİM ALKALİ KİMYA A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 627900512.0,
+    "CostOfRevenue": -501975264.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 125925248.0,
+    "NetProfit": 61905192.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -24021486.0,
+      "MarketingExpenses": -26105984.0,
+      "RD_Expenses": -107491.0,
+      "OtherExpenses": -31310605.0
+    },
+    "Tax": {
+      "Tax1": -13659504.0,
+      "Tax2": -4263218.0
+    },
+    "Amortization": 8126918.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ALKİM ALKALİ KİMYA A.Ş.(9.05.2023).xlsx"
+}

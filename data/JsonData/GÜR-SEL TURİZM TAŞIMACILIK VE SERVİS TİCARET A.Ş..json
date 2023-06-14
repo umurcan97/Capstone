@@ -1,0 +1,31 @@
+{
+  "Code": "GRSEL",
+  "Name": "GÜR-SEL TURİZM TAŞIMACILIK VE SERVİS TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 658541404.0,
+    "CostOfRevenue": -520816950.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 137724454.0,
+    "NetProfit": 84469306.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -25014669.0,
+      "MarketingExpenses": -755815.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -12414307.0
+    },
+    "Tax": {
+      "Tax1": -13158430.0,
+      "Tax2": -953859.0
+    },
+    "Amortization": 4009825.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GÜR-SEL TURİZM TAŞIMACILIK VE SERVİS TİCARET A.Ş.(9.05.2023).xlsx"
+}

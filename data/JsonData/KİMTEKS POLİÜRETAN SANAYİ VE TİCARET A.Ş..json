@@ -1,0 +1,31 @@
+{
+  "Code": "KMPUR",
+  "Name": "KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1618593656.0,
+    "CostOfRevenue": -1327422861.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 291170795.0,
+    "NetProfit": 149946603.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -22164387.0,
+      "MarketingExpenses": -56019138.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -101062321.0
+    },
+    "Tax": {
+      "Tax1": -59609.0,
+      "Tax2": -5197231.0
+    },
+    "Amortization": 3693567.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.(8.05.2023).xlsx"
+}

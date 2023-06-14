@@ -1,0 +1,31 @@
+{
+  "Code": "SAHOL",
+  "Name": "HACI ÖMER SABANCI HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 21823229.0,
+    "CostOfRevenue": -17750186.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 27326821.0,
+    "NetProfit": 13223731.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -11949156.0,
+      "MarketingExpenses": -2284447.0,
+      "RD_Expenses": -46444.0,
+      "OtherExpenses": -1179124.0
+    },
+    "Tax": {
+      "Tax1": -3892407.0,
+      "Tax2": 1947552.0
+    },
+    "Amortization": 725135.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/HACI ÖMER SABANCI HOLDİNG A.Ş.(8.05.2023).xlsx"
+}

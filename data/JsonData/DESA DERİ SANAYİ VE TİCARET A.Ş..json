@@ -1,0 +1,31 @@
+{
+  "Code": "DESA",
+  "Name": "DESA DERİ SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BİRLEŞİM NEKS BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 429831382.0,
+    "CostOfRevenue": -296069694.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 133761688.0,
+    "NetProfit": 37524088.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -21324726.0,
+      "MarketingExpenses": -96578708.0,
+      "RD_Expenses": -1528836.0,
+      "OtherExpenses": -20474254.0
+    },
+    "Tax": {
+      "Tax1": -11337895.0,
+      "Tax2": 3914525.0
+    },
+    "Amortization": 12530569.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DESA DERİ SANAYİ VE TİCARET A.Ş.(27.04.2023).xlsx"
+}

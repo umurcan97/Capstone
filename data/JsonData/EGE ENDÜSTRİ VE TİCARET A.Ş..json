@@ -1,0 +1,31 @@
+{
+  "Code": "EGEEN",
+  "Name": "EGE ENDÜSTRİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 650096366.0,
+    "CostOfRevenue": -450911906.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 199184460.0,
+    "NetProfit": 158902045.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -28440924.0,
+      "MarketingExpenses": -24747708.0,
+      "RD_Expenses": -2674779.0,
+      "OtherExpenses": -33099672.0
+    },
+    "Tax": {
+      "Tax1": -61752193.0,
+      "Tax2": -6463315.0
+    },
+    "Amortization": 3559468.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EGE ENDÜSTRİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "BIMAS",
+  "Name": "BİM BİRLEŞİK MAĞAZALAR A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 51334587.0,
+    "CostOfRevenue": -42114567.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 9220020.0,
+    "NetProfit": 1347233.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -917749.0,
+      "MarketingExpenses": -6112231.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -118059.0
+    },
+    "Tax": {
+      "Tax1": -351887.0,
+      "Tax2": -39038.0
+    },
+    "Amortization": 556444.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BİM BİRLEŞİK MAĞAZALAR A.Ş.(8.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "RYGYO",
+  "Name": "REYSAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "ULUSLARARASI BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 219169823.0,
+    "CostOfRevenue": -37909076.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 181260747.0,
+    "NetProfit": 116089428.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -9523372.0,
+      "MarketingExpenses": -235422.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -9244755.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 5923082.0
+    },
+    "Amortization": 2149385.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/REYSAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(9.05.2023).xlsx"
+}

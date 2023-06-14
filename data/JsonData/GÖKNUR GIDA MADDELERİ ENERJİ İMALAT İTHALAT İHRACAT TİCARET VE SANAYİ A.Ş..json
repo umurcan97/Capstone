@@ -1,0 +1,31 @@
+{
+  "Code": "GOKNR",
+  "Name": "GÖKNUR GIDA MADDELERİ ENERJİ İMALAT İTHALAT İHRACAT TİCARET VE SANAYİ A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "",
+  "Data": {
+    "Revenue": 1182209965.0,
+    "CostOfRevenue": -928565441.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 253644524.0,
+    "NetProfit": 85129982.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -19870766.0,
+      "MarketingExpenses": -113009973.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -8824755.0
+    },
+    "Tax": {
+      "Tax1": -19097573.0,
+      "Tax2": -5226869.0
+    },
+    "Amortization": 9646392.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GÖKNUR GIDA MADDELERİ ENERJİ İMALAT İTHALAT İHRACAT TİCARET VE SANAYİ A.Ş.(10.05.2023).xlsx"
+}

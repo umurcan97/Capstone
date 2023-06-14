@@ -1,0 +1,31 @@
+{
+  "Code": "COSMO",
+  "Name": "COSMOS YATIRIM HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BOĞAZİÇİ BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 22157977.0,
+    "CostOfRevenue": -20408565.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1749412.0,
+    "NetProfit": -163864.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2154957.0,
+      "MarketingExpenses": -166866.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1962527.0
+    },
+    "Tax": {
+      "Tax1": -199256.0,
+      "Tax2": -90838.0
+    },
+    "Amortization": 1587828.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/COSMOS YATIRIM HOLDİNG A.Ş.(10.05.2023).xlsx"
+}

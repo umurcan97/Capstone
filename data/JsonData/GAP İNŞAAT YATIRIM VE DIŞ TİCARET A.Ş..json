@@ -1,0 +1,31 @@
+{
+  "Code": "GAPIN",
+  "Name": "GAP İNŞAAT YATIRIM VE DIŞ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 3185825.0,
+    "CostOfRevenue": -2766184.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 419641.0,
+    "NetProfit": 1349595.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -158799.0,
+      "MarketingExpenses": -125688.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -147321.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -60104.0
+    },
+    "Amortization": 66991.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GAP İNŞAAT YATIRIM VE DIŞ TİCARET A.Ş.(13.03.2023).xlsx"
+}

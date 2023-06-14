@@ -1,0 +1,31 @@
+{
+  "Code": "ISDMR",
+  "Name": "İSKENDERUN DEMİR VE ÇELİK A.Ş.",
+  "City": "HATAY",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 10162020.0,
+    "CostOfRevenue": -11011221.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": -849201.0,
+    "NetProfit": -845333.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -189157.0,
+      "MarketingExpenses": -85823.0,
+      "RD_Expenses": -389.0,
+      "OtherExpenses": -19832.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 282725.0
+    },
+    "Amortization": 380910.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İSKENDERUN DEMİR VE ÇELİK A.Ş.(2.05.2023).xlsx"
+}

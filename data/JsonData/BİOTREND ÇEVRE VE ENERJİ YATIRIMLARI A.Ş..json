@@ -1,0 +1,31 @@
+{
+  "Code": "BIOEN",
+  "Name": "BİOTREND ÇEVRE VE ENERJİ YATIRIMLARI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "RSM TURKEY ARKAN ERGİN ULUSLARARASI BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 341552959.0,
+    "CostOfRevenue": -270077804.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 71475155.0,
+    "NetProfit": 65854994.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -29460283.0,
+      "MarketingExpenses": -122450.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -4920017.0
+    },
+    "Tax": {
+      "Tax1": -3028782.0,
+      "Tax2": -6571779.0
+    },
+    "Amortization": 22358652.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BİOTREND ÇEVRE VE ENERJİ YATIRIMLARI A.Ş.(10.05.2023).xlsx"
+}

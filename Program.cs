@@ -13,6 +13,7 @@ namespace Capstone
     {
         public static void Main(string[] args)
         {
+
             var chromeOptions = new ChromeOptions();
             string downloadDirectory = Environment.CurrentDirectory.Substring(0, Environment.CurrentDirectory.IndexOf("bin")) + "data";
             chromeOptions.AddUserProfilePreference("download.default_directory", @$"{downloadDirectory}");
@@ -28,20 +29,87 @@ namespace Capstone
             }
             DownloadFinancialReports(chromeOptions, downloadDirectory, companies);
             PrepareExcelFiles(downloadDirectory);
-            var d = new DirectoryInfo($@"{downloadDirectory}/Upload");
-            var files = d.GetFiles("*.xlsx");
-            foreach (var file in files)
-            {
-                ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+            CollectFinancialData(companies);
+            WriteGraphData(companies, downloadDirectory + "/JsonData");
+            #region Data Okuma 
+            //var d = new DirectoryInfo($@"{downloadDirectory}/Upload");
+            //var files = d.GetFiles("*.xlsx");
+            //foreach (var file in files)
+            //{
+            //    ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
-                using (var package = new ExcelPackage(new FileInfo(file.FullName.Replace('\\', '/'))))
-                {
-                    var firstSheet = package.Workbook.Worksheets["A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş."];
-                    Console.WriteLine("Sheet 1 Data");
-                    Console.WriteLine($"Cell A2 Value   : {firstSheet.Cells["A3"].Text}");
-                }
-            }
+            //    using (var package = new ExcelPackage(new FileInfo(file.FullName.Replace('\\', '/'))))
+            //    {
+            //        var firstSheet = package.Workbook.Worksheets["A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş."];
+            //        Console.WriteLine("Sheet 1 Data");
+            //        Console.WriteLine($"Cell A2 Value   : {firstSheet.Cells["A3"].Text}");
+            //    }
+            //}//var d = new DirectoryInfo($@"{downloadDirectory}/Upload");
+            //var files = d.GetFiles("*.xlsx");
+            //foreach (var file in files)
+            //{
+            //    ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
+            //    using (var package = new ExcelPackage(new FileInfo(file.FullName.Replace('\\', '/'))))
+            //    {
+            //        var firstSheet = package.Workbook.Worksheets["A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş."];
+            //        Console.WriteLine("Sheet 1 Data");
+            //        Console.WriteLine($"Cell A2 Value   : {firstSheet.Cells["A3"].Text}");
+            //    }
+            //}//var d = new DirectoryInfo($@"{downloadDirectory}/Upload");
+            //var files = d.GetFiles("*.xlsx");
+            //foreach (var file in files)
+            //{
+            //    ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
+            //    using (var package = new ExcelPackage(new FileInfo(file.FullName.Replace('\\', '/'))))
+            //    {
+            //        var firstSheet = package.Workbook.Worksheets["A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş."];
+            //        Console.WriteLine("Sheet 1 Data");
+            //        Console.WriteLine($"Cell A2 Value   : {firstSheet.Cells["A3"].Text}");
+            //    }
+            //}//var d = new DirectoryInfo($@"{downloadDirectory}/Upload");
+            //var files = d.GetFiles("*.xlsx");
+            //foreach (var file in files)
+            //{
+            //    ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
+            //    using (var package = new ExcelPackage(new FileInfo(file.FullName.Replace('\\', '/'))))
+            //    {
+            //        var firstSheet = package.Workbook.Worksheets["A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş."];
+            //        Console.WriteLine("Sheet 1 Data");
+            //        Console.WriteLine($"Cell A2 Value   : {firstSheet.Cells["A3"].Text}");
+            //    }
+            //}//var d = new DirectoryInfo($@"{downloadDirectory}/Upload");
+            //var files = d.GetFiles("*.xlsx");
+            //foreach (var file in files)
+            //{
+            //    ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
+            //    using (var package = new ExcelPackage(new FileInfo(file.FullName.Replace('\\', '/'))))
+            //    {
+            //        var firstSheet = package.Workbook.Worksheets["A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş."];
+            //        Console.WriteLine("Sheet 1 Data");
+            //        Console.WriteLine($"Cell A2 Value   : {firstSheet.Cells["A3"].Text}");
+            //    }
+            //}//var d = new DirectoryInfo($@"{downloadDirectory}/Upload");
+            //var files = d.GetFiles("*.xlsx");
+            //foreach (var file in files)
+            //{
+            //    ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+
+            //    using (var package = new ExcelPackage(new FileInfo(file.FullName.Replace('\\', '/'))))
+            //    {
+            //        var firstSheet = package.Workbook.Worksheets["A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş."];
+            //        Console.WriteLine("Sheet 1 Data");
+            //        Console.WriteLine($"Cell A2 Value   : {firstSheet.Cells["A3"].Text}");
+            //    }
+            //}
+            #endregion
+
         }
+
+
         public static List<Company> GetBistCompanies(ChromeOptions options)
         {
             List<Company> companies = new List<Company>();
@@ -108,7 +176,7 @@ namespace Capstone
                 using (var driver = new ChromeDriver(options))
                 {
                     driver.Manage().Window.Maximize();
-                    for (int j = 0; j < 50 && i * 50 < companies.Count; j++)
+                    for (int j = 0; j < 50 && i * 50 + j < companies.Count; j++)
                     {
                         try
                         {
@@ -159,6 +227,7 @@ namespace Capstone
                             driver.FindElement(By.XPath("/html/body/div[11]/div/div/div[3]/a[3]")).Click();
                             Thread.Sleep(5000);
                             File.Move(@$"{downloadDirectory}/Bildirimler.xls", @$"{downloadDirectory}/{companies[i * 50 + j].Name}({date.ToShortDateString()}).xls");
+                            companies[i * 50 + j].xlsFile = @$"{downloadDirectory}/Upload/{companies[i * 50 + j].Name}({date.ToShortDateString()}).xlsx";
                             Thread.Sleep(1000);
                         }
                         catch (Exception)
@@ -181,6 +250,160 @@ namespace Capstone
             var result = Process.Start(startInfo);
             result.WaitForExit();
         }
+        public static List<Company> CollectFinancialData(List<Company> companies)
+        {
+            foreach (var company in companies)
+            {
+                if (!string.IsNullOrEmpty(company.xlsFile))
+                    ReadExcel(company);
+            }
+            return companies;
+        }
+        public static void ReadExcel(Company company)
+        {
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
+            using (var package = new ExcelPackage(new FileInfo(company.xlsFile.Replace('\\', '/'))))
+            {
+                string worksheetName = company.Name;
+                if (worksheetName.Length > 31)
+                    worksheetName = worksheetName.Substring(0, 31);
+                var worksheet = package.Workbook.Worksheets[company.Name];
+                company.Data = new();
+                company.Data.OperatingExpenses = new();
+                company.Data.Ratios = new();
+                company.Data.Tax = new();
+                for (int i = 1; i < 1000; i++)
+                {
+                    while (worksheet.Cells["B" + i].Text == "Hasılat" && company.Data.Revenue == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.Revenue = result;
+                        break;
+                    }
+                    while (worksheet.Cells["B" + i].Text == "Satışların Maliyeti" && company.Data.CostOfRevenue == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.CostOfRevenue = result;
+                        break;
+                    }
+                    while (worksheet.Cells["B" + i].Text == "Esas Faaliyetin Karı" && company.Data.OperatingProfit == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.OperatingProfit = result;
+                        break;
+                    }
+                    while (worksheet.Cells["B" + i].Text == "DÖNEM KARI (ZARARI)" && company.Data.NetProfit == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.NetProfit = result;
+                        break;
+                    } 
+                    while (worksheet.Cells["B" + i].Text == "BRÜT KAR (ZARAR)" && company.Data.GrossProfit == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.GrossProfit = result;
+                        break;
+                    } 
+                    while (worksheet.Cells["B" + i].Text == "Genel Yönetim Giderleri" && company.Data.OperatingExpenses.ManagementExpenses == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.OperatingExpenses.ManagementExpenses = result;
+                        break;
+                    } 
+                    while (worksheet.Cells["B" + i].Text == "Pazarlama Giderleri" && company.Data.OperatingExpenses.MarketingExpenses == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.OperatingExpenses.MarketingExpenses = result;
+                        break;
+                    }
+                    while (worksheet.Cells["B" + i].Text == "Araştırma ve Geliştirme Giderleri" && company.Data.OperatingExpenses.RD_Expenses == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.OperatingExpenses.RD_Expenses = result;
+                        break;
+                    }
+                    while (worksheet.Cells["B" + i].Text == "Esas Faaliyetlerden Diğer Giderler" && company.Data.OperatingExpenses.OtherExpenses == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.OperatingExpenses.OtherExpenses = result;
+                        break;
+                    }
+                    while (worksheet.Cells["B" + i].Text == "Dönem Vergi (Gideri) Geliri" && company.Data.Tax.Tax1 == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.Tax.Tax1 = result;
+                        break;
+                    }
+                    while (worksheet.Cells["B" + i].Text == "Ertelenmiş Vergi (Gideri) Geliri" && company.Data.Tax.Tax2 == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.Tax.Tax2 = result;
+                        break;
+                    }
+                    while (worksheet.Cells["B" + i].Text == "Amortisman ve İtfa Gideri İle İlgili Düzeltmeler" && company.Data.Amortization == 0 && i < 1000)
+                    {
+                        string revenue = worksheet.Cells["H" + i].Text;
+                        revenue = revenue.Replace(".", "");
+                        _ = int.TryParse(revenue, out int result);
+                        company.Data.Amortization = result;
+                        break;
+                    }
+                }
+                if (company.Data.Revenue != 0)
+                    CalculateRatios(company);
+            }
+        }
+        public static void CalculateRatios(Company company)
+        {
+            var asd = JsonConvert.SerializeObject(company.Data, Formatting.Indented);
+            Console.WriteLine(asd);
+            return;
+        }
+        public static void WriteGraphData(List<Company> companies, string JsonPath)
+        {
+            foreach (Company company in companies)
+            {
+                if (company.Data != null && company.Data.Revenue != 0)
+                {
+                    try
+                    {
+                        File.Create($"{JsonPath}/{company.Name.Replace(".","")}.json");
+                        var data = JsonConvert.SerializeObject(company, Formatting.Indented);
+                        using (StreamWriter outputFile = new StreamWriter($"{JsonPath}/{company.Name}.json"))
+                        {
+                            outputFile.WriteLine(data);
+                        }
+                    }
+                    catch (Exception)
+                    {
+                        continue;
+                    }
+                }
+            }
+        }
+
     }
 }
 

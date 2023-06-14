@@ -1,0 +1,31 @@
+{
+  "Code": "OTKAR",
+  "Name": "OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 2536091.0,
+    "CostOfRevenue": -2153189.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 382902.0,
+    "NetProfit": -514813.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -158876.0,
+      "MarketingExpenses": -332937.0,
+      "RD_Expenses": -72580.0,
+      "OtherExpenses": -100661.0
+    },
+    "Tax": {
+      "Tax1": -138628.0,
+      "Tax2": 7488.0
+    },
+    "Amortization": 35546.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.(27.04.2023).xlsx"
+}

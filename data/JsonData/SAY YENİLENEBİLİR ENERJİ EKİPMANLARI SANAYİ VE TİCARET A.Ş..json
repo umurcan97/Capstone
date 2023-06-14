@@ -1,0 +1,31 @@
+{
+  "Code": "SAYAS",
+  "Name": "SAY YENİLENEBİLİR ENERJİ EKİPMANLARI SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "SUN BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 150904715.0,
+    "CostOfRevenue": -120129279.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 30775436.0,
+    "NetProfit": 32655325.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4821430.0,
+      "MarketingExpenses": -7626728.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -5479395.0
+    },
+    "Tax": {
+      "Tax1": -4148904.0,
+      "Tax2": 3227630.0
+    },
+    "Amortization": 571344.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SAY YENİLENEBİLİR ENERJİ EKİPMANLARI SANAYİ VE TİCARET A.Ş.(9.05.2023).xlsx"
+}

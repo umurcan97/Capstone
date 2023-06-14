@@ -1,0 +1,31 @@
+{
+  "Code": "BURCE",
+  "Name": "BURÇELİK BURSA ÇELİK DÖKÜM SANAYİİ A.Ş.",
+  "City": "BURSA",
+  "IndependentAuditingFirm": "KAVRAM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 98775459.0,
+    "CostOfRevenue": -69782994.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 28992465.0,
+    "NetProfit": 8042485.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7230167.0,
+      "MarketingExpenses": -3430531.0,
+      "RD_Expenses": -808903.0,
+      "OtherExpenses": -8979685.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -4651286.0
+    },
+    "Amortization": 885277.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BURÇELİK BURSA ÇELİK DÖKÜM SANAYİİ A.Ş.(10.05.2023).xlsx"
+}

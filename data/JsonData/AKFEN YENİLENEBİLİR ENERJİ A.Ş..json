@@ -1,0 +1,31 @@
+{
+  "Code": "AKFYE",
+  "Name": "AKFEN YENİLENEBİLİR ENERJİ A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 624892.0,
+    "CostOfRevenue": -362590.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 262302.0,
+    "NetProfit": 171558.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -29795.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2169.0
+    },
+    "Tax": {
+      "Tax1": -862.0,
+      "Tax2": 30263.0
+    },
+    "Amortization": 117691.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AKFEN YENİLENEBİLİR ENERJİ A.Ş.(9.05.2023).xlsx"
+}

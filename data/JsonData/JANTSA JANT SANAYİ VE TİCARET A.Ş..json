@@ -1,0 +1,31 @@
+{
+  "Code": "JANTS",
+  "Name": "JANTSA JANT SANAYİ VE TİCARET A.Ş.",
+  "City": "AYDIN",
+  "IndependentAuditingFirm": "ÇÖZÜM ÜNLÜER BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 850566440.0,
+    "CostOfRevenue": -656189742.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 194376698.0,
+    "NetProfit": 112740135.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -22810961.0,
+      "MarketingExpenses": -46083416.0,
+      "RD_Expenses": -2868144.0,
+      "OtherExpenses": -27337317.0
+    },
+    "Tax": {
+      "Tax1": -5319300.0,
+      "Tax2": 2623849.0
+    },
+    "Amortization": 3716892.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/JANTSA JANT SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

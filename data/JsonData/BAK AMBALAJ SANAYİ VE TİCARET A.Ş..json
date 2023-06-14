@@ -1,0 +1,31 @@
+{
+  "Code": "BAKAB",
+  "Name": "BAK AMBALAJ SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 611969076.0,
+    "CostOfRevenue": -520841567.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 91127509.0,
+    "NetProfit": 15730023.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -28427779.0,
+      "MarketingExpenses": -18057332.0,
+      "RD_Expenses": -2023072.0,
+      "OtherExpenses": -18248532.0
+    },
+    "Tax": {
+      "Tax1": -3926282.0,
+      "Tax2": -3412269.0
+    },
+    "Amortization": 5892767.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BAK AMBALAJ SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

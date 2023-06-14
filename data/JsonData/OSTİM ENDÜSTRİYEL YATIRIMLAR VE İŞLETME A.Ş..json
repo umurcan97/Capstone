@@ -1,0 +1,31 @@
+{
+  "Code": "OSTIM",
+  "Name": "OSTİM ENDÜSTRİYEL YATIRIMLAR VE İŞLETME A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "VEZİN BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 42327989.0,
+    "CostOfRevenue": -30925383.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 11402606.0,
+    "NetProfit": 3923549.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5105541.0,
+      "MarketingExpenses": -2176316.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -443277.0
+    },
+    "Tax": {
+      "Tax1": -361618.0,
+      "Tax2": -386679.0
+    },
+    "Amortization": 273625.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/OSTİM ENDÜSTRİYEL YATIRIMLAR VE İŞLETME A.Ş.(10.05.2023).xlsx"
+}

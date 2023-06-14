@@ -1,0 +1,31 @@
+{
+  "Code": "POLHO",
+  "Name": "POLİSAN HOLDİNG A.Ş.",
+  "City": "KOCAELİ",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 1029749335.0,
+    "CostOfRevenue": -935189308.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 94560027.0,
+    "NetProfit": 11812958.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -71783970.0,
+      "MarketingExpenses": -9437651.0,
+      "RD_Expenses": -6882495.0,
+      "OtherExpenses": -12644249.0
+    },
+    "Tax": {
+      "Tax1": -8116243.0,
+      "Tax2": 1560829.0
+    },
+    "Amortization": 19880540.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/POLİSAN HOLDİNG A.Ş.(5.05.2023).xlsx"
+}

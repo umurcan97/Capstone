@@ -1,0 +1,31 @@
+{
+  "Code": "KLMSN",
+  "Name": "KLİMASAN KLİMA SANAYİ VE TİCARET A.Ş.",
+  "City": "MANİSA",
+  "IndependentAuditingFirm": "BDO DENET BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 795222491.0,
+    "CostOfRevenue": -688924673.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 106297818.0,
+    "NetProfit": 4534480.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -42698500.0,
+      "MarketingExpenses": -81134334.0,
+      "RD_Expenses": -4656562.0,
+      "OtherExpenses": -744538.0
+    },
+    "Tax": {
+      "Tax1": -4890137.0,
+      "Tax2": 41794493.0
+    },
+    "Amortization": 7761389.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KLİMASAN KLİMA SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

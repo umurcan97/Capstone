@@ -1,0 +1,31 @@
+{
+  "Code": "ELITE",
+  "Name": "ELİTE NATUREL ORGANİK GIDA SANAYİ VE TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "BDD BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 175118214.0,
+    "CostOfRevenue": -78235115.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 96883099.0,
+    "NetProfit": 54737705.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4582207.0,
+      "MarketingExpenses": -25148322.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -4674538.0
+    },
+    "Tax": {
+      "Tax1": -10355149.0,
+      "Tax2": 1164829.0
+    },
+    "Amortization": 171488.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ELİTE NATUREL ORGANİK GIDA SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

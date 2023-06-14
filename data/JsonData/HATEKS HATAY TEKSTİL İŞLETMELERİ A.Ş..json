@@ -1,0 +1,31 @@
+{
+  "Code": "HATEK",
+  "Name": "HATEKS HATAY TEKSTİL İŞLETMELERİ A.Ş.",
+  "City": "HATAY",
+  "IndependentAuditingFirm": "KARAR BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 135699135.0,
+    "CostOfRevenue": -126101990.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 9597145.0,
+    "NetProfit": -15966533.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -12378468.0,
+      "MarketingExpenses": -7992777.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -98947537.0
+    },
+    "Tax": {
+      "Tax1": -49694.0,
+      "Tax2": 2580656.0
+    },
+    "Amortization": 3556627.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/HATEKS HATAY TEKSTİL İŞLETMELERİ A.Ş.(10.05.2023).xlsx"
+}

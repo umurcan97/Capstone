@@ -1,0 +1,31 @@
+{
+  "Code": "KONYA",
+  "Name": "KONYA ÇİMENTO SANAYİİ A.Ş.",
+  "City": "KONYA",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 573556609.0,
+    "CostOfRevenue": -571749731.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1806878.0,
+    "NetProfit": -48543507.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -45131761.0,
+      "MarketingExpenses": -5214776.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2619930.0
+    },
+    "Tax": {
+      "Tax1": -2119359.0,
+      "Tax2": 15345242.0
+    },
+    "Amortization": 6676134.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KONYA ÇİMENTO SANAYİİ A.Ş.(10.05.2023).xlsx"
+}

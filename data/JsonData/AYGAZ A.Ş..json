@@ -1,0 +1,31 @@
+{
+  "Code": "AYGAZ",
+  "Name": "AYGAZ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 12434488.0,
+    "CostOfRevenue": -11733730.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 700758.0,
+    "NetProfit": 619648.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -346184.0,
+      "MarketingExpenses": -359925.0,
+      "RD_Expenses": -2398.0,
+      "OtherExpenses": -110111.0
+    },
+    "Tax": {
+      "Tax1": -54729.0,
+      "Tax2": 55008.0
+    },
+    "Amortization": 53337.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AYGAZ A.Ş.(28.04.2023).xlsx"
+}

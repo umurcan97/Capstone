@@ -1,0 +1,31 @@
+{
+  "Code": "OTOKC",
+  "Name": "OTOKOÇ OTOMOTİV TİCARET VE SANAYİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 42556413.0,
+    "CostOfRevenue": -32852405.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 9704008.0,
+    "NetProfit": 4633389.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1223779.0,
+      "MarketingExpenses": -1431497.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -314488.0
+    },
+    "Tax": {
+      "Tax1": 17347.0,
+      "Tax2": -908367.0
+    },
+    "Amortization": 1032773.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/OTOKOÇ OTOMOTİV TİCARET VE SANAYİ A.Ş.(8.02.2023).xlsx"
+}

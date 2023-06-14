@@ -1,0 +1,31 @@
+{
+  "Code": "ECILC",
+  "Name": "EİS ECZACIBAŞI İLAÇ SINAİ VE FİNANSAL YATIRIMLAR SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 1362953.0,
+    "CostOfRevenue": -625925.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 737028.0,
+    "NetProfit": 192447.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -140025.0,
+      "MarketingExpenses": -204037.0,
+      "RD_Expenses": -9946.0,
+      "OtherExpenses": -48451.0
+    },
+    "Tax": {
+      "Tax1": -87276.0,
+      "Tax2": 11981.0
+    },
+    "Amortization": 6517.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EİS ECZACIBAŞI İLAÇ SINAİ VE FİNANSAL YATIRIMLAR SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

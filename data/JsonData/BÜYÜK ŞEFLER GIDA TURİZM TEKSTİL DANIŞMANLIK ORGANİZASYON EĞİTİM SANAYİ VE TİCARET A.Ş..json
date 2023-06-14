@@ -1,0 +1,31 @@
+{
+  "Code": "BIGCH",
+  "Name": "BÜYÜK ŞEFLER GIDA TURİZM TEKSTİL DANIŞMANLIK ORGANİZASYON EĞİTİM SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "",
+  "Data": {
+    "Revenue": 320979852.0,
+    "CostOfRevenue": -236677852.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 84302000.0,
+    "NetProfit": 24073017.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -51265157.0,
+      "MarketingExpenses": -6763053.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -5748048.0
+    },
+    "Tax": {
+      "Tax1": -3445242.0,
+      "Tax2": 3779208.0
+    },
+    "Amortization": 16248329.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BÜYÜK ŞEFLER GIDA TURİZM TEKSTİL DANIŞMANLIK ORGANİZASYON EĞİTİM SANAYİ VE TİCARET A.Ş.(1.06.2023).xlsx"
+}

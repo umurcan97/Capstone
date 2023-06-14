@@ -1,0 +1,31 @@
+{
+  "Code": "HEKTS",
+  "Name": "HEKTAŞ TİCARET T.A.Ş.",
+  "City": "KOCAELİ",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1409523720.0,
+    "CostOfRevenue": -873190118.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 536333602.0,
+    "NetProfit": 52326398.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -65847607.0,
+      "MarketingExpenses": -83539555.0,
+      "RD_Expenses": -20960494.0,
+      "OtherExpenses": -18880385.0
+    },
+    "Tax": {
+      "Tax1": -56122234.0,
+      "Tax2": 2115386.0
+    },
+    "Amortization": 17484796.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/HEKTAŞ TİCARET T.A.Ş.(9.05.2023).xlsx"
+}

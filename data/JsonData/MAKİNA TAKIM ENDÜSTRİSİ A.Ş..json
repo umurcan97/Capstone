@@ -1,0 +1,31 @@
+{
+  "Code": "MAKTK",
+  "Name": "MAKİNA TAKIM ENDÜSTRİSİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 105588761.0,
+    "CostOfRevenue": -69713917.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 35874844.0,
+    "NetProfit": 31168022.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -8514602.0,
+      "MarketingExpenses": -6929674.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -707031.0
+    },
+    "Tax": {
+      "Tax1": -4690534.0,
+      "Tax2": 9593227.0
+    },
+    "Amortization": 3712211.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MAKİNA TAKIM ENDÜSTRİSİ A.Ş.(8.05.2023).xlsx"
+}

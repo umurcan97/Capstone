@@ -1,0 +1,31 @@
+{
+  "Code": "YATAS",
+  "Name": "YATAŞ YATAK VE YORGAN SANAYİ TİCARET A.Ş.",
+  "City": "KAYSERİ",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 2042957676.0,
+    "CostOfRevenue": -1380026579.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 662931097.0,
+    "NetProfit": 105168941.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -68481854.0,
+      "MarketingExpenses": -372188276.0,
+      "RD_Expenses": -8808544.0,
+      "OtherExpenses": -91442961.0
+    },
+    "Tax": {
+      "Tax1": -25248594.0,
+      "Tax2": -591886.0
+    },
+    "Amortization": 23640414.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/YATAŞ YATAK VE YORGAN SANAYİ TİCARET A.Ş.(10.05.2023).xlsx"
+}

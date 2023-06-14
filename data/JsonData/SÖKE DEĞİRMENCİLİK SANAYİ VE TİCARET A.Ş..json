@@ -1,0 +1,31 @@
+{
+  "Code": "SOKE",
+  "Name": "SÖKE DEĞİRMENCİLİK SANAYİ VE TİCARET A.Ş.",
+  "City": "AYDIN",
+  "IndependentAuditingFirm": "FİNANSAL EKSEN BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 921744567.0,
+    "CostOfRevenue": -791479329.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 130265238.0,
+    "NetProfit": 95453136.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -10536733.0,
+      "MarketingExpenses": -43211011.0,
+      "RD_Expenses": -186695.0,
+      "OtherExpenses": -14622566.0
+    },
+    "Tax": {
+      "Tax1": -2732233.0,
+      "Tax2": -2515135.0
+    },
+    "Amortization": 3684907.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SÖKE DEĞİRMENCİLİK SANAYİ VE TİCARET A.Ş.(9.05.2023).xlsx"
+}

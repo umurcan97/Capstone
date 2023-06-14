@@ -1,0 +1,31 @@
+{
+  "Code": "ISYAT",
+  "Name": "İŞ YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 115684671.0,
+    "CostOfRevenue": -99638368.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 16046303.0,
+    "NetProfit": 12539190.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3687170.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": 0.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 69876.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İŞ YATIRIM ORTAKLIĞI A.Ş.(2.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "KGYO",
+  "Name": "KORAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "VİZYON GRUP BAĞIMSIZ DENETİM.A.Ş.",
+  "Data": {
+    "Revenue": 40217429.0,
+    "CostOfRevenue": -34830600.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 5386829.0,
+    "NetProfit": -15997798.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7791705.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -11809800.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -363111.0
+    },
+    "Amortization": 262692.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KORAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(25.05.2023).xlsx"
+}

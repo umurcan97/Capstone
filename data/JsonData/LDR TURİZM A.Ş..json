@@ -1,0 +1,31 @@
+{
+  "Code": "LIDER",
+  "Name": "LDR TURİZM A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "EDİT BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 283991542.0,
+    "CostOfRevenue": -82721289.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 201270253.0,
+    "NetProfit": 151143221.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -8720450.0,
+      "MarketingExpenses": -1131259.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1893975.0
+    },
+    "Tax": {
+      "Tax1": -6306610.0,
+      "Tax2": 4069045.0
+    },
+    "Amortization": 88698.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/LDR TURİZM A.Ş.(2.05.2023).xlsx"
+}

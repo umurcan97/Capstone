@@ -1,0 +1,31 @@
+{
+  "Code": "GLRYH",
+  "Name": "GÜLER YATIRIM HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 43205505.0,
+    "CostOfRevenue": -23205685.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 182491921.0,
+    "NetProfit": 72250095.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -46684672.0,
+      "MarketingExpenses": -27830524.0,
+      "RD_Expenses": -2666365.0,
+      "OtherExpenses": -14788547.0
+    },
+    "Tax": {
+      "Tax1": -64474382.0,
+      "Tax2": 39328119.0
+    },
+    "Amortization": 2071426.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GÜLER YATIRIM HOLDİNG A.Ş.(17.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "VERUS",
+  "Name": "VERUSA HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 86784572.0,
+    "CostOfRevenue": -78193452.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 8591120.0,
+    "NetProfit": 87493810.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -11347980.0,
+      "MarketingExpenses": -1289167.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -610408.0
+    },
+    "Tax": {
+      "Tax1": -39402860.0,
+      "Tax2": 41979215.0
+    },
+    "Amortization": 1706491.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/VERUSA HOLDİNG A.Ş.(10.05.2023).xlsx"
+}

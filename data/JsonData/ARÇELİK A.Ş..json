@@ -1,0 +1,31 @@
+{
+  "Code": "ARCLK",
+  "Name": "ARÇELİK A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 39891377.0,
+    "CostOfRevenue": -27475138.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 12416239.0,
+    "NetProfit": 1158606.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2477067.0,
+      "MarketingExpenses": -7037130.0,
+      "RD_Expenses": -226763.0,
+      "OtherExpenses": -1206668.0
+    },
+    "Tax": {
+      "Tax1": -525118.0,
+      "Tax2": 973300.0
+    },
+    "Amortization": 711155.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ARÇELİK A.Ş.(19.04.2023).xlsx"
+}

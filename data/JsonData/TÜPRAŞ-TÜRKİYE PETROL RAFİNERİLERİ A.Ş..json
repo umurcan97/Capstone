@@ -1,0 +1,31 @@
+{
+  "Code": "TUPRS",
+  "Name": "TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 92826375.0,
+    "CostOfRevenue": -78829121.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 13997254.0,
+    "NetProfit": 6792657.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1478779.0,
+      "MarketingExpenses": -694148.0,
+      "RD_Expenses": -32895.0,
+      "OtherExpenses": -1176416.0
+    },
+    "Tax": {
+      "Tax1": -3037426.0,
+      "Tax2": -855548.0
+    },
+    "Amortization": 233210.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.(28.04.2023).xlsx"
+}

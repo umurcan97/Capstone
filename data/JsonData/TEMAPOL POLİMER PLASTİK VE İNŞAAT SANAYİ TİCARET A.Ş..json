@@ -1,0 +1,31 @@
+{
+  "Code": "TMPOL",
+  "Name": "TEMAPOL POLİMER PLASTİK VE İNŞAAT SANAYİ TİCARET A.Ş.",
+  "City": "KAYSERİ",
+  "IndependentAuditingFirm": "GÜNCEL BAĞIMSIZ DENETİM DANIŞMANLIK VE YMM A.Ş.",
+  "Data": {
+    "Revenue": 92618241.0,
+    "CostOfRevenue": -79198790.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 13419451.0,
+    "NetProfit": 3143088.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3560399.0,
+      "MarketingExpenses": -7227210.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2918039.0
+    },
+    "Tax": {
+      "Tax1": -231861.0,
+      "Tax2": 2266350.0
+    },
+    "Amortization": 983646.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TEMAPOL POLİMER PLASTİK VE İNŞAAT SANAYİ TİCARET A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "ATEKS",
+  "Name": "AKIN TEKSTİL A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "MGI BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 394654002.0,
+    "CostOfRevenue": -350113190.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 44540812.0,
+    "NetProfit": -5279861.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -13321536.0,
+      "MarketingExpenses": -20604696.0,
+      "RD_Expenses": -10619510.0,
+      "OtherExpenses": -59533052.0
+    },
+    "Tax": {
+      "Tax1": -238464.0,
+      "Tax2": 169018.0
+    },
+    "Amortization": 3365046.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AKIN TEKSTİL A.Ş.(9.05.2023).xlsx"
+}

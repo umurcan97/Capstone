@@ -1,0 +1,31 @@
+{
+  "Code": "SANEL",
+  "Name": "SAN-EL MÜHENDİSLİK ELEKTRİK TAAHHÜT SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DENEYİM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 10633314.0,
+    "CostOfRevenue": -9983956.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 649358.0,
+    "NetProfit": 1035192.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1349162.0,
+      "MarketingExpenses": -98070.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -123898.0
+    },
+    "Tax": {
+      "Tax1": -132489.0,
+      "Tax2": -198408.0
+    },
+    "Amortization": 436790.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SAN-EL MÜHENDİSLİK ELEKTRİK TAAHHÜT SANAYİ VE TİCARET A.Ş.(29.05.2023).xlsx"
+}

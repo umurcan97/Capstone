@@ -1,0 +1,31 @@
+{
+  "Code": "DAPGM",
+  "Name": "DAP GAYRİMENKUL GELİŞTİRME A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 549954208.0,
+    "CostOfRevenue": -209900203.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 340054005.0,
+    "NetProfit": 174473640.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -34624954.0,
+      "MarketingExpenses": -50587712.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -5430871.0
+    },
+    "Tax": {
+      "Tax1": -122806.0,
+      "Tax2": -47846335.0
+    },
+    "Amortization": 374407.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DAP GAYRİMENKUL GELİŞTİRME A.Ş.(2.05.2023).xlsx"
+}

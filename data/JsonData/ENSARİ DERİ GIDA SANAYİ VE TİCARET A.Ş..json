@@ -1,0 +1,31 @@
+{
+  "Code": "ENSRI",
+  "Name": "ENSARİ DERİ GIDA SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "YEDİTEPE BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 72549007.0,
+    "CostOfRevenue": -54271307.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 18277700.0,
+    "NetProfit": 3251136.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5013501.0,
+      "MarketingExpenses": -2209336.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -4395393.0
+    },
+    "Tax": {
+      "Tax1": -221724.0,
+      "Tax2": 70626.0
+    },
+    "Amortization": 1128840.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ENSARİ DERİ GIDA SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

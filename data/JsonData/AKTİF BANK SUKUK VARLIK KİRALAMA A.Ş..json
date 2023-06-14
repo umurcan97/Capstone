@@ -1,0 +1,31 @@
+{
+  "Code": "AKTVK",
+  "Name": "AKTİF BANK SUKUK VARLIK KİRALAMA A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "SGD BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 440602235.0,
+    "CostOfRevenue": -443027585.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": -2425350.0,
+    "NetProfit": 91693.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -119334.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -32.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AKTİF BANK SUKUK VARLIK KİRALAMA A.Ş.(2.03.2023).xlsx"
+}

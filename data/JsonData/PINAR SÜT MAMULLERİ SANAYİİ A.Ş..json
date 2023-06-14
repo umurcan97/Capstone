@@ -1,0 +1,31 @@
+{
+  "Code": "PNSUT",
+  "Name": "PINAR SÜT MAMULLERİ SANAYİİ A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 1956252142.0,
+    "CostOfRevenue": -1731477236.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 224774906.0,
+    "NetProfit": 58754688.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -37030332.0,
+      "MarketingExpenses": -83898588.0,
+      "RD_Expenses": -11962403.0,
+      "OtherExpenses": -14015924.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -9944978.0
+    },
+    "Amortization": 21382508.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PINAR SÜT MAMULLERİ SANAYİİ A.Ş.(2.05.2023).xlsx"
+}

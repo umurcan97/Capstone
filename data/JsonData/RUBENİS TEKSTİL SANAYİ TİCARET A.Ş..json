@@ -1,0 +1,31 @@
+{
+  "Code": "RUBNS",
+  "Name": "RUBENİS TEKSTİL SANAYİ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "FİNANSAL EKSEN BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 182563201.0,
+    "CostOfRevenue": -140340610.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 42222591.0,
+    "NetProfit": 35426954.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3415619.0,
+      "MarketingExpenses": -183355.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1930708.0
+    },
+    "Tax": {
+      "Tax1": -755136.0,
+      "Tax2": 1331215.0
+    },
+    "Amortization": 3723210.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/RUBENİS TEKSTİL SANAYİ TİCARET A.Ş.(2.05.2023).xlsx"
+}

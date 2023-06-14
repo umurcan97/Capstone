@@ -1,0 +1,31 @@
+{
+  "Code": "ATATP",
+  "Name": "ATP YAZILIM VE TEKNOLOJİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 162408256.0,
+    "CostOfRevenue": -75989362.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 86418894.0,
+    "NetProfit": 41584244.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -42589591.0,
+      "MarketingExpenses": -1930689.0,
+      "RD_Expenses": -13543326.0,
+      "OtherExpenses": -7916173.0
+    },
+    "Tax": {
+      "Tax1": -378129.0,
+      "Tax2": 1795561.0
+    },
+    "Amortization": 5896491.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ATP YAZILIM VE TEKNOLOJİ A.Ş.(8.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "OPET",
+  "Name": "OPET PETROLCÜLÜK A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 179987547.0,
+    "CostOfRevenue": -174644896.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 5342651.0,
+    "NetProfit": 978993.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -967158.0,
+      "MarketingExpenses": -1436286.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2262496.0
+    },
+    "Tax": {
+      "Tax1": -100240.0,
+      "Tax2": 165364.0
+    },
+    "Amortization": 432534.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/OPET PETROLCÜLÜK A.Ş.(7.02.2023).xlsx"
+}

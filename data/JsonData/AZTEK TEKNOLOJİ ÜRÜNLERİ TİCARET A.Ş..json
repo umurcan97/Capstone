@@ -1,0 +1,31 @@
+{
+  "Code": "AZTEK",
+  "Name": "AZTEK TEKNOLOJİ ÜRÜNLERİ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 942508507.0,
+    "CostOfRevenue": -732676187.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 209832320.0,
+    "NetProfit": 138241782.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -10298166.0,
+      "MarketingExpenses": -22086906.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -666521.0
+    },
+    "Tax": {
+      "Tax1": -35823692.0,
+      "Tax2": 1584170.0
+    },
+    "Amortization": 1469476.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AZTEK TEKNOLOJİ ÜRÜNLERİ TİCARET A.Ş.(4.05.2023).xlsx"
+}

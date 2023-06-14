@@ -1,0 +1,31 @@
+{
+  "Code": "NIBAS",
+  "Name": "NİĞBAŞ NİĞDE BETON SANAYİ VE TİCARET A.Ş.",
+  "City": "NİĞDE",
+  "IndependentAuditingFirm": "BİRLEŞİK EKOL BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 12549895.0,
+    "CostOfRevenue": -10001221.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 2548674.0,
+    "NetProfit": -2407090.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2886771.0,
+      "MarketingExpenses": -453273.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -887264.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -1730832.0
+    },
+    "Amortization": 399190.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/NİĞBAŞ NİĞDE BETON SANAYİ VE TİCARET A.Ş.(28.04.2023).xlsx"
+}

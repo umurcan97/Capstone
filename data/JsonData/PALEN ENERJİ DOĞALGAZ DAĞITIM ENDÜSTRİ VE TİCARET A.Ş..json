@@ -1,0 +1,31 @@
+{
+  "Code": "PALEN",
+  "Name": "PALEN ENERJİ DOĞALGAZ DAĞITIM ENDÜSTRİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1551424168.0,
+    "CostOfRevenue": -1408420718.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 143003450.0,
+    "NetProfit": -61424776.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -30652698.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -814295.0
+    },
+    "Tax": {
+      "Tax1": -6009755.0,
+      "Tax2": 11933916.0
+    },
+    "Amortization": 13970835.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PALEN ENERJİ DOĞALGAZ DAĞITIM ENDÜSTRİ VE TİCARET A.Ş.(28.02.2023).xlsx"
+}

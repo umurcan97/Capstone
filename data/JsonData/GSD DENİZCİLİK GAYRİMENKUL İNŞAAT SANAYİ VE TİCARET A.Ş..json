@@ -1,0 +1,31 @@
+{
+  "Code": "GSDDE",
+  "Name": "GSD DENİZCİLİK GAYRİMENKUL İNŞAAT SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 38064.0,
+    "CostOfRevenue": -33814.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 4252.0,
+    "NetProfit": 2218.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5415.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1116.0
+    },
+    "Tax": {
+      "Tax1": 638.0,
+      "Tax2": -392.0
+    },
+    "Amortization": 9519.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GSD DENİZCİLİK GAYRİMENKUL İNŞAAT SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "DITAS",
+  "Name": "DİTAŞ DOĞAN YEDEK PARÇA İMALAT VE TEKNİK A.Ş.",
+  "City": "NİĞDE",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 245930751.0,
+    "CostOfRevenue": -232300275.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 13630476.0,
+    "NetProfit": -25129481.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -21573586.0,
+      "MarketingExpenses": -11209893.0,
+      "RD_Expenses": -3028829.0,
+      "OtherExpenses": -1894198.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -2868804.0
+    },
+    "Amortization": 4088555.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DİTAŞ DOĞAN YEDEK PARÇA İMALAT VE TEKNİK A.Ş.(8.05.2023).xlsx"
+}

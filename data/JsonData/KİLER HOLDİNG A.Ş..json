@@ -1,0 +1,31 @@
+{
+  "Code": "KLRHO",
+  "Name": "KİLER HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "EREN BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 207803.0,
+    "CostOfRevenue": -98869.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 108934.0,
+    "NetProfit": 334035.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -28526.0,
+      "MarketingExpenses": -2296.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -77843.0
+    },
+    "Tax": {
+      "Tax1": -37203.0,
+      "Tax2": -8245.0
+    },
+    "Amortization": 1375.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KİLER HOLDİNG A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "TEKTU",
+  "Name": "TEK-ART İNŞAAT TİCARET TURİZM SANAYİ VE YATIRIMLAR A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 2709326.0,
+    "CostOfRevenue": -1579677.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1129649.0,
+    "NetProfit": -24003271.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5890406.0,
+      "MarketingExpenses": -4441000.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -7385349.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 3690959.0
+    },
+    "Amortization": 1504122.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TEK-ART İNŞAAT TİCARET TURİZM SANAYİ VE YATIRIMLAR A.Ş.(10.05.2023).xlsx"
+}

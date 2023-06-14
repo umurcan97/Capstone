@@ -1,0 +1,31 @@
+{
+  "Code": "RTALB",
+  "Name": "RTA LABORATUVARLARI BİYOLOJİK ÜRÜNLER İLAÇ VE MAKİNE SANAYİ TİCARET A.Ş.",
+  "City": "KOCAELİ",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 15127424.0,
+    "CostOfRevenue": -8292375.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 6835049.0,
+    "NetProfit": 54867120.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3747157.0,
+      "MarketingExpenses": -1525716.0,
+      "RD_Expenses": -2666365.0,
+      "OtherExpenses": -4004144.0
+    },
+    "Tax": {
+      "Tax1": -2748788.0,
+      "Tax2": 80710.0
+    },
+    "Amortization": 1329514.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/RTA LABORATUVARLARI BİYOLOJİK ÜRÜNLER İLAÇ VE MAKİNE SANAYİ TİCARET A.Ş.(8.05.2023).xlsx"
+}

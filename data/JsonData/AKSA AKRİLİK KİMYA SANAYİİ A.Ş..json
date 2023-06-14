@@ -1,0 +1,31 @@
+{
+  "Code": "AKSA",
+  "Name": "AKSA AKRİLİK KİMYA SANAYİİ A.Ş.",
+  "City": "YALOVA",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 4263451.0,
+    "CostOfRevenue": -3383439.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 880012.0,
+    "NetProfit": 569551.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -73179.0,
+      "MarketingExpenses": -89984.0,
+      "RD_Expenses": -8746.0,
+      "OtherExpenses": -169422.0
+    },
+    "Tax": {
+      "Tax1": -164321.0,
+      "Tax2": -57183.0
+    },
+    "Amortization": 49875.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AKSA AKRİLİK KİMYA SANAYİİ A.Ş.(2.05.2023).xlsx"
+}

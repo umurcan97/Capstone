@@ -1,0 +1,31 @@
+{
+  "Code": "AGHOL",
+  "Name": "AG ANADOLU GRUBU HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 56358089.0,
+    "CostOfRevenue": -39469710.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 16888379.0,
+    "NetProfit": 2208820.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2438413.0,
+      "MarketingExpenses": -9375371.0,
+      "RD_Expenses": -21226.0,
+      "OtherExpenses": -1340462.0
+    },
+    "Tax": {
+      "Tax1": -1246143.0,
+      "Tax2": 11140.0
+    },
+    "Amortization": 1142079.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AG ANADOLU GRUBU HOLDİNG A.Ş.(5.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "ALFAS",
+  "Name": "ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "REFORM BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 1294203979.0,
+    "CostOfRevenue": -1058806564.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 235397415.0,
+    "NetProfit": 243219342.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -11385329.0,
+      "MarketingExpenses": -6789652.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -40532902.0
+    },
+    "Tax": {
+      "Tax1": -31507252.0,
+      "Tax2": -54995536.0
+    },
+    "Amortization": 679529.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

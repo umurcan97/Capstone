@@ -1,0 +1,31 @@
+{
+  "Code": "HURGZ",
+  "Name": "HÜRRİYET GAZETECİLİK VE MATBAACILIK A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "VİZYON GRUP BAĞIMSIZ DENETİM.A.Ş.",
+  "Data": {
+    "Revenue": 119463469.0,
+    "CostOfRevenue": -165935630.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": -46472161.0,
+    "NetProfit": -149607996.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -69727759.0,
+      "MarketingExpenses": -18165120.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -22168985.0
+    },
+    "Tax": {
+      "Tax1": -176256.0,
+      "Tax2": 11326650.0
+    },
+    "Amortization": 5169108.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/HÜRRİYET GAZETECİLİK VE MATBAACILIK A.Ş.(9.05.2023).xlsx"
+}

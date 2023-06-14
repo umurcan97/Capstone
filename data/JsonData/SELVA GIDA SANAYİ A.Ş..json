@@ -1,0 +1,31 @@
+{
+  "Code": "SELVA",
+  "Name": "SELVA GIDA SANAYİ A.Ş.",
+  "City": "KONYA",
+  "IndependentAuditingFirm": "TTK BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 246419998.0,
+    "CostOfRevenue": -211757205.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 34662793.0,
+    "NetProfit": 8717671.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -10547341.0,
+      "MarketingExpenses": -8588871.0,
+      "RD_Expenses": -13541.0,
+      "OtherExpenses": -2002780.0
+    },
+    "Tax": {
+      "Tax1": -1132435.0,
+      "Tax2": 593240.0
+    },
+    "Amortization": 891739.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SELVA GIDA SANAYİ A.Ş.(10.05.2023).xlsx"
+}

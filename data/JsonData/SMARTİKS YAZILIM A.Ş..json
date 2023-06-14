@@ -1,0 +1,31 @@
+{
+  "Code": "SMART",
+  "Name": "SMARTİKS YAZILIM A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "REHBER BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 19940215.0,
+    "CostOfRevenue": -3672733.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 16267482.0,
+    "NetProfit": 6574537.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3096941.0,
+      "MarketingExpenses": -165101.0,
+      "RD_Expenses": -5729299.0,
+      "OtherExpenses": -211261.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -1410922.0
+    },
+    "Amortization": 4003111.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SMARTİKS YAZILIM A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "MEKMD, MSA",
+  "Name": "MEKSA YATIRIM MENKUL DEĞERLER A.Ş.",
+  "City": "",
+  "IndependentAuditingFirm": "YEDİTEPE BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 106934551.0,
+    "CostOfRevenue": -687366.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 106247185.0,
+    "NetProfit": 19403827.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -73329782.0,
+      "MarketingExpenses": -9558780.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -6591613.0
+    },
+    "Tax": {
+      "Tax1": -6611698.0,
+      "Tax2": -696500.0
+    },
+    "Amortization": 861965.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MEKSA YATIRIM MENKUL DEĞERLER A.Ş.(9.05.2023).xlsx"
+}

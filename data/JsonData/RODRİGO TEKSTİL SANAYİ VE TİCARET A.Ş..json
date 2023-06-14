@@ -1,0 +1,31 @@
+{
+  "Code": "RODRG",
+  "Name": "RODRİGO TEKSTİL SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BAKIŞ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 8535159.0,
+    "CostOfRevenue": -4087061.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 4448098.0,
+    "NetProfit": 306454.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -649773.0,
+      "MarketingExpenses": -4565261.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -786.0
+    },
+    "Tax": {
+      "Tax1": -10008.0,
+      "Tax2": -44746.0
+    },
+    "Amortization": 400027.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/RODRİGO TEKSTİL SANAYİ VE TİCARET A.Ş.(8.05.2023).xlsx"
+}

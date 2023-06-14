@@ -1,0 +1,31 @@
+{
+  "Code": "FROTO",
+  "Name": "FORD OTOMOTİV SANAYİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 66302325.0,
+    "CostOfRevenue": -57811922.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 8490403.0,
+    "NetProfit": 5352767.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -834055.0,
+      "MarketingExpenses": -775268.0,
+      "RD_Expenses": -801003.0,
+      "OtherExpenses": -1048740.0
+    },
+    "Tax": {
+      "Tax1": -1839910.0,
+      "Tax2": 2033045.0
+    },
+    "Amortization": 294279.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/FORD OTOMOTİV SANAYİ A.Ş.(27.04.2023).xlsx"
+}

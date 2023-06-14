@@ -1,0 +1,31 @@
+{
+  "Code": "DGNMO",
+  "Name": "DOĞANLAR MOBİLYA GRUBU İMALAT SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 1116486408.0,
+    "CostOfRevenue": -723523641.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 392962767.0,
+    "NetProfit": 30013997.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -65628546.0,
+      "MarketingExpenses": -241890243.0,
+      "RD_Expenses": -10139922.0,
+      "OtherExpenses": -18291262.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -6689316.0
+    },
+    "Amortization": 28352153.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DOĞANLAR MOBİLYA GRUBU İMALAT SANAYİ VE TİCARET A.Ş.(9.05.2023).xlsx"
+}

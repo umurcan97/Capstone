@@ -1,0 +1,31 @@
+{
+  "Code": "PETKM",
+  "Name": "PETKİM PETROKİMYA HOLDİNG A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 9197862.0,
+    "CostOfRevenue": -9217361.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": -19499.0,
+    "NetProfit": 130795.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -375176.0,
+      "MarketingExpenses": -170965.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -163964.0
+    },
+    "Tax": {
+      "Tax1": -15583.0,
+      "Tax2": 87378.0
+    },
+    "Amortization": 183301.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PETKİM PETROKİMYA HOLDİNG A.Ş.(9.05.2023).xlsx"
+}

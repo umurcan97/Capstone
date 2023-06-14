@@ -1,0 +1,31 @@
+{
+  "Code": "TOASO",
+  "Name": "TOFAŞ TÜRK OTOMOBİL FABRİKASI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 18740858.0,
+    "CostOfRevenue": -15303474.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 3551972.0,
+    "NetProfit": 2433421.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -281303.0,
+      "MarketingExpenses": -536493.0,
+      "RD_Expenses": -162779.0,
+      "OtherExpenses": -1699106.0
+    },
+    "Tax": {
+      "Tax1": -893368.0,
+      "Tax2": 237764.0
+    },
+    "Amortization": 349850.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TOFAŞ TÜRK OTOMOBİL FABRİKASI A.Ş.(27.04.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "BSOKE",
+  "Name": "BATISÖKE SÖKE ÇİMENTO SANAYİİ T.A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 674877.0,
+    "CostOfRevenue": -536192.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 138685.0,
+    "NetProfit": -59569.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -16095.0,
+      "MarketingExpenses": -33694.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -39416.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 6153.0
+    },
+    "Amortization": 13826.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BATISÖKE SÖKE ÇİMENTO SANAYİİ T.A.Ş.(2.05.2023).xlsx"
+}

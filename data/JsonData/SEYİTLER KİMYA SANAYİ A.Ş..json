@@ -1,0 +1,31 @@
+{
+  "Code": "SEYKM",
+  "Name": "SEYİTLER KİMYA SANAYİ A.Ş.",
+  "City": "MANİSA",
+  "IndependentAuditingFirm": "HSY DANIŞMANLIK VE BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 36192153.0,
+    "CostOfRevenue": -25358709.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 10833444.0,
+    "NetProfit": -1739574.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3038652.0,
+      "MarketingExpenses": -4913888.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -6846222.0
+    },
+    "Tax": {
+      "Tax1": -432607.0,
+      "Tax2": 4681980.0
+    },
+    "Amortization": 481555.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SEYİTLER KİMYA SANAYİ A.Ş.(2.05.2023).xlsx"
+}

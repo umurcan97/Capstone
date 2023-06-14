@@ -1,0 +1,31 @@
+{
+  "Code": "DTYGD",
+  "Name": "DETAY GIDA SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 2044543536.0,
+    "CostOfRevenue": -1739638293.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 304905243.0,
+    "NetProfit": 82090957.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -38955855.0,
+      "MarketingExpenses": -61996028.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -49962819.0
+    },
+    "Tax": {
+      "Tax1": -4200662.0,
+      "Tax2": 1125787.0
+    },
+    "Amortization": 25480637.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DETAY GIDA SANAYİ VE TİCARET A.Ş.(8.03.2023).xlsx"
+}

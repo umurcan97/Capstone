@@ -1,0 +1,31 @@
+{
+  "Code": "PRKAB",
+  "Name": "TÜRK PRYSMİAN KABLO VE SİSTEMLERİ A.Ş.",
+  "City": "BURSA",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 2105663078.0,
+    "CostOfRevenue": -1912633675.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 193029403.0,
+    "NetProfit": 38679946.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -45623086.0,
+      "MarketingExpenses": -61105039.0,
+      "RD_Expenses": -3540938.0,
+      "OtherExpenses": -38412759.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 3352567.0
+    },
+    "Amortization": 3794348.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TÜRK PRYSMİAN KABLO VE SİSTEMLERİ A.Ş.(26.04.2023).xlsx"
+}

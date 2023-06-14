@@ -1,0 +1,31 @@
+{
+  "Code": "GWIND",
+  "Name": "GALATA WIND ENERJİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 337130632.0,
+    "CostOfRevenue": -74300897.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 262829735.0,
+    "NetProfit": 235841484.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -8984968.0,
+      "MarketingExpenses": -2300259.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2072624.0
+    },
+    "Tax": {
+      "Tax1": -32368017.0,
+      "Tax2": 7182265.0
+    },
+    "Amortization": 16848035.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GALATA WIND ENERJİ A.Ş.(3.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "MAALT",
+  "Name": "MARMARİS ALTINYUNUS TURİSTİK TESİSLER A.Ş.",
+  "City": "ANTALYA",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 1192541.0,
+    "CostOfRevenue": -1015445.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 177096.0,
+    "NetProfit": 1106142.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1555036.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -367.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 517933.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MARMARİS ALTINYUNUS TURİSTİK TESİSLER A.Ş.(28.04.2023).xlsx"
+}

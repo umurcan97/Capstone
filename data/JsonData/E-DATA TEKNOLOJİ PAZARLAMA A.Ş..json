@@ -1,0 +1,31 @@
+{
+  "Code": "EDATA",
+  "Name": "E-DATA TEKNOLOJİ PAZARLAMA A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "DENGE ANKARA BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 119942372.0,
+    "CostOfRevenue": -99795907.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 20146465.0,
+    "NetProfit": 11712827.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -8725624.0,
+      "MarketingExpenses": -3425494.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -475103.0
+    },
+    "Tax": {
+      "Tax1": -1935382.0,
+      "Tax2": -327376.0
+    },
+    "Amortization": 403679.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/E-DATA TEKNOLOJİ PAZARLAMA A.Ş.(2.05.2023).xlsx"
+}

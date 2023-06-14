@@ -1,0 +1,31 @@
+{
+  "Code": "KUVVA",
+  "Name": "KUVVA GIDA TİCARET VE SANAYİ YATIRIMLARI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "ELİT BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 3338845.0,
+    "CostOfRevenue": -2195862.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1142983.0,
+    "NetProfit": -5864334.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1683319.0,
+      "MarketingExpenses": -3273052.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -4126842.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -420536.0
+    },
+    "Amortization": 33929.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KUVVA GIDA TİCARET VE SANAYİ YATIRIMLARI A.Ş.(2.05.2023).xlsx"
+}

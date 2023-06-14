@@ -1,0 +1,31 @@
+{
+  "Code": "VESBE",
+  "Name": "VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 9787691.0,
+    "CostOfRevenue": -8420430.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1367261.0,
+    "NetProfit": 414772.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -106767.0,
+      "MarketingExpenses": -561766.0,
+      "RD_Expenses": -72067.0,
+      "OtherExpenses": -445153.0
+    },
+    "Tax": {
+      "Tax1": -97480.0,
+      "Tax2": 147186.0
+    },
+    "Amortization": 126505.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

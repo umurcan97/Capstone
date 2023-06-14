@@ -1,0 +1,31 @@
+{
+  "Code": "DOHOL",
+  "Name": "DOĞAN ŞİRKETLER GRUBU HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 4683719.0,
+    "CostOfRevenue": -3946218.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1506368.0,
+    "NetProfit": 728325.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -295926.0,
+      "MarketingExpenses": -348209.0,
+      "RD_Expenses": -24652.0,
+      "OtherExpenses": -166238.0
+    },
+    "Tax": {
+      "Tax1": -159545.0,
+      "Tax2": -13442.0
+    },
+    "Amortization": 125233.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DOĞAN ŞİRKETLER GRUBU HOLDİNG A.Ş.(9.05.2023).xlsx"
+}

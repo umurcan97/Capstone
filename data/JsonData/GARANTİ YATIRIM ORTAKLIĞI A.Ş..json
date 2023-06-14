@@ -1,0 +1,31 @@
+{
+  "Code": "GRNYO",
+  "Name": "GARANTİ YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 51836576.0,
+    "CostOfRevenue": -49454333.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 2382243.0,
+    "NetProfit": 122508.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2938694.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -515.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 64399.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GARANTİ YATIRIM ORTAKLIĞI A.Ş.(24.04.2023).xlsx"
+}

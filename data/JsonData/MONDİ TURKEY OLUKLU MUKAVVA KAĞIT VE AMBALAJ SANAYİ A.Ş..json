@@ -1,0 +1,31 @@
+{
+  "Code": "MNDTR",
+  "Name": "MONDİ TURKEY OLUKLU MUKAVVA KAĞIT VE AMBALAJ SANAYİ A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 1884489083.0,
+    "CostOfRevenue": -1606755545.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 277733538.0,
+    "NetProfit": -53240096.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -137951817.0,
+      "MarketingExpenses": -115508782.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -94615917.0
+    },
+    "Tax": {
+      "Tax1": -14956950.0,
+      "Tax2": 1415303.0
+    },
+    "Amortization": 53576797.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MONDİ TURKEY OLUKLU MUKAVVA KAĞIT VE AMBALAJ SANAYİ A.Ş.(29.05.2023).xlsx"
+}

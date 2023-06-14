@@ -1,0 +1,31 @@
+{
+  "Code": "SNGYO",
+  "Name": "SİNPAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "ARSEN BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 209119600.0,
+    "CostOfRevenue": -152905021.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 56214579.0,
+    "NetProfit": -54374917.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -26097106.0,
+      "MarketingExpenses": -52532496.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -68974794.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 1693844.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SİNPAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(10.05.2023).xlsx"
+}

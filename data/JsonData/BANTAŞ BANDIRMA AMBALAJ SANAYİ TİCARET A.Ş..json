@@ -1,0 +1,31 @@
+{
+  "Code": "BNTAS",
+  "Name": "BANTAŞ BANDIRMA AMBALAJ SANAYİ TİCARET A.Ş.",
+  "City": "BALIKESİR",
+  "IndependentAuditingFirm": "NOTE OFFİCE ULUSLARARASI BAĞIMSIZ DENETİM DANIŞMANLIK VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 150242365.0,
+    "CostOfRevenue": -130708255.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 19534110.0,
+    "NetProfit": 15310292.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3943056.0,
+      "MarketingExpenses": -3228914.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2945731.0
+    },
+    "Tax": {
+      "Tax1": -449741.0,
+      "Tax2": -263548.0
+    },
+    "Amortization": 207500.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BANTAŞ BANDIRMA AMBALAJ SANAYİ TİCARET A.Ş.(29.04.2023).xlsx"
+}

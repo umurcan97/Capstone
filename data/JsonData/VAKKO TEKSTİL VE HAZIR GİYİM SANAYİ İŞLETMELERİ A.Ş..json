@@ -1,0 +1,31 @@
+{
+  "Code": "VAKKO",
+  "Name": "VAKKO TEKSTİL VE HAZIR GİYİM SANAYİ İŞLETMELERİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 1171973531.0,
+    "CostOfRevenue": -439033018.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 732940513.0,
+    "NetProfit": 125001653.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -79496260.0,
+      "MarketingExpenses": -505676182.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -12336413.0
+    },
+    "Tax": {
+      "Tax1": -18100139.0,
+      "Tax2": -9281376.0
+    },
+    "Amortization": 48912759.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/VAKKO TEKSTİL VE HAZIR GİYİM SANAYİ İŞLETMELERİ A.Ş.(10.05.2023).xlsx"
+}

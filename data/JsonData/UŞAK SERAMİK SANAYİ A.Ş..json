@@ -1,0 +1,31 @@
+{
+  "Code": "USAK",
+  "Name": "UŞAK SERAMİK SANAYİ A.Ş.",
+  "City": "UŞAK",
+  "IndependentAuditingFirm": "DENEYİM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 397586443.0,
+    "CostOfRevenue": -325748453.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 71837990.0,
+    "NetProfit": 19938800.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -11302683.0,
+      "MarketingExpenses": -8731887.0,
+      "RD_Expenses": -2238385.0,
+      "OtherExpenses": -160519824.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 2224415.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/UŞAK SERAMİK SANAYİ A.Ş.(10.05.2023).xlsx"
+}

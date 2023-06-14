@@ -1,0 +1,31 @@
+{
+  "Code": "SONME",
+  "Name": "SÖNMEZ FİLAMENT SENTETİK İPLİK VE ELYAF SANAYİ A.Ş.",
+  "City": "BURSA",
+  "IndependentAuditingFirm": "CROWE OLGU BAĞIMSIZ DENETİM VE YMM A.Ş.",
+  "Data": {
+    "Revenue": 4765949.0,
+    "CostOfRevenue": 0.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 4765949.0,
+    "NetProfit": 3978500.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5781756.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -9045.0
+    },
+    "Tax": {
+      "Tax1": -743888.0,
+      "Tax2": -25102.0
+    },
+    "Amortization": 44692.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SÖNMEZ FİLAMENT SENTETİK İPLİK VE ELYAF SANAYİ A.Ş.(2.05.2023).xlsx"
+}

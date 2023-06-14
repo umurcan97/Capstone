@@ -1,0 +1,31 @@
+{
+  "Code": "BOBET",
+  "Name": "BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "REANDA AREN BAĞIMSIZ DENETİM VE SMMM A.Ş.",
+  "Data": {
+    "Revenue": 1620018343.0,
+    "CostOfRevenue": -1226575579.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 393442764.0,
+    "NetProfit": 270037016.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -15177378.0,
+      "MarketingExpenses": -1312927.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -80055451.0
+    },
+    "Tax": {
+      "Tax1": -87965121.0,
+      "Tax2": 8418045.0
+    },
+    "Amortization": 39085858.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.(1.05.2023).xlsx"
+}

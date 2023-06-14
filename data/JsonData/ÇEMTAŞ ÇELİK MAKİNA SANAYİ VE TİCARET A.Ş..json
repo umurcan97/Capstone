@@ -1,0 +1,31 @@
+{
+  "Code": "CEMTS",
+  "Name": "ÇEMTAŞ ÇELİK MAKİNA SANAYİ VE TİCARET A.Ş.",
+  "City": "BURSA",
+  "IndependentAuditingFirm": "SUN BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 849299799.0,
+    "CostOfRevenue": -720365951.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 128933848.0,
+    "NetProfit": 109942772.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -17675720.0,
+      "MarketingExpenses": -20561355.0,
+      "RD_Expenses": -4295439.0,
+      "OtherExpenses": -21459984.0
+    },
+    "Tax": {
+      "Tax1": -20241873.0,
+      "Tax2": 4839560.0
+    },
+    "Amortization": 7033310.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ÇEMTAŞ ÇELİK MAKİNA SANAYİ VE TİCARET A.Ş.(27.04.2023).xlsx"
+}

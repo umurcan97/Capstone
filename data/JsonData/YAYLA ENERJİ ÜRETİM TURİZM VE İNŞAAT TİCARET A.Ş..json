@@ -1,0 +1,31 @@
+{
+  "Code": "YAYLA",
+  "Name": "YAYLA ENERJİ ÜRETİM TURİZM VE İNŞAAT TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "DENEYİM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 12117102.0,
+    "CostOfRevenue": -9396952.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 2720150.0,
+    "NetProfit": 3549952.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1332153.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -186162.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 1496251.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/YAYLA ENERJİ ÜRETİM TURİZM VE İNŞAAT TİCARET A.Ş.(10.05.2023).xlsx"
+}

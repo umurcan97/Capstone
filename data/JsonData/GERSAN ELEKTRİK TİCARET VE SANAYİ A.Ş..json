@@ -1,0 +1,31 @@
+{
+  "Code": "GEREL",
+  "Name": "GERSAN ELEKTRİK TİCARET VE SANAYİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 228360139.0,
+    "CostOfRevenue": -173529372.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 54830767.0,
+    "NetProfit": 25569513.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -9031450.0,
+      "MarketingExpenses": -20967511.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -13949688.0
+    },
+    "Tax": {
+      "Tax1": -4207071.0,
+      "Tax2": 6781172.0
+    },
+    "Amortization": 779013.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GERSAN ELEKTRİK TİCARET VE SANAYİ A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "HUNER",
+  "Name": "HUN YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BM BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 92554624.0,
+    "CostOfRevenue": -80879915.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 11674709.0,
+    "NetProfit": -9839157.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -6744892.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -19222098.0
+    },
+    "Tax": {
+      "Tax1": 4115129.0,
+      "Tax2": 0.0
+    },
+    "Amortization": -32285688.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/HUN YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.(11.05.2023).xlsx"
+}

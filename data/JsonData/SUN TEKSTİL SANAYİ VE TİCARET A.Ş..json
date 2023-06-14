@@ -1,0 +1,31 @@
+{
+  "Code": "SUNTK",
+  "Name": "SUN TEKSTİL SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "HSY DANIŞMANLIK VE BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 890943533.0,
+    "CostOfRevenue": -694377058.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 196566475.0,
+    "NetProfit": 89188975.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -46298725.0,
+      "MarketingExpenses": -67347340.0,
+      "RD_Expenses": -6203410.0,
+      "OtherExpenses": -52268894.0
+    },
+    "Tax": {
+      "Tax1": -49672887.0,
+      "Tax2": -1070493.0
+    },
+    "Amortization": 8789501.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SUN TEKSTİL SANAYİ VE TİCARET A.Ş.(9.05.2023).xlsx"
+}

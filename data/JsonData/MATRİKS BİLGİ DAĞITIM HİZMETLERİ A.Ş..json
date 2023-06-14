@@ -1,0 +1,31 @@
+{
+  "Code": "MTRKS",
+  "Name": "MATRİKS BİLGİ DAĞITIM HİZMETLERİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 104319978.0,
+    "CostOfRevenue": -76852551.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 27467427.0,
+    "NetProfit": 22137978.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -6563586.0,
+      "MarketingExpenses": -710253.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -37292.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 3957185.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MATRİKS BİLGİ DAĞITIM HİZMETLERİ A.Ş.(4.05.2023).xlsx"
+}

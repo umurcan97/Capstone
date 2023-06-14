@@ -1,0 +1,31 @@
+{
+  "Code": "SELGD",
+  "Name": "SELÇUK GIDA ENDÜSTRİ İHRACAT İTHALAT A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "AKT BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 7265630.0,
+    "CostOfRevenue": -6548547.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 717083.0,
+    "NetProfit": 334925.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -509258.0,
+      "MarketingExpenses": -300520.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -138476.0
+    },
+    "Tax": {
+      "Tax1": -104116.0,
+      "Tax2": 99992.0
+    },
+    "Amortization": 101322.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SELÇUK GIDA ENDÜSTRİ İHRACAT İTHALAT A.Ş.(10.05.2023).xlsx"
+}

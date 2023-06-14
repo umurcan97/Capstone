@@ -1,0 +1,31 @@
+{
+  "Code": "ALCTL",
+  "Name": "ALCATEL LUCENT TELETAŞ TELEKOMÜNİKASYON A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 584593832.0,
+    "CostOfRevenue": -514649664.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 69944168.0,
+    "NetProfit": 96382925.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -11051479.0,
+      "MarketingExpenses": -14616121.0,
+      "RD_Expenses": -8902886.0,
+      "OtherExpenses": 0.0
+    },
+    "Tax": {
+      "Tax1": -28156142.0,
+      "Tax2": -58700644.0
+    },
+    "Amortization": 8009270.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ALCATEL LUCENT TELETAŞ TELEKOMÜNİKASYON A.Ş.(2.05.2023).xlsx"
+}

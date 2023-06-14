@@ -1,0 +1,31 @@
+{
+  "Code": "SKTAS",
+  "Name": "SÖKTAŞ TEKSTİL SANAYİ VE TİCARET A.Ş.",
+  "City": "AYDIN",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 259326208.0,
+    "CostOfRevenue": -201077018.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 73283865.0,
+    "NetProfit": -65450851.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -19681856.0,
+      "MarketingExpenses": -27289965.0,
+      "RD_Expenses": -109478.0,
+      "OtherExpenses": -5003536.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 7849427.0
+    },
+    "Amortization": 11373032.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SÖKTAŞ TEKSTİL SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

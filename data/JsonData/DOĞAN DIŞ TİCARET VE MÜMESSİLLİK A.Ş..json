@@ -1,0 +1,31 @@
+{
+  "Code": "DDTCR",
+  "Name": "DOĞAN DIŞ TİCARET VE MÜMESSİLLİK A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 1645977272.0,
+    "CostOfRevenue": -1327607301.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 318369971.0,
+    "NetProfit": 61369334.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -30209627.0,
+      "MarketingExpenses": -25759850.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -19458263.0
+    },
+    "Tax": {
+      "Tax1": -22833919.0,
+      "Tax2": -1673017.0
+    },
+    "Amortization": 5042336.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DOĞAN DIŞ TİCARET VE MÜMESSİLLİK A.Ş.(17.02.2023).xlsx"
+}

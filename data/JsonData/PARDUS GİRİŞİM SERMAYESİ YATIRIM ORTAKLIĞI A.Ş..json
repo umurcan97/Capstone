@@ -1,0 +1,31 @@
+{
+  "Code": "PRDGS",
+  "Name": "PARDUS GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 26651.0,
+    "CostOfRevenue": 0.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 26651.0,
+    "NetProfit": -988318.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1425726.0,
+      "MarketingExpenses": -95954.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -15698.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PARDUS GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.(2.05.2023).xlsx"
+}

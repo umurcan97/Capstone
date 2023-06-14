@@ -1,0 +1,31 @@
+{
+  "Code": "EGGUB",
+  "Name": "EGE GÜBRE SANAYİİ A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "REANDA AREN BAĞIMSIZ DENETİM VE SMMM A.Ş.",
+  "Data": {
+    "Revenue": 431433669.0,
+    "CostOfRevenue": -283378160.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 148055509.0,
+    "NetProfit": 64052249.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -64441120.0,
+      "MarketingExpenses": -1241496.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -4669958.0
+    },
+    "Tax": {
+      "Tax1": -9414564.0,
+      "Tax2": -8714409.0
+    },
+    "Amortization": 8657771.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EGE GÜBRE SANAYİİ A.Ş.(9.05.2023).xlsx"
+}

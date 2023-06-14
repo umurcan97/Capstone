@@ -1,0 +1,31 @@
+{
+  "Code": "ERSU",
+  "Name": "ERSU MEYVE VE GIDA SANAYİ A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "NOTE OFFİCE ULUSLARARASI BAĞIMSIZ DENETİM DANIŞMANLIK VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 11393246.0,
+    "CostOfRevenue": -10302818.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1090428.0,
+    "NetProfit": -148297.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1986978.0,
+      "MarketingExpenses": -266157.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -378182.0
+    },
+    "Tax": {
+      "Tax1": -25062.0,
+      "Tax2": 1405828.0
+    },
+    "Amortization": 755487.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ERSU MEYVE VE GIDA SANAYİ A.Ş.(2.05.2023).xlsx"
+}

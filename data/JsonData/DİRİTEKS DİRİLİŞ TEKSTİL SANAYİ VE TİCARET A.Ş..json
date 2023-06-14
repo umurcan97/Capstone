@@ -1,0 +1,31 @@
+{
+  "Code": "DIRIT",
+  "Name": "DİRİTEKS DİRİLİŞ TEKSTİL SANAYİ VE TİCARET A.Ş.",
+  "City": "ISPARTA",
+  "IndependentAuditingFirm": "AAC BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 115678.0,
+    "CostOfRevenue": 0.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 115678.0,
+    "NetProfit": 386854.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4745306.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -11378332.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 16832544.0
+    },
+    "Amortization": 443118.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DİRİTEKS DİRİLİŞ TEKSTİL SANAYİ VE TİCARET A.Ş.(25.05.2023).xlsx"
+}

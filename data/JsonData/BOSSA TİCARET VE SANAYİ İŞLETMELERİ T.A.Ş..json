@@ -1,0 +1,31 @@
+{
+  "Code": "BOSSA",
+  "Name": "BOSSA TİCARET VE SANAYİ İŞLETMELERİ T.A.Ş.",
+  "City": "ADANA",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 775096324.0,
+    "CostOfRevenue": -668390610.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 106705714.0,
+    "NetProfit": 43713263.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -18536121.0,
+      "MarketingExpenses": -52017089.0,
+      "RD_Expenses": -818600.0,
+      "OtherExpenses": -31786785.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 8251336.0
+    },
+    "Amortization": 6644995.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BOSSA TİCARET VE SANAYİ İŞLETMELERİ T.A.Ş.(28.04.2023).xlsx"
+}

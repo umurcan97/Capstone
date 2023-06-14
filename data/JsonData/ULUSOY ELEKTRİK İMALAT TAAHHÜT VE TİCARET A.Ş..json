@@ -1,0 +1,31 @@
+{
+  "Code": "ULUSE",
+  "Name": "ULUSOY ELEKTRİK İMALAT TAAHHÜT VE TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 712586825.0,
+    "CostOfRevenue": -551019843.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 161566982.0,
+    "NetProfit": 110454477.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -52067987.0,
+      "MarketingExpenses": -33513326.0,
+      "RD_Expenses": -405619.0,
+      "OtherExpenses": -4474518.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 53059541.0
+    },
+    "Amortization": 7067182.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ULUSOY ELEKTRİK İMALAT TAAHHÜT VE TİCARET A.Ş.(22.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "POLTK",
+  "Name": "POLİTEKNİK METAL SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DENGE BAĞIMSIZ DENETİM SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 86737883.0,
+    "CostOfRevenue": -57304040.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 29433843.0,
+    "NetProfit": 13609617.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -6048447.0,
+      "MarketingExpenses": -5862470.0,
+      "RD_Expenses": -1104917.0,
+      "OtherExpenses": -3109294.0
+    },
+    "Tax": {
+      "Tax1": -3782265.0,
+      "Tax2": 305534.0
+    },
+    "Amortization": 974248.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/POLİTEKNİK METAL SANAYİ VE TİCARET A.Ş.(28.04.2023).xlsx"
+}

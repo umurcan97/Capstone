@@ -1,0 +1,31 @@
+{
+  "Code": "SRVGY",
+  "Name": "SERVET GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "ARSEN BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 29031514.0,
+    "CostOfRevenue": -2501112.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 26530402.0,
+    "NetProfit": -91655096.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5203418.0,
+      "MarketingExpenses": -81831.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -6088143.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 52526.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SERVET GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(25.05.2023).xlsx"
+}

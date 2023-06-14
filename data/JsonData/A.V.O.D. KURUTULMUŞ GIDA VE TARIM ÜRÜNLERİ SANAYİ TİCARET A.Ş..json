@@ -1,0 +1,31 @@
+{
+  "Code": "AVOD",
+  "Name": "A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "HSY DANIŞMANLIK VE BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 176108451.0,
+    "CostOfRevenue": -149871512.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 26236939.0,
+    "NetProfit": 7166304.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -9419390.0,
+      "MarketingExpenses": -8123147.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -4453332.0
+    },
+    "Tax": {
+      "Tax1": -1685459.0,
+      "Tax2": -1656533.0
+    },
+    "Amortization": 799277.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş.(10.05.2023).xlsx"
+}

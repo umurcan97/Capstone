@@ -1,0 +1,31 @@
+{
+  "Code": "VESTL",
+  "Name": "VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 16915099.0,
+    "CostOfRevenue": -13316539.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 3598560.0,
+    "NetProfit": 33172.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -545709.0,
+      "MarketingExpenses": -2016135.0,
+      "RD_Expenses": -260600.0,
+      "OtherExpenses": -933876.0
+    },
+    "Tax": {
+      "Tax1": -171341.0,
+      "Tax2": 372517.0
+    },
+    "Amortization": 332682.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

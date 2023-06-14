@@ -1,0 +1,31 @@
+{
+  "Code": "FRIGO",
+  "Name": "FRİGO-PAK GIDA MADDELERİ SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "REFORM BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 133511586.0,
+    "CostOfRevenue": -106056890.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 27454696.0,
+    "NetProfit": 8009832.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -10055401.0,
+      "MarketingExpenses": -2970851.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -3648399.0
+    },
+    "Tax": {
+      "Tax1": -2964938.0,
+      "Tax2": 164644.0
+    },
+    "Amortization": 3545751.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/FRİGO-PAK GIDA MADDELERİ SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

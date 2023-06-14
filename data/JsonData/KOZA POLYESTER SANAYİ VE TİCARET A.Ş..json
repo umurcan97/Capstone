@@ -1,0 +1,31 @@
+{
+  "Code": "KOPOL",
+  "Name": "KOZA POLYESTER SANAYİ VE TİCARET A.Ş.",
+  "City": "GAZİANTEP",
+  "IndependentAuditingFirm": "",
+  "Data": {
+    "Revenue": 535015732.0,
+    "CostOfRevenue": -431644918.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 103370814.0,
+    "NetProfit": 59119724.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3627016.0,
+      "MarketingExpenses": -3805538.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -11902402.0
+    },
+    "Tax": {
+      "Tax1": -6451704.0,
+      "Tax2": -3889302.0
+    },
+    "Amortization": 9970099.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KOZA POLYESTER SANAYİ VE TİCARET A.Ş.(3.05.2023).xlsx"
+}

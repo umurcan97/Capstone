@@ -1,0 +1,31 @@
+{
+  "Code": "TBORG",
+  "Name": "TÜRK TUBORG BİRA VE MALT SANAYİİ A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1700169.0,
+    "CostOfRevenue": -879152.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 821017.0,
+    "NetProfit": 130231.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -112771.0,
+      "MarketingExpenses": -525619.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -31199.0
+    },
+    "Tax": {
+      "Tax1": -13998.0,
+      "Tax2": -50698.0
+    },
+    "Amortization": 115037.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TÜRK TUBORG BİRA VE MALT SANAYİİ A.Ş.(10.05.2023).xlsx"
+}

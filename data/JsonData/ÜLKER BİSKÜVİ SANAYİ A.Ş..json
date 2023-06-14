@@ -1,0 +1,31 @@
+{
+  "Code": "ULKER",
+  "Name": "ÜLKER BİSKÜVİ SANAYİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 10111756.0,
+    "CostOfRevenue": -6640800.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 3470956.0,
+    "NetProfit": 1153443.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -210988.0,
+      "MarketingExpenses": -991948.0,
+      "RD_Expenses": -39884.0,
+      "OtherExpenses": -207595.0
+    },
+    "Tax": {
+      "Tax1": -283647.0,
+      "Tax2": 36124.0
+    },
+    "Amortization": 78065.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ÜLKER BİSKÜVİ SANAYİ A.Ş.(9.05.2023).xlsx"
+}

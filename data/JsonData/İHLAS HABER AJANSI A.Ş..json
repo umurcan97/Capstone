@@ -1,0 +1,31 @@
+{
+  "Code": "IHAAS",
+  "Name": "İHLAS HABER AJANSI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KAİZEN BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 53347312.0,
+    "CostOfRevenue": -49972890.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 3374422.0,
+    "NetProfit": 2301341.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7456833.0,
+      "MarketingExpenses": -903462.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2509510.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -628118.0
+    },
+    "Amortization": 1204629.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İHLAS HABER AJANSI A.Ş.(2.05.2023).xlsx"
+}

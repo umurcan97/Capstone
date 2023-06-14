@@ -1,0 +1,31 @@
+{
+  "Code": "ARZUM",
+  "Name": "ARZUM ELEKTRİKLİ EV ALETLERİ SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 539173535.0,
+    "CostOfRevenue": -342448831.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 196724704.0,
+    "NetProfit": 21745295.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -34748720.0,
+      "MarketingExpenses": -86047217.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -9912036.0
+    },
+    "Tax": {
+      "Tax1": -4740387.0,
+      "Tax2": -8626870.0
+    },
+    "Amortization": 3541095.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ARZUM ELEKTRİKLİ EV ALETLERİ SANAYİ VE TİCARET A.Ş.(3.05.2023).xlsx"
+}

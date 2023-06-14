@@ -1,0 +1,31 @@
+{
+  "Code": "KSTUR",
+  "Name": "KUŞTUR KUŞADASI TURİZM ENDÜSTRİ A.Ş.",
+  "City": "AYDIN",
+  "IndependentAuditingFirm": "KAVRAM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 103411221.0,
+    "CostOfRevenue": -46444965.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 56966256.0,
+    "NetProfit": 56678373.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3902689.0,
+      "MarketingExpenses": -1232645.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -8060090.0
+    },
+    "Tax": {
+      "Tax1": -13627367.0,
+      "Tax2": -329779.0
+    },
+    "Amortization": 1882689.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KUŞTUR KUŞADASI TURİZM ENDÜSTRİ A.Ş.(1.03.2023).xlsx"
+}

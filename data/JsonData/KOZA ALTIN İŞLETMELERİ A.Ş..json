@@ -1,0 +1,31 @@
+{
+  "Code": "KOZAL",
+  "Name": "KOZA ALTIN İŞLETMELERİ A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1630616.0,
+    "CostOfRevenue": -1006646.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 623970.0,
+    "NetProfit": 1384030.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -189825.0,
+      "MarketingExpenses": -1854.0,
+      "RD_Expenses": -141569.0,
+      "OtherExpenses": -341893.0
+    },
+    "Tax": {
+      "Tax1": -129263.0,
+      "Tax2": 59580.0
+    },
+    "Amortization": 66802.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KOZA ALTIN İŞLETMELERİ A.Ş.(2.05.2023).xlsx"
+}

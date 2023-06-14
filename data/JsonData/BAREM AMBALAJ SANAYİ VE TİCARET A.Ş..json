@@ -1,0 +1,31 @@
+{
+  "Code": "BARMA",
+  "Name": "BAREM AMBALAJ SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 298193084.0,
+    "CostOfRevenue": -271350446.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 26842638.0,
+    "NetProfit": 8240933.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -14646346.0,
+      "MarketingExpenses": -15910493.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -13165527.0
+    },
+    "Tax": {
+      "Tax1": -2822438.0,
+      "Tax2": 1335622.0
+    },
+    "Amortization": 5047500.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BAREM AMBALAJ SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "GESAN",
+  "Name": "GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "DENEYİM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 1404589.0,
+    "CostOfRevenue": -863584.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 541005.0,
+    "NetProfit": 374805.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -61978.0,
+      "MarketingExpenses": -14815.0,
+      "RD_Expenses": -2884.0,
+      "OtherExpenses": -148339.0
+    },
+    "Tax": {
+      "Tax1": -25703.0,
+      "Tax2": -68537.0
+    },
+    "Amortization": 5173.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.(22.05.2023).xlsx"
+}

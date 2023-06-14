@@ -1,0 +1,31 @@
+{
+  "Code": "ESCAR",
+  "Name": "ESCAR FİLO KİRALAMA HİZMETLERİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 234818551.0,
+    "CostOfRevenue": -56204868.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 178613683.0,
+    "NetProfit": 98966732.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -15934847.0,
+      "MarketingExpenses": -3006385.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -4891652.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -19526669.0
+    },
+    "Amortization": 841146.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ESCAR FİLO KİRALAMA HİZMETLERİ A.Ş.(9.05.2023).xlsx"
+}

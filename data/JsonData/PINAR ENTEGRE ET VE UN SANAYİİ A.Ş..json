@@ -1,0 +1,31 @@
+{
+  "Code": "PETUN",
+  "Name": "PINAR ENTEGRE ET VE UN SANAYİİ A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 767101970.0,
+    "CostOfRevenue": -649923231.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 131048520.0,
+    "NetProfit": 33265780.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -24883463.0,
+      "MarketingExpenses": -41179724.0,
+      "RD_Expenses": -2528553.0,
+      "OtherExpenses": -5181244.0
+    },
+    "Tax": {
+      "Tax1": -6903424.0,
+      "Tax2": -4631864.0
+    },
+    "Amortization": 8732991.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PINAR ENTEGRE ET VE UN SANAYİİ A.Ş.(2.05.2023).xlsx"
+}

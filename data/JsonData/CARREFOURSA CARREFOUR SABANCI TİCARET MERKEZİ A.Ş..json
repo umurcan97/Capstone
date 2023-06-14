@@ -1,0 +1,31 @@
+{
+  "Code": "CRFSA",
+  "Name": "CARREFOURSA CARREFOUR SABANCI TİCARET MERKEZİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 6575329.0,
+    "CostOfRevenue": -4849531.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1725798.0,
+    "NetProfit": -206610.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -194490.0,
+      "MarketingExpenses": -1408781.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -195303.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 26938.0
+    },
+    "Amortization": 109767.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/CARREFOURSA CARREFOUR SABANCI TİCARET MERKEZİ A.Ş.(28.04.2023).xlsx"
+}

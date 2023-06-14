@@ -1,0 +1,31 @@
+{
+  "Code": "KTKVK",
+  "Name": "KT KİRA SERTİFİKALARI VARLIK KİRALAMA A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 152201894.0,
+    "CostOfRevenue": -152002133.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 210832.0,
+    "NetProfit": 61359.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -133028.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": 0.0
+    },
+    "Tax": {
+      "Tax1": -20453.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KT KİRA SERTİFİKALARI VARLIK KİRALAMA A.Ş.(28.04.2023).xlsx"
+}

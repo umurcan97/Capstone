@@ -1,0 +1,31 @@
+{
+  "Code": "MSGYO",
+  "Name": "MİSTRAL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "SUN BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 15743987.0,
+    "CostOfRevenue": -1408107.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 14335880.0,
+    "NetProfit": 57871445.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3779732.0,
+      "MarketingExpenses": -660102.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -172260.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 8101.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MİSTRAL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(2.05.2023).xlsx"
+}

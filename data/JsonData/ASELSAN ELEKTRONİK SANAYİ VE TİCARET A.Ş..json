@@ -1,0 +1,31 @@
+{
+  "Code": "ASELS",
+  "Name": "ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "YEDİTEPE BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 8297201.0,
+    "CostOfRevenue": -5783982.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 2513219.0,
+    "NetProfit": 2254298.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -415112.0,
+      "MarketingExpenses": -156459.0,
+      "RD_Expenses": -222579.0,
+      "OtherExpenses": -2332617.0
+    },
+    "Tax": {
+      "Tax1": -297.0,
+      "Tax2": 80184.0
+    },
+    "Amortization": 130834.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.(26.04.2023).xlsx"
+}

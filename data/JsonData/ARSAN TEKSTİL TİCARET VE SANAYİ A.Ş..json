@@ -1,0 +1,31 @@
+{
+  "Code": "ARSAN",
+  "Name": "ARSAN TEKSTİL TİCARET VE SANAYİ A.Ş.",
+  "City": "KAHRAMANMARAŞ",
+  "IndependentAuditingFirm": "GÜNCEL BAĞIMSIZ DENETİM DANIŞMANLIK VE YMM A.Ş.",
+  "Data": {
+    "Revenue": 1067150964.0,
+    "CostOfRevenue": -860920369.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 206230595.0,
+    "NetProfit": 533754308.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -34614718.0,
+      "MarketingExpenses": -14547329.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -74259753.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 75658772.0
+    },
+    "Amortization": 10810536.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ARSAN TEKSTİL TİCARET VE SANAYİ A.Ş.(10.05.2023).xlsx"
+}

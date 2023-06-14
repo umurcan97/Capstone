@@ -1,0 +1,31 @@
+{
+  "Code": "KRSTL",
+  "Name": "KRİSTAL KOLA VE MEŞRUBAT SANAYİ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "MİTRA BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 252170559.0,
+    "CostOfRevenue": -226098904.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 26071655.0,
+    "NetProfit": 17431962.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4230319.0,
+      "MarketingExpenses": -1573820.0,
+      "RD_Expenses": -133146.0,
+      "OtherExpenses": -3509976.0
+    },
+    "Tax": {
+      "Tax1": -1975980.0,
+      "Tax2": -2437006.0
+    },
+    "Amortization": 732405.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KRİSTAL KOLA VE MEŞRUBAT SANAYİ TİCARET A.Ş.(9.05.2023).xlsx"
+}

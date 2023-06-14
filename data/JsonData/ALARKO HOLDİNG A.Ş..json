@@ -1,0 +1,31 @@
+{
+  "Code": "ALARK",
+  "Name": "ALARKO HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BDO DENET BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 1391095190.0,
+    "CostOfRevenue": -1144183548.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 246911642.0,
+    "NetProfit": 1858133465.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -160390704.0,
+      "MarketingExpenses": -6605613.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -175404930.0
+    },
+    "Tax": {
+      "Tax1": -68829228.0,
+      "Tax2": -26004824.0
+    },
+    "Amortization": 16283558.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ALARKO HOLDİNG A.Ş.(9.05.2023).xlsx"
+}

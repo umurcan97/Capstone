@@ -1,0 +1,31 @@
+{
+  "Code": "MANAS",
+  "Name": "MANAS ENERJİ YÖNETİMİ SANAYİ VE TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "VEZİN BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 45183258.0,
+    "CostOfRevenue": -22907375.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 22275883.0,
+    "NetProfit": 4967473.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7376928.0,
+      "MarketingExpenses": -3788195.0,
+      "RD_Expenses": -809423.0,
+      "OtherExpenses": -5680777.0
+    },
+    "Tax": {
+      "Tax1": -848998.0,
+      "Tax2": -561561.0
+    },
+    "Amortization": 481281.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MANAS ENERJİ YÖNETİMİ SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

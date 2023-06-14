@@ -1,0 +1,31 @@
+{
+  "Code": "HTTBT",
+  "Name": "HİTİT BİLGİSAYAR HİZMETLERİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 119571872.0,
+    "CostOfRevenue": -60426709.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 59145163.0,
+    "NetProfit": 36049344.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -17853626.0,
+      "MarketingExpenses": -11361193.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -5463831.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 2054828.0
+    },
+    "Amortization": 10410461.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/HİTİT BİLGİSAYAR HİZMETLERİ A.Ş.(9.05.2023).xlsx"
+}

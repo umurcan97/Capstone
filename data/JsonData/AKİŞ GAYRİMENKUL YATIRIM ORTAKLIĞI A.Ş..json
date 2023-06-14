@@ -1,0 +1,31 @@
+{
+  "Code": "AKSGY",
+  "Name": "AKİŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 307111087.0,
+    "CostOfRevenue": -83063410.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 224047677.0,
+    "NetProfit": 107211441.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -26861722.0,
+      "MarketingExpenses": -2461103.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -4191201.0
+    },
+    "Tax": {
+      "Tax1": -339588.0,
+      "Tax2": -787346.0
+    },
+    "Amortization": 1058134.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AKİŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(8.05.2023).xlsx"
+}

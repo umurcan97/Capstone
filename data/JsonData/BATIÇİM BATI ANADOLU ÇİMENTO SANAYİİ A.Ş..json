@@ -1,0 +1,31 @@
+{
+  "Code": "BTCIM",
+  "Name": "BATIÇİM BATI ANADOLU ÇİMENTO SANAYİİ A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 2075895.0,
+    "CostOfRevenue": -1712102.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 363793.0,
+    "NetProfit": 18271.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -52569.0,
+      "MarketingExpenses": -65204.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -98223.0
+    },
+    "Tax": {
+      "Tax1": -23721.0,
+      "Tax2": 13629.0
+    },
+    "Amortization": 22395.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BATIÇİM BATI ANADOLU ÇİMENTO SANAYİİ A.Ş.(10.05.2023).xlsx"
+}

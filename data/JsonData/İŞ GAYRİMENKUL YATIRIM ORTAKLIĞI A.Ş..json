@@ -1,0 +1,31 @@
+{
+  "Code": "ISGYO",
+  "Name": "İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 188795169.0,
+    "CostOfRevenue": -33505628.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 155289541.0,
+    "NetProfit": 13094779.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -26906640.0,
+      "MarketingExpenses": -7128194.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1597641.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 683347.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(2.05.2023).xlsx"
+}

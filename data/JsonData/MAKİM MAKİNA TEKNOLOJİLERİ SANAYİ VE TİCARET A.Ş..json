@@ -1,0 +1,31 @@
+{
+  "Code": "MAKIM",
+  "Name": "MAKİM MAKİNA TEKNOLOJİLERİ SANAYİ VE TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "VEZİN BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 116371827.0,
+    "CostOfRevenue": -67032016.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 49339811.0,
+    "NetProfit": 17722218.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3793615.0,
+      "MarketingExpenses": -5423027.0,
+      "RD_Expenses": -1560031.0,
+      "OtherExpenses": -582272.0
+    },
+    "Tax": {
+      "Tax1": -3612019.0,
+      "Tax2": -18353292.0
+    },
+    "Amortization": 197768.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MAKİM MAKİNA TEKNOLOJİLERİ SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

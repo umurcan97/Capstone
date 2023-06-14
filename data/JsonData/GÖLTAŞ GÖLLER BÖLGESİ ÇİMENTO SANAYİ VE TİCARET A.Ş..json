@@ -1,0 +1,31 @@
+{
+  "Code": "GOLTS",
+  "Name": "GÖLTAŞ GÖLLER BÖLGESİ ÇİMENTO SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BDO DENET BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 962136095.0,
+    "CostOfRevenue": -672377440.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 289758655.0,
+    "NetProfit": 113655207.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -23106498.0,
+      "MarketingExpenses": -89544252.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -145354301.0
+    },
+    "Tax": {
+      "Tax1": -25347112.0,
+      "Tax2": 17822972.0
+    },
+    "Amortization": 3459680.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GÖLTAŞ GÖLLER BÖLGESİ ÇİMENTO SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

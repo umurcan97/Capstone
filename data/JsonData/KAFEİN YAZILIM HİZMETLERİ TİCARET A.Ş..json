@@ -1,0 +1,31 @@
+{
+  "Code": "KFEIN",
+  "Name": "KAFEİN YAZILIM HİZMETLERİ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KAVRAM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 162347124.0,
+    "CostOfRevenue": -114964611.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 47382513.0,
+    "NetProfit": 2984521.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -18391261.0,
+      "MarketingExpenses": -5729306.0,
+      "RD_Expenses": -2940772.0,
+      "OtherExpenses": -3373874.0
+    },
+    "Tax": {
+      "Tax1": -1567533.0,
+      "Tax2": 2282039.0
+    },
+    "Amortization": 3083066.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KAFEİN YAZILIM HİZMETLERİ TİCARET A.Ş.(10.05.2023).xlsx"
+}

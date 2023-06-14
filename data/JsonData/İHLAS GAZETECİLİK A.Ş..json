@@ -1,0 +1,31 @@
+{
+  "Code": "IHGZT",
+  "Name": "İHLAS GAZETECİLİK A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "İRFAN BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 171904598.0,
+    "CostOfRevenue": -148228826.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 23675772.0,
+    "NetProfit": 7224962.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -12602294.0,
+      "MarketingExpenses": -16923415.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -366999.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -1558899.0
+    },
+    "Amortization": 2440124.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İHLAS GAZETECİLİK A.Ş.(2.05.2023).xlsx"
+}

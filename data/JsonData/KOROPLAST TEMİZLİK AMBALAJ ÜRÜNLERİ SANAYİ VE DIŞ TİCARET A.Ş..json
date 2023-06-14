@@ -1,0 +1,31 @@
+{
+  "Code": "KRPLS",
+  "Name": "KOROPLAST TEMİZLİK AMBALAJ ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 131884950.0,
+    "CostOfRevenue": -93415268.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 38469682.0,
+    "NetProfit": 358814.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -10202717.0,
+      "MarketingExpenses": -25833854.0,
+      "RD_Expenses": -8432.0,
+      "OtherExpenses": -1737181.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 3357232.0
+    },
+    "Amortization": 4105296.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KOROPLAST TEMİZLİK AMBALAJ ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş.(2.05.2023).xlsx"
+}

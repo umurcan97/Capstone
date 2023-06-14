@@ -1,0 +1,31 @@
+{
+  "Code": "ERBOS",
+  "Name": "ERBOSAN ERCİYAS BORU SANAYİİ VE TİCARET A.Ş.",
+  "City": "KAYSERİ",
+  "IndependentAuditingFirm": "FİNANSAL EKSEN BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 613634915.0,
+    "CostOfRevenue": -518266119.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 95368796.0,
+    "NetProfit": 71411728.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5782881.0,
+      "MarketingExpenses": -35261722.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -11192725.0
+    },
+    "Tax": {
+      "Tax1": -6199894.0,
+      "Tax2": -2847937.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ERBOSAN ERCİYAS BORU SANAYİİ VE TİCARET A.Ş.(9.05.2023).xlsx"
+}

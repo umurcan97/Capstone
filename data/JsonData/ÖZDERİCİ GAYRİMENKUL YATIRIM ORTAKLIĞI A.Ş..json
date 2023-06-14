@@ -1,0 +1,31 @@
+{
+  "Code": "OZGYO",
+  "Name": "ÖZDERİCİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "REPORT BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 16201130.0,
+    "CostOfRevenue": -6654000.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 9547130.0,
+    "NetProfit": 10110432.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4189809.0,
+      "MarketingExpenses": -1513123.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -55439.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 126610.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ÖZDERİCİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(28.04.2023).xlsx"
+}

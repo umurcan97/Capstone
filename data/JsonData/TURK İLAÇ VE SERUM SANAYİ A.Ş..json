@@ -1,0 +1,31 @@
+{
+  "Code": "TRILC",
+  "Name": "TURK İLAÇ VE SERUM SANAYİ A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "DENEYİM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 337086666.0,
+    "CostOfRevenue": -278928642.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 58158024.0,
+    "NetProfit": 8959035.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -16889707.0,
+      "MarketingExpenses": -7033683.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -7754270.0
+    },
+    "Tax": {
+      "Tax1": -2782735.0,
+      "Tax2": -153738.0
+    },
+    "Amortization": 2486354.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TURK İLAÇ VE SERUM SANAYİ A.Ş.(2.05.2023).xlsx"
+}

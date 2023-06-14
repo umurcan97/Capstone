@@ -1,0 +1,31 @@
+{
+  "Code": "EGPRO",
+  "Name": "EGE PROFİL TİCARET VE SANAYİ A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 1504020068.0,
+    "CostOfRevenue": -873052711.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 630967357.0,
+    "NetProfit": 351324383.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -81061488.0,
+      "MarketingExpenses": -117645144.0,
+      "RD_Expenses": -2333950.0,
+      "OtherExpenses": -67701251.0
+    },
+    "Tax": {
+      "Tax1": -87795822.0,
+      "Tax2": -97247.0
+    },
+    "Amortization": 13764664.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EGE PROFİL TİCARET VE SANAYİ A.Ş.(9.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "CWENE",
+  "Name": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.",
+  "City": "ANTALYA",
+  "IndependentAuditingFirm": "YEDİTEPE BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1645443584.0,
+    "CostOfRevenue": -1348088948.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 297354636.0,
+    "NetProfit": 99028856.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -31808426.0,
+      "MarketingExpenses": -35524650.0,
+      "RD_Expenses": -2146931.0,
+      "OtherExpenses": -167299845.0
+    },
+    "Tax": {
+      "Tax1": -74546038.0,
+      "Tax2": 66536168.0
+    },
+    "Amortization": 12127220.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.(18.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "RNPOL",
+  "Name": "RAİNBOW POLİKARBONAT SANAYİ TİCARET A.Ş.",
+  "City": "KAYSERİ",
+  "IndependentAuditingFirm": "NOTE OFFİCE ULUSLARARASI BAĞIMSIZ DENETİM DANIŞMANLIK VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 135656220.0,
+    "CostOfRevenue": -112629001.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 23027219.0,
+    "NetProfit": 5923454.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4013221.0,
+      "MarketingExpenses": -1107731.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1532640.0
+    },
+    "Tax": {
+      "Tax1": -505126.0,
+      "Tax2": 34371.0
+    },
+    "Amortization": 454841.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/RAİNBOW POLİKARBONAT SANAYİ TİCARET A.Ş.(9.05.2023).xlsx"
+}

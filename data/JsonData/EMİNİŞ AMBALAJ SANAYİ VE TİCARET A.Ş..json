@@ -1,0 +1,31 @@
+{
+  "Code": "EMNIS",
+  "Name": "EMİNİŞ AMBALAJ SANAYİ VE TİCARET A.Ş.",
+  "City": "KOCAELİ",
+  "IndependentAuditingFirm": "ELİT BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 59788706.0,
+    "CostOfRevenue": -44970191.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 14818515.0,
+    "NetProfit": 6429745.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3048433.0,
+      "MarketingExpenses": -2822128.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -9634499.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -1671986.0
+    },
+    "Amortization": 1420490.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EMİNİŞ AMBALAJ SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

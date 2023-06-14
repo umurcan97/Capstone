@@ -1,0 +1,31 @@
+{
+  "Code": "ROYAL",
+  "Name": "ROYAL HALI İPLİK TEKSTİL MOBİLYA SANAYİ VE TİCARET A.Ş.",
+  "City": "GAZİANTEP",
+  "IndependentAuditingFirm": "İRFAN BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 525862008.0,
+    "CostOfRevenue": -438518374.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 87343634.0,
+    "NetProfit": 3432343.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -52708247.0,
+      "MarketingExpenses": -66351384.0,
+      "RD_Expenses": -6770032.0,
+      "OtherExpenses": -177470434.0
+    },
+    "Tax": {
+      "Tax1": -17498451.0,
+      "Tax2": -26658805.0
+    },
+    "Amortization": 33618670.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ROYAL HALI İPLİK TEKSTİL MOBİLYA SANAYİ VE TİCARET A.Ş.(4.04.2023).xlsx"
+}

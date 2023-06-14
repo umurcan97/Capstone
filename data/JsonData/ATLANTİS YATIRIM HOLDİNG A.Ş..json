@@ -1,0 +1,31 @@
+{
+  "Code": "ATSYH",
+  "Name": "ATLANTİS YATIRIM HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "TTK BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 20206773.0,
+    "CostOfRevenue": -16811380.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 3395393.0,
+    "NetProfit": 2309003.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -702305.0,
+      "MarketingExpenses": -2500.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1523159.0
+    },
+    "Tax": {
+      "Tax1": -727297.0,
+      "Tax2": -83490.0
+    },
+    "Amortization": 37247.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ATLANTİS YATIRIM HOLDİNG A.Ş.(10.05.2023).xlsx"
+}

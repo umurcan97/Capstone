@@ -1,0 +1,31 @@
+{
+  "Code": "MOBTL",
+  "Name": "MOBİLTEL İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BDO DENET BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 1260682100.0,
+    "CostOfRevenue": -1108888487.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 151793613.0,
+    "NetProfit": 76886047.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -14529614.0,
+      "MarketingExpenses": -33873720.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -17514586.0
+    },
+    "Tax": {
+      "Tax1": -13378568.0,
+      "Tax2": -1003093.0
+    },
+    "Amortization": 3844270.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MOBİLTEL İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

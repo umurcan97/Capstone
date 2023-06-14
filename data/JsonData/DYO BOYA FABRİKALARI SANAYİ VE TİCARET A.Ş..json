@@ -1,0 +1,31 @@
+{
+  "Code": "DYOBY",
+  "Name": "DYO BOYA FABRİKALARI SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 1236637451.0,
+    "CostOfRevenue": -877789631.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 358847820.0,
+    "NetProfit": 38506336.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -54594923.0,
+      "MarketingExpenses": -116260741.0,
+      "RD_Expenses": -22224441.0,
+      "OtherExpenses": -59527457.0
+    },
+    "Tax": {
+      "Tax1": 33624.0,
+      "Tax2": -9784371.0
+    },
+    "Amortization": 15289063.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DYO BOYA FABRİKALARI SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

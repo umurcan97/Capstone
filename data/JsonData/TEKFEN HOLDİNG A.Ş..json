@@ -1,0 +1,31 @@
+{
+  "Code": "TKFEN",
+  "Name": "TEKFEN HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 9253906.0,
+    "CostOfRevenue": -8467200.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 786706.0,
+    "NetProfit": -373582.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -285714.0,
+      "MarketingExpenses": -415622.0,
+      "RD_Expenses": -10868.0,
+      "OtherExpenses": -526872.0
+    },
+    "Tax": {
+      "Tax1": -335801.0,
+      "Tax2": -3578.0
+    },
+    "Amortization": 121515.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TEKFEN HOLDİNG A.Ş.(27.04.2023).xlsx"
+}

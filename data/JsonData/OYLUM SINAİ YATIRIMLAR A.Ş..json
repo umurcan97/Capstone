@@ -1,0 +1,31 @@
+{
+  "Code": "OYLUM",
+  "Name": "OYLUM SINAİ YATIRIMLAR A.Ş.",
+  "City": "KAYSERİ",
+  "IndependentAuditingFirm": "REHBER BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 105991721.0,
+    "CostOfRevenue": -76818598.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 29173123.0,
+    "NetProfit": 26944025.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2861609.0,
+      "MarketingExpenses": -3848363.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1925651.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 2370606.0
+    },
+    "Amortization": 666205.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/OYLUM SINAİ YATIRIMLAR A.Ş.(2.05.2023).xlsx"
+}

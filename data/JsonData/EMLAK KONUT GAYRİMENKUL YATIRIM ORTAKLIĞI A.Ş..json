@@ -1,0 +1,31 @@
+{
+  "Code": "EKGYO",
+  "Name": "EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 4037039.0,
+    "CostOfRevenue": -1967126.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 2069913.0,
+    "NetProfit": 881120.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1040142.0,
+      "MarketingExpenses": -57843.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -262495.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 400.0
+    },
+    "Amortization": 6180.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(9.05.2023).xlsx"
+}

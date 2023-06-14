@@ -1,0 +1,31 @@
+{
+  "Code": "KATMR",
+  "Name": "KATMERCİLER ARAÇ ÜSTÜ EKİPMAN SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "AKSİS ULUSLARARASI BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 225863393.0,
+    "CostOfRevenue": -121668351.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 104195042.0,
+    "NetProfit": 25312067.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -14660533.0,
+      "MarketingExpenses": -15300316.0,
+      "RD_Expenses": -1219282.0,
+      "OtherExpenses": -28318109.0
+    },
+    "Tax": {
+      "Tax1": -1095296.0,
+      "Tax2": 172467.0
+    },
+    "Amortization": 1024356.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KATMERCİLER ARAÇ ÜSTÜ EKİPMAN SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

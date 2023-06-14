@@ -1,0 +1,31 @@
+{
+  "Code": "IZINV",
+  "Name": "İZ YATIRIM HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "SGD BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 5379275.0,
+    "CostOfRevenue": -5379275.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 0.0,
+    "NetProfit": -1817484.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1131365.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -751637.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -282158.0
+    },
+    "Amortization": 387161.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İZ YATIRIM HOLDİNG A.Ş.(9.05.2023).xlsx"
+}

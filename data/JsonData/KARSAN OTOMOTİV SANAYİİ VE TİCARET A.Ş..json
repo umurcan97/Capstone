@@ -1,0 +1,31 @@
+{
+  "Code": "KARSN",
+  "Name": "KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.",
+  "City": "BURSA",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1175680.0,
+    "CostOfRevenue": -919244.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 270267.0,
+    "NetProfit": 32733.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -55108.0,
+      "MarketingExpenses": -69255.0,
+      "RD_Expenses": -4896.0,
+      "OtherExpenses": -2739.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 21118.0
+    },
+    "Amortization": 21017.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.(14.04.2023).xlsx"
+}

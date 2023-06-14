@@ -1,0 +1,31 @@
+{
+  "Code": "VBTYZ",
+  "Name": "VBT YAZILIM A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KAVRAM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 766417236.0,
+    "CostOfRevenue": -727400943.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 39016293.0,
+    "NetProfit": 17466507.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4916505.0,
+      "MarketingExpenses": -523705.0,
+      "RD_Expenses": -14716565.0,
+      "OtherExpenses": -2134271.0
+    },
+    "Tax": {
+      "Tax1": -2782682.0,
+      "Tax2": 779250.0
+    },
+    "Amortization": 1625433.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/VBT YAZILIM A.Ş.(9.05.2023).xlsx"
+}

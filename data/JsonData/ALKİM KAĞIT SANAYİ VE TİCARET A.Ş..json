@@ -1,0 +1,31 @@
+{
+  "Code": "ALKA",
+  "Name": "ALKİM KAĞIT SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 365446609.0,
+    "CostOfRevenue": -327337039.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 38109570.0,
+    "NetProfit": 17533433.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -9779618.0,
+      "MarketingExpenses": -8282172.0,
+      "RD_Expenses": -107491.0,
+      "OtherExpenses": -13985561.0
+    },
+    "Tax": {
+      "Tax1": -5994439.0,
+      "Tax2": -4172548.0
+    },
+    "Amortization": 1197630.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ALKİM KAĞIT SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

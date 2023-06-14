@@ -1,0 +1,31 @@
+{
+  "Code": "DARDL",
+  "Name": "DARDANEL ÖNENTAŞ GIDA SANAYİ A.Ş.",
+  "City": "ÇANAKKALE",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1003535825.0,
+    "CostOfRevenue": -737492613.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 266043212.0,
+    "NetProfit": -23799504.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -55457524.0,
+      "MarketingExpenses": -162798628.0,
+      "RD_Expenses": -3722916.0,
+      "OtherExpenses": -24481897.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 2744515.0
+    },
+    "Amortization": 6153753.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DARDANEL ÖNENTAŞ GIDA SANAYİ A.Ş.(10.05.2023).xlsx"
+}

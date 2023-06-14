@@ -1,0 +1,31 @@
+{
+  "Code": "FENER",
+  "Name": "FENERBAHÇE FUTBOL A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1480792219.0,
+    "CostOfRevenue": -1637846144.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": -157053925.0,
+    "NetProfit": 31815924.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -46922515.0,
+      "MarketingExpenses": -108117104.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -142327530.0
+    },
+    "Tax": {
+      "Tax1": -11111028.0,
+      "Tax2": -3588539.0
+    },
+    "Amortization": 84478216.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/FENERBAHÇE FUTBOL A.Ş.(10.04.2023).xlsx"
+}

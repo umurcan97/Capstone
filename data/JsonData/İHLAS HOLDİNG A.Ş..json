@@ -1,0 +1,31 @@
+{
+  "Code": "IHLAS",
+  "Name": "İHLAS HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "İRFAN BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 964063138.0,
+    "CostOfRevenue": -750806337.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 213256801.0,
+    "NetProfit": 59320236.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -135657949.0,
+      "MarketingExpenses": -43927344.0,
+      "RD_Expenses": -936235.0,
+      "OtherExpenses": -12777572.0
+    },
+    "Tax": {
+      "Tax1": -19968693.0,
+      "Tax2": 1026378.0
+    },
+    "Amortization": 11149968.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İHLAS HOLDİNG A.Ş.(10.05.2023).xlsx"
+}

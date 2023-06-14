@@ -1,0 +1,31 @@
+{
+  "Code": "GMTAS",
+  "Name": "GİMAT MAĞAZACILIK SANAYİ VE TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "DENEYİM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 321180434.0,
+    "CostOfRevenue": -260418884.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 60761550.0,
+    "NetProfit": 24955202.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7858011.0,
+      "MarketingExpenses": -21721905.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -509122.0
+    },
+    "Tax": {
+      "Tax1": -7440656.0,
+      "Tax2": 208524.0
+    },
+    "Amortization": 1323857.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GİMAT MAĞAZACILIK SANAYİ VE TİCARET A.Ş.(3.05.2023).xlsx"
+}

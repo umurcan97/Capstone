@@ -1,0 +1,31 @@
+{
+  "Code": "LUKSK",
+  "Name": "LÜKS KADİFE TİCARET VE SANAYİİ A.Ş.",
+  "City": "KAYSERİ",
+  "IndependentAuditingFirm": "ÇÖZÜM ÜNLÜER BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 75611297.0,
+    "CostOfRevenue": -51762743.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 23848554.0,
+    "NetProfit": 9085465.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -9041858.0,
+      "MarketingExpenses": -6013987.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1503253.0
+    },
+    "Tax": {
+      "Tax1": -744334.0,
+      "Tax2": -51939.0
+    },
+    "Amortization": 2027517.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/LÜKS KADİFE TİCARET VE SANAYİİ A.Ş.(10.05.2023).xlsx"
+}

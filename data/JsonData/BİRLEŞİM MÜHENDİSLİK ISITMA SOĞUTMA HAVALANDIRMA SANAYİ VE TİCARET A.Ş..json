@@ -1,0 +1,31 @@
+{
+  "Code": "BRLSM",
+  "Name": "BİRLEŞİM MÜHENDİSLİK ISITMA SOĞUTMA HAVALANDIRMA SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "YEDİTEPE BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 562174553.0,
+    "CostOfRevenue": -490144523.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 72030030.0,
+    "NetProfit": 56481427.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -23856398.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -37258415.0
+    },
+    "Tax": {
+      "Tax1": -795652.0,
+      "Tax2": -15200380.0
+    },
+    "Amortization": 1012462.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BİRLEŞİM MÜHENDİSLİK ISITMA SOĞUTMA HAVALANDIRMA SANAYİ VE TİCARET A.Ş.(4.05.2023).xlsx"
+}

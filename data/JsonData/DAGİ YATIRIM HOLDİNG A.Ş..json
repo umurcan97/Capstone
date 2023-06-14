@@ -1,0 +1,31 @@
+{
+  "Code": "DAGHL",
+  "Name": "DAGİ YATIRIM HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 107124494.0,
+    "CostOfRevenue": -104579483.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 2545011.0,
+    "NetProfit": 377172.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2595253.0,
+      "MarketingExpenses": -86292.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -391426.0
+    },
+    "Tax": {
+      "Tax1": -773948.0,
+      "Tax2": -62293.0
+    },
+    "Amortization": 577914.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DAGİ YATIRIM HOLDİNG A.Ş.(10.05.2023).xlsx"
+}

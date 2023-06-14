@@ -1,0 +1,31 @@
+{
+  "Code": "ORCAY",
+  "Name": "ORÇAY ORTAKÖY ÇAY SANAYİ VE TİCARET A.Ş.",
+  "City": "RİZE",
+  "IndependentAuditingFirm": "DENEYİM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 55657453.0,
+    "CostOfRevenue": -37679836.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 17977617.0,
+    "NetProfit": 6118862.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1797293.0,
+      "MarketingExpenses": -1841852.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -851481.0
+    },
+    "Tax": {
+      "Tax1": -1672433.0,
+      "Tax2": -349254.0
+    },
+    "Amortization": 570267.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ORÇAY ORTAKÖY ÇAY SANAYİ VE TİCARET A.Ş.(5.05.2023).xlsx"
+}

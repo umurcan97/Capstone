@@ -1,0 +1,31 @@
+{
+  "Code": "NTGAZ",
+  "Name": "NATURELGAZ SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 855430781.0,
+    "CostOfRevenue": -734340865.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 121089916.0,
+    "NetProfit": 57596295.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -15088993.0,
+      "MarketingExpenses": -29931067.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -71059.0
+    },
+    "Tax": {
+      "Tax1": -12430412.0,
+      "Tax2": -18920575.0
+    },
+    "Amortization": 15431370.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/NATURELGAZ SANAYİ VE TİCARET A.Ş.(28.04.2023).xlsx"
+}

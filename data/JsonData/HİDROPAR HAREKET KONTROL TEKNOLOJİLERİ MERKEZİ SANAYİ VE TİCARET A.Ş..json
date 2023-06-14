@@ -1,0 +1,31 @@
+{
+  "Code": "HKTM",
+  "Name": "HİDROPAR HAREKET KONTROL TEKNOLOJİLERİ MERKEZİ SANAYİ VE TİCARET A.Ş.",
+  "City": "KOCAELİ",
+  "IndependentAuditingFirm": "NOTE OFFİCE ULUSLARARASI BAĞIMSIZ DENETİM DANIŞMANLIK VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 58382087.0,
+    "CostOfRevenue": -32561715.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 25820372.0,
+    "NetProfit": 1817082.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -16909618.0,
+      "MarketingExpenses": -5850230.0,
+      "RD_Expenses": -793001.0,
+      "OtherExpenses": -2550836.0
+    },
+    "Tax": {
+      "Tax1": -821885.0,
+      "Tax2": 797978.0
+    },
+    "Amortization": 669709.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/HİDROPAR HAREKET KONTROL TEKNOLOJİLERİ MERKEZİ SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "AYDEM",
+  "Name": "AYDEM YENİLENEBİLİR ENERJİ A.Ş.",
+  "City": "DENİZLİ",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 817279503.0,
+    "CostOfRevenue": -567451842.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 249827661.0,
+    "NetProfit": -417042135.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -79115428.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -15172755.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 92382991.0
+    },
+    "Amortization": 194619658.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AYDEM YENİLENEBİLİR ENERJİ A.Ş.(9.05.2023).xlsx"
+}

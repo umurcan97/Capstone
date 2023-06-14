@@ -1,0 +1,31 @@
+{
+  "Code": "LKMNH",
+  "Name": "LOKMAN HEKİM ENGÜRÜSAĞ SAĞLIK TURİZM EĞİTİM HİZMETLERİ VE İNŞAAT TAAHHÜT A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "VEZİN BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 306454332.0,
+    "CostOfRevenue": -243922018.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 62532314.0,
+    "NetProfit": 35524563.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -13472452.0,
+      "MarketingExpenses": -6000156.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -7191193.0
+    },
+    "Tax": {
+      "Tax1": -1843148.0,
+      "Tax2": 15334926.0
+    },
+    "Amortization": 7208242.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/LOKMAN HEKİM ENGÜRÜSAĞ SAĞLIK TURİZM EĞİTİM HİZMETLERİ VE İNŞAAT TAAHHÜT A.Ş.(22.05.2023).xlsx"
+}

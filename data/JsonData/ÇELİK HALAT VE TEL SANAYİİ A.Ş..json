@@ -1,0 +1,31 @@
+{
+  "Code": "CELHA",
+  "Name": "ÇELİK HALAT VE TEL SANAYİİ A.Ş.",
+  "City": "KOCAELİ",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 324785546.0,
+    "CostOfRevenue": -295008820.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 29776726.0,
+    "NetProfit": -20571547.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -17877036.0,
+      "MarketingExpenses": -18016666.0,
+      "RD_Expenses": -807679.0,
+      "OtherExpenses": -6985693.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -2420722.0
+    },
+    "Amortization": 4244552.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ÇELİK HALAT VE TEL SANAYİİ A.Ş.(10.05.2023).xlsx"
+}

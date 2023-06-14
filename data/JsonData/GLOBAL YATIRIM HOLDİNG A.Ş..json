@@ -1,0 +1,31 @@
+{
+  "Code": "GLYHO",
+  "Name": "GLOBAL YATIRIM HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 1882262615.0,
+    "CostOfRevenue": -1482159824.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 569953330.0,
+    "NetProfit": 257800733.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -290846699.0,
+      "MarketingExpenses": -87949183.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -96270969.0
+    },
+    "Tax": {
+      "Tax1": -27659724.0,
+      "Tax2": -22828114.0
+    },
+    "Amortization": 172420699.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GLOBAL YATIRIM HOLDİNG A.Ş.(10.05.2023).xlsx"
+}

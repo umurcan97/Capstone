@@ -1,0 +1,31 @@
+{
+  "Code": "EREGL",
+  "Name": "EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 26273984.0,
+    "CostOfRevenue": -25148401.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1125583.0,
+    "NetProfit": 65919.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -527161.0,
+      "MarketingExpenses": -187274.0,
+      "RD_Expenses": -32017.0,
+      "OtherExpenses": -782682.0
+    },
+    "Tax": {
+      "Tax1": -93961.0,
+      "Tax2": 173957.0
+    },
+    "Amortization": 782075.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.(2.05.2023).xlsx"
+}

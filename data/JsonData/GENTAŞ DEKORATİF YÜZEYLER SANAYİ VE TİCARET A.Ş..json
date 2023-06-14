@@ -1,0 +1,31 @@
+{
+  "Code": "GENTS",
+  "Name": "GENTAŞ DEKORATİF YÜZEYLER SANAYİ VE TİCARET A.Ş.",
+  "City": "BOLU",
+  "IndependentAuditingFirm": "BDO DENET BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 424310080.0,
+    "CostOfRevenue": -347559410.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 76750670.0,
+    "NetProfit": 5253991.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -28493644.0,
+      "MarketingExpenses": -22583846.0,
+      "RD_Expenses": -1842219.0,
+      "OtherExpenses": -10826601.0
+    },
+    "Tax": {
+      "Tax1": -4132756.0,
+      "Tax2": -4886606.0
+    },
+    "Amortization": 4270448.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GENTAŞ DEKORATİF YÜZEYLER SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

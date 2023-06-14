@@ -1,0 +1,31 @@
+{
+  "Code": "BMSTL",
+  "Name": "BMS BİRLEŞİK METAL SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "ATA ULUSLARARASI BAĞIMSIZ DENETİM VE SMMM A.Ş.",
+  "Data": {
+    "Revenue": 291578658.0,
+    "CostOfRevenue": -257169184.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 34409474.0,
+    "NetProfit": 14339432.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -6058251.0,
+      "MarketingExpenses": -19013175.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -3183480.0
+    },
+    "Tax": {
+      "Tax1": -793525.0,
+      "Tax2": -293988.0
+    },
+    "Amortization": 4276190.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BMS BİRLEŞİK METAL SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

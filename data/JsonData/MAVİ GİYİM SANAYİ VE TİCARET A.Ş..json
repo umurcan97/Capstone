@@ -1,0 +1,31 @@
+{
+  "Code": "MAVI",
+  "Name": "MAVİ GİYİM SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 3946553.0,
+    "CostOfRevenue": -1984643.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1961910.0,
+    "NetProfit": 515034.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -220438.0,
+      "MarketingExpenses": -973916.0,
+      "RD_Expenses": -33166.0,
+      "OtherExpenses": -16720.0
+    },
+    "Tax": {
+      "Tax1": -127710.0,
+      "Tax2": 19599.0
+    },
+    "Amortization": 103232.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MAVİ GİYİM SANAYİ VE TİCARET A.Ş.(8.06.2023).xlsx"
+}

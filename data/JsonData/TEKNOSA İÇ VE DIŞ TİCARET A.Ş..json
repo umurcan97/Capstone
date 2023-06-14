@@ -1,0 +1,31 @@
+{
+  "Code": "TKNSA",
+  "Name": "TEKNOSA İÇ VE DIŞ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 6621574.0,
+    "CostOfRevenue": -5559583.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1061991.0,
+    "NetProfit": 141991.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -66907.0,
+      "MarketingExpenses": -575225.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -153158.0
+    },
+    "Tax": {
+      "Tax1": -22062.0,
+      "Tax2": 3281.0
+    },
+    "Amortization": 42751.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TEKNOSA İÇ VE DIŞ TİCARET A.Ş.(2.05.2023).xlsx"
+}

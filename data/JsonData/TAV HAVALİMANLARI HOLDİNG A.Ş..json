@@ -1,0 +1,31 @@
+{
+  "Code": "TAVHL",
+  "Name": "TAV HAVALİMANLARI HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 5059550.0,
+    "CostOfRevenue": -3527602.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1531948.0,
+    "NetProfit": -888333.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1068799.0,
+      "MarketingExpenses": -27689.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -99528.0
+    },
+    "Tax": {
+      "Tax1": -301213.0,
+      "Tax2": 36244.0
+    },
+    "Amortization": 269359.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TAV HAVALİMANLARI HOLDİNG A.Ş.(25.04.2023).xlsx"
+}

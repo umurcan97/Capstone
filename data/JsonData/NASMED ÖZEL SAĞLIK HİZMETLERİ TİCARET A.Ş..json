@@ -1,0 +1,31 @@
+{
+  "Code": "EGEPO",
+  "Name": "NASMED ÖZEL SAĞLIK HİZMETLERİ TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "LİSANS BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 93070551.0,
+    "CostOfRevenue": -59834018.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 33236533.0,
+    "NetProfit": 5200304.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7821820.0,
+      "MarketingExpenses": -1391354.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -22632978.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 495676.0
+    },
+    "Amortization": 5141635.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/NASMED ÖZEL SAĞLIK HİZMETLERİ TİCARET A.Ş.(2.05.2023).xlsx"
+}

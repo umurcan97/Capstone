@@ -1,0 +1,31 @@
+{
+  "Code": "ENKAI",
+  "Name": "ENKA İNŞAAT VE SANAYİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 17489259.0,
+    "CostOfRevenue": -14072366.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 3416893.0,
+    "NetProfit": 3983863.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1296362.0,
+      "MarketingExpenses": -119056.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -175140.0
+    },
+    "Tax": {
+      "Tax1": -547838.0,
+      "Tax2": 119711.0
+    },
+    "Amortization": 335600.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ENKA İNŞAAT VE SANAYİ A.Ş.(9.05.2023).xlsx"
+}

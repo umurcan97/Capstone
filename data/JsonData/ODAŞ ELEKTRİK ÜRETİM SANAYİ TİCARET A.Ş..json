@@ -1,0 +1,31 @@
+{
+  "Code": "ODAS",
+  "Name": "ODAŞ ELEKTRİK ÜRETİM SANAYİ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "AS BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1626827926.0,
+    "CostOfRevenue": -1262549630.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 364278296.0,
+    "NetProfit": 456832160.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -38278228.0,
+      "MarketingExpenses": -17503250.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -32131225.0
+    },
+    "Tax": {
+      "Tax1": -21140254.0,
+      "Tax2": 90145192.0
+    },
+    "Amortization": 52549020.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ODAŞ ELEKTRİK ÜRETİM SANAYİ TİCARET A.Ş.(10.05.2023).xlsx"
+}

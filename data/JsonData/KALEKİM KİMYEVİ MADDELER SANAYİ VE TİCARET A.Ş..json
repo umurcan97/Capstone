@@ -1,0 +1,31 @@
+{
+  "Code": "KLKIM",
+  "Name": "KALEKİM KİMYEVİ MADDELER SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 602197975.0,
+    "CostOfRevenue": -377564132.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 224633843.0,
+    "NetProfit": 101352121.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -50236051.0,
+      "MarketingExpenses": -64185798.0,
+      "RD_Expenses": -2121328.0,
+      "OtherExpenses": -38044423.0
+    },
+    "Tax": {
+      "Tax1": -18460537.0,
+      "Tax2": -1692502.0
+    },
+    "Amortization": 6084548.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KALEKİM KİMYEVİ MADDELER SANAYİ VE TİCARET A.Ş.(1.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "TEZOL",
+  "Name": "EUROPAP TEZOL KAĞIT SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 704204088.0,
+    "CostOfRevenue": -503480902.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 200723186.0,
+    "NetProfit": 63641060.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -20282667.0,
+      "MarketingExpenses": -51638169.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -15729989.0
+    },
+    "Tax": {
+      "Tax1": -60721347.0,
+      "Tax2": -4734521.0
+    },
+    "Amortization": 3297251.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EUROPAP TEZOL KAĞIT SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

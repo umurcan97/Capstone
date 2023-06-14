@@ -1,0 +1,31 @@
+{
+  "Code": "MACKO",
+  "Name": "MACKOLİK İNTERNET HİZMETLERİ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "RAM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 52957899.0,
+    "CostOfRevenue": -15436277.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 37521622.0,
+    "NetProfit": 20325496.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -6153953.0,
+      "MarketingExpenses": -8077354.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1188695.0
+    },
+    "Tax": {
+      "Tax1": -4664465.0,
+      "Tax2": 291354.0
+    },
+    "Amortization": 2411551.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MACKOLİK İNTERNET HİZMETLERİ TİCARET A.Ş.(9.05.2023).xlsx"
+}

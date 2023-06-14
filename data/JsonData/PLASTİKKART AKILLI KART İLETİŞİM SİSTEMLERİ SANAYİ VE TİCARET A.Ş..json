@@ -1,0 +1,31 @@
+{
+  "Code": "PKART",
+  "Name": "PLASTİKKART AKILLI KART İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BDO DENET BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 142652681.0,
+    "CostOfRevenue": -134242963.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 8409718.0,
+    "NetProfit": -2808055.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7652820.0,
+      "MarketingExpenses": -1130270.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -3129954.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 551539.0
+    },
+    "Amortization": 518519.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PLASTİKKART AKILLI KART İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET A.Ş.(20.04.2023).xlsx"
+}

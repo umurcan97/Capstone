@@ -1,0 +1,31 @@
+{
+  "Code": "EPLAS",
+  "Name": "EGEPLAST EGE PLASTİK TİCARET VE SANAYİ A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "EREN BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 266147378.0,
+    "CostOfRevenue": -197392922.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 68754456.0,
+    "NetProfit": 20420090.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -14937985.0,
+      "MarketingExpenses": -26094431.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -15622576.0
+    },
+    "Tax": {
+      "Tax1": -3215266.0,
+      "Tax2": -3675296.0
+    },
+    "Amortization": 1898310.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EGEPLAST EGE PLASTİK TİCARET VE SANAYİ A.Ş.(11.05.2023).xlsx"
+}

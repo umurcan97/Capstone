@@ -1,0 +1,31 @@
+{
+  "Code": "LINK",
+  "Name": "LİNK BİLGİSAYAR SİSTEMLERİ YAZILIMI VE DONANIMI SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "HSY DANIŞMANLIK VE BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 8577178.0,
+    "CostOfRevenue": -1229985.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 7347193.0,
+    "NetProfit": 3292939.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2782586.0,
+      "MarketingExpenses": -1317942.0,
+      "RD_Expenses": -992446.0,
+      "OtherExpenses": -249149.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -1387515.0
+    },
+    "Amortization": 809584.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/LİNK BİLGİSAYAR SİSTEMLERİ YAZILIMI VE DONANIMI SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

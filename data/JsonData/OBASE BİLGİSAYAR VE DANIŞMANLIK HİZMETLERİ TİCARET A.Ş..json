@@ -1,0 +1,31 @@
+{
+  "Code": "OBASE",
+  "Name": "OBASE BİLGİSAYAR VE DANIŞMANLIK HİZMETLERİ TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KAVRAM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 56573828.0,
+    "CostOfRevenue": -51981168.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 4592660.0,
+    "NetProfit": 2924653.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -6963535.0,
+      "MarketingExpenses": -4532455.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1707443.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 2708580.0
+    },
+    "Amortization": 2819073.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/OBASE BİLGİSAYAR VE DANIŞMANLIK HİZMETLERİ TİCARET A.Ş.(9.05.2023).xlsx"
+}

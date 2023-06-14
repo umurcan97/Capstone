@@ -1,0 +1,31 @@
+{
+  "Code": "GEDZA",
+  "Name": "GEDİZ AMBALAJ SANAYİ VE TİCARET A.Ş.",
+  "City": "KÜTAHYA",
+  "IndependentAuditingFirm": "REHBER BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 80690946.0,
+    "CostOfRevenue": -59580164.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 21110782.0,
+    "NetProfit": 19424197.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4549659.0,
+      "MarketingExpenses": -1653139.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1667525.0
+    },
+    "Tax": {
+      "Tax1": -803279.0,
+      "Tax2": -341457.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/GEDİZ AMBALAJ SANAYİ VE TİCARET A.Ş.(9.05.2023).xlsx"
+}

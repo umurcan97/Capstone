@@ -1,0 +1,31 @@
+{
+  "Code": "KRTEK",
+  "Name": "KARSU TEKSTİL SANAYİİ VE TİCARET A.Ş.",
+  "City": "KAYSERİ",
+  "IndependentAuditingFirm": "YKY BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 304819508.0,
+    "CostOfRevenue": -264068290.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 40751218.0,
+    "NetProfit": 15493800.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -8041258.0,
+      "MarketingExpenses": -12993131.0,
+      "RD_Expenses": -437112.0,
+      "OtherExpenses": -33868007.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -1843036.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/KARSU TEKSTİL SANAYİİ VE TİCARET A.Ş.(1.05.2023).xlsx"
+}

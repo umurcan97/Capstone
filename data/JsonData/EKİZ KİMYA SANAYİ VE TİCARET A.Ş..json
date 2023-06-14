@@ -1,0 +1,31 @@
+{
+  "Code": "EKIZ",
+  "Name": "EKİZ KİMYA SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "HLB SAYGIN BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 33641644.0,
+    "CostOfRevenue": -32661480.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 980164.0,
+    "NetProfit": -6228821.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2491111.0,
+      "MarketingExpenses": -1180491.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1464118.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 19313.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EKİZ KİMYA SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

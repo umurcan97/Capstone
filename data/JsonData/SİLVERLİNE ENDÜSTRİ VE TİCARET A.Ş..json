@@ -1,0 +1,31 @@
+{
+  "Code": "SILVR",
+  "Name": "SİLVERLİNE ENDÜSTRİ VE TİCARET A.Ş.",
+  "City": "AMASYA",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 425948197.0,
+    "CostOfRevenue": -398408174.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 27540023.0,
+    "NetProfit": -11188329.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -14339965.0,
+      "MarketingExpenses": -407371.0,
+      "RD_Expenses": -8856654.0,
+      "OtherExpenses": -66020591.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -10514378.0
+    },
+    "Amortization": 4955941.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SİLVERLİNE ENDÜSTRİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

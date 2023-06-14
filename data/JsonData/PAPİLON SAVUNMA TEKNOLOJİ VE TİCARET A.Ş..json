@@ -1,0 +1,31 @@
+{
+  "Code": "PAPIL",
+  "Name": "PAPİLON SAVUNMA TEKNOLOJİ VE TİCARET A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 8048569.0,
+    "CostOfRevenue": -4148821.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 3899748.0,
+    "NetProfit": 48747410.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -3686176.0,
+      "MarketingExpenses": -1520621.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -198109.0
+    },
+    "Tax": {
+      "Tax1": -353294.0,
+      "Tax2": -10733333.0
+    },
+    "Amortization": 700626.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PAPİLON SAVUNMA TEKNOLOJİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

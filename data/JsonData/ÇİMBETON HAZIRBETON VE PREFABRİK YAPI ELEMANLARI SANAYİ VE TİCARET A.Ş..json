@@ -1,0 +1,31 @@
+{
+  "Code": "CMBTN",
+  "Name": "ÇİMBETON HAZIRBETON VE PREFABRİK YAPI ELEMANLARI SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "BDO DENET BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 450389753.0,
+    "CostOfRevenue": -430104804.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 20284949.0,
+    "NetProfit": -8111886.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -17749545.0,
+      "MarketingExpenses": -1735347.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2615428.0
+    },
+    "Tax": {
+      "Tax1": -385534.0,
+      "Tax2": 1260781.0
+    },
+    "Amortization": 10350956.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ÇİMBETON HAZIRBETON VE PREFABRİK YAPI ELEMANLARI SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "IHLGM",
+  "Name": "İHLAS GAYRİMENKUL PROJE GELİŞTİRME VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "İRFAN BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 71669217.0,
+    "CostOfRevenue": -54227915.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 17441302.0,
+    "NetProfit": -42904906.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -20450877.0,
+      "MarketingExpenses": -6850618.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -3185057.0
+    },
+    "Tax": {
+      "Tax1": -3603939.0,
+      "Tax2": 7853924.0
+    },
+    "Amortization": 639867.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İHLAS GAYRİMENKUL PROJE GELİŞTİRME VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

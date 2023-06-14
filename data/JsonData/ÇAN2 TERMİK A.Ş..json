@@ -1,0 +1,31 @@
+{
+  "Code": "CANTE",
+  "Name": "ÇAN2 TERMİK A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "AS BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1226475685.0,
+    "CostOfRevenue": -973295052.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 253180633.0,
+    "NetProfit": 471267202.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -14382761.0,
+      "MarketingExpenses": -1322864.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -14168550.0
+    },
+    "Tax": {
+      "Tax1": -4615524.0,
+      "Tax2": 68769474.0
+    },
+    "Amortization": 48943268.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ÇAN2 TERMİK A.Ş.(10.05.2023).xlsx"
+}

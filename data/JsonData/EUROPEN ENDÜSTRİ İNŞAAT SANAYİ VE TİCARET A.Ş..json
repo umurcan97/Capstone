@@ -1,0 +1,31 @@
+{
+  "Code": "EUREN",
+  "Name": "EUROPEN ENDÜSTRİ İNŞAAT SANAYİ VE TİCARET A.Ş.",
+  "City": "ESKİŞEHİR",
+  "IndependentAuditingFirm": "C&Ç BAĞIMSIZ DENETİM VE YÖNETİM DANIŞMANLIĞI A.Ş.",
+  "Data": {
+    "Revenue": 679833675.0,
+    "CostOfRevenue": -597485354.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 82348321.0,
+    "NetProfit": 59151146.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -12029294.0,
+      "MarketingExpenses": -23190199.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -25645092.0
+    },
+    "Tax": {
+      "Tax1": -2339407.0,
+      "Tax2": -1465135.0
+    },
+    "Amortization": 4291204.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/EUROPEN ENDÜSTRİ İNŞAAT SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

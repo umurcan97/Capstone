@@ -1,0 +1,31 @@
+{
+  "Code": "AKFGY",
+  "Name": "AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 60192353.0,
+    "CostOfRevenue": -2466609.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 57725744.0,
+    "NetProfit": -86642910.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5077047.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -64723.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 562228.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.(8.05.2023).xlsx"
+}

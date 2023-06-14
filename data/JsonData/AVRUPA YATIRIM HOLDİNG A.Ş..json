@@ -1,0 +1,31 @@
+{
+  "Code": "AVHOL",
+  "Name": "AVRUPA YATIRIM HOLDİNG A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "ULUSAL BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 26656420.0,
+    "CostOfRevenue": -7540365.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 19116055.0,
+    "NetProfit": 11417311.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2599528.0,
+      "MarketingExpenses": -3000.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -79834.0
+    },
+    "Tax": {
+      "Tax1": -3134563.0,
+      "Tax2": -1129346.0
+    },
+    "Amortization": 1007070.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/AVRUPA YATIRIM HOLDİNG A.Ş.(10.05.2023).xlsx"
+}

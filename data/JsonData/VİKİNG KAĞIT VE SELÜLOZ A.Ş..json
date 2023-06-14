@@ -1,0 +1,31 @@
+{
+  "Code": "VKING",
+  "Name": "VİKİNG KAĞIT VE SELÜLOZ A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "KPMG BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 197561301.0,
+    "CostOfRevenue": -168250411.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 29310890.0,
+    "NetProfit": -42010430.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -10130430.0,
+      "MarketingExpenses": -22522355.0,
+      "RD_Expenses": -1320747.0,
+      "OtherExpenses": -11724038.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -1530053.0
+    },
+    "Amortization": 4533383.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/VİKİNG KAĞIT VE SELÜLOZ A.Ş.(2.05.2023).xlsx"
+}

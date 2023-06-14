@@ -1,0 +1,31 @@
+{
+  "Code": "OYAYO",
+  "Name": "OYAK YATIRIM ORTAKLIĞI A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 90803625.0,
+    "CostOfRevenue": -82674503.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 8129122.0,
+    "NetProfit": 6361841.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1250851.0,
+      "MarketingExpenses": -516428.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 0.0
+    },
+    "Amortization": 17088.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/OYAK YATIRIM ORTAKLIĞI A.Ş.(2.05.2023).xlsx"
+}

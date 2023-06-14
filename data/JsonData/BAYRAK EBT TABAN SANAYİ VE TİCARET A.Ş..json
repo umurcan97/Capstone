@@ -1,0 +1,31 @@
+{
+  "Code": "BAYRK",
+  "Name": "BAYRAK EBT TABAN SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "MERCEK BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 55534804.0,
+    "CostOfRevenue": -44830610.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 10704194.0,
+    "NetProfit": 3407093.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5289874.0,
+      "MarketingExpenses": -127570.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2044022.0
+    },
+    "Tax": {
+      "Tax1": -534373.0,
+      "Tax2": 14765.0
+    },
+    "Amortization": 1090825.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BAYRAK EBT TABAN SANAYİ VE TİCARET A.Ş.(18.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "YEOTK",
+  "Name": "YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GÜRELİ YEMİNLİ MALİ MÜŞAVİRLİK VE BAĞIMSIZ DENETİM HİZMETLERİ A.Ş.",
+  "Data": {
+    "Revenue": 542658935.0,
+    "CostOfRevenue": -435946133.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 106712802.0,
+    "NetProfit": 58377239.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -12818079.0,
+      "MarketingExpenses": -9623324.0,
+      "RD_Expenses": -1047480.0,
+      "OtherExpenses": -31139795.0
+    },
+    "Tax": {
+      "Tax1": -13374.0,
+      "Tax2": -22939972.0
+    },
+    "Amortization": 575981.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "SNPAM",
+  "Name": "SÖNMEZ PAMUKLU SANAYİİ A.Ş.",
+  "City": "BURSA",
+  "IndependentAuditingFirm": "CROWE OLGU BAĞIMSIZ DENETİM VE YMM A.Ş.",
+  "Data": {
+    "Revenue": 101628038.0,
+    "CostOfRevenue": -76931153.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 24696885.0,
+    "NetProfit": 9624109.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -11052668.0,
+      "MarketingExpenses": -692599.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2672627.0
+    },
+    "Tax": {
+      "Tax1": -2326061.0,
+      "Tax2": -492272.0
+    },
+    "Amortization": 1665888.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SÖNMEZ PAMUKLU SANAYİİ A.Ş.(2.05.2023).xlsx"
+}

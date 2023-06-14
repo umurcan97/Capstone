@@ -1,0 +1,31 @@
+{
+  "Code": "UZERB",
+  "Name": "UZERTAŞ BOYA SANAYİ TİCARET VE YATIRIM A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "MEGA GLOBAL ULUSLARARASI BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 14612586.0,
+    "CostOfRevenue": -5016128.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 9596458.0,
+    "NetProfit": 24400953.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1898082.0,
+      "MarketingExpenses": -1723577.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -61272.0
+    },
+    "Tax": {
+      "Tax1": -770216.0,
+      "Tax2": -939625.0
+    },
+    "Amortization": 262888.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/UZERTAŞ BOYA SANAYİ TİCARET VE YATIRIM A.Ş.(15.02.2023).xlsx"
+}

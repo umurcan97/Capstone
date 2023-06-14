@@ -1,0 +1,31 @@
+{
+  "Code": "FONET",
+  "Name": "FONET BİLGİ TEKNOLOJİLERİ A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "EREN BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 41004378.0,
+    "CostOfRevenue": -26793845.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 14210533.0,
+    "NetProfit": 9763597.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -5020683.0,
+      "MarketingExpenses": -533680.0,
+      "RD_Expenses": -35885.0,
+      "OtherExpenses": -495726.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -1694060.0
+    },
+    "Amortization": 2947252.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/FONET BİLGİ TEKNOLOJİLERİ A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "SDTTR",
+  "Name": "SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "RAM BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 95440136.0,
+    "CostOfRevenue": -56128146.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 39311990.0,
+    "NetProfit": 21622470.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -20509982.0,
+      "MarketingExpenses": -5981194.0,
+      "RD_Expenses": -762925.0,
+      "OtherExpenses": -8521107.0
+    },
+    "Tax": {
+      "Tax1": -21472351.0,
+      "Tax2": 3141003.0
+    },
+    "Amortization": 2552926.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "SASA",
+  "Name": "SASA POLYESTER SANAYİ A.Ş.",
+  "City": "ADANA",
+  "IndependentAuditingFirm": "DRT BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 8129603.0,
+    "CostOfRevenue": -7139660.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 989943.0,
+    "NetProfit": 2495972.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -77727.0,
+      "MarketingExpenses": -245850.0,
+      "RD_Expenses": -633.0,
+      "OtherExpenses": -1315293.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 3493659.0
+    },
+    "Amortization": 68657.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SASA POLYESTER SANAYİ A.Ş.(5.05.2023).xlsx"
+}

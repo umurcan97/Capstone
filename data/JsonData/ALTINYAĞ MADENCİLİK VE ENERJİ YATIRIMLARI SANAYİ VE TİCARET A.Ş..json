@@ -1,0 +1,31 @@
+{
+  "Code": "ALMAD",
+  "Name": "ALTINYAĞ MADENCİLİK VE ENERJİ YATIRIMLARI SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "RSM TURKEY ARKAN ERGİN ULUSLARARASI BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 42146555.0,
+    "CostOfRevenue": -33154209.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 8992346.0,
+    "NetProfit": 16676793.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7110383.0,
+      "MarketingExpenses": -77955.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -21177.0
+    },
+    "Tax": {
+      "Tax1": -4577624.0,
+      "Tax2": 118526.0
+    },
+    "Amortization": 2166086.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ALTINYAĞ MADENCİLİK VE ENERJİ YATIRIMLARI SANAYİ VE TİCARET A.Ş.(18.05.2023).xlsx"
+}

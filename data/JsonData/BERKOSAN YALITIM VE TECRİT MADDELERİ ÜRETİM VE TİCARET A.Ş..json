@@ -1,0 +1,31 @@
+{
+  "Code": "BRKSN",
+  "Name": "BERKOSAN YALITIM VE TECRİT MADDELERİ ÜRETİM VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "RSM TURKEY ARKAN ERGİN ULUSLARARASI BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 101729277.0,
+    "CostOfRevenue": -69581253.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 32148024.0,
+    "NetProfit": 10376869.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7255393.0,
+      "MarketingExpenses": -10899648.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2426184.0
+    },
+    "Tax": {
+      "Tax1": -1985000.0,
+      "Tax2": -227411.0
+    },
+    "Amortization": 925097.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BERKOSAN YALITIM VE TECRİT MADDELERİ ÜRETİM VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "IMASM",
+  "Name": "İMAŞ MAKİNA SANAYİ A.Ş.",
+  "City": "KONYA",
+  "IndependentAuditingFirm": "TTK BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 204717637.0,
+    "CostOfRevenue": -147373300.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 57344337.0,
+    "NetProfit": 28837584.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -15040044.0,
+      "MarketingExpenses": -13885827.0,
+      "RD_Expenses": -1716067.0,
+      "OtherExpenses": -6237755.0
+    },
+    "Tax": {
+      "Tax1": -2996458.0,
+      "Tax2": -2643935.0
+    },
+    "Amortization": 1465936.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İMAŞ MAKİNA SANAYİ A.Ş.(10.05.2023).xlsx"
+}

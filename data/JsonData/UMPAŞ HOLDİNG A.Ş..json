@@ -1,0 +1,31 @@
+{
+  "Code": "UMPAS",
+  "Name": "UMPAŞ HOLDİNG A.Ş.",
+  "City": "UŞAK",
+  "IndependentAuditingFirm": "GÜNCEL BAĞIMSIZ DENETİM DANIŞMANLIK VE YMM A.Ş.",
+  "Data": {
+    "Revenue": 41218784.0,
+    "CostOfRevenue": -18033109.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 23185675.0,
+    "NetProfit": -18965880.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -9189519.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -39433282.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 6518632.0
+    },
+    "Amortization": 1136351.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/UMPAŞ HOLDİNG A.Ş.(13.03.2023).xlsx"
+}

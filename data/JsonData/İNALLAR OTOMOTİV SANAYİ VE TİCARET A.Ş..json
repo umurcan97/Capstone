@@ -1,0 +1,31 @@
+{
+  "Code": "INALR",
+  "Name": "İNALLAR OTOMOTİV SANAYİ VE TİCARET A.Ş.",
+  "City": "BURSA",
+  "IndependentAuditingFirm": "KARAR BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 1804467195.0,
+    "CostOfRevenue": -1629751397.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 174715798.0,
+    "NetProfit": 123961313.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -11086197.0,
+      "MarketingExpenses": -77150453.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -9481122.0
+    },
+    "Tax": {
+      "Tax1": -1394101.0,
+      "Tax2": 15431535.0
+    },
+    "Amortization": 22884766.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İNALLAR OTOMOTİV SANAYİ VE TİCARET A.Ş.(28.02.2023).xlsx"
+}

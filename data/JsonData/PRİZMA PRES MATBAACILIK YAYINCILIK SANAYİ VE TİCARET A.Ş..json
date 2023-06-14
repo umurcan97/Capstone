@@ -1,0 +1,31 @@
+{
+  "Code": "PRZMA",
+  "Name": "PRİZMA PRES MATBAACILIK YAYINCILIK SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "GRC BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 13724666.0,
+    "CostOfRevenue": -12271102.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 1453564.0,
+    "NetProfit": -648152.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -762238.0,
+      "MarketingExpenses": -305877.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1642824.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -109224.0
+    },
+    "Amortization": 141682.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PRİZMA PRES MATBAACILIK YAYINCILIK SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

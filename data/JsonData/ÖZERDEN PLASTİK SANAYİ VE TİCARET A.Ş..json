@@ -1,0 +1,31 @@
+{
+  "Code": "OZRDN",
+  "Name": "ÖZERDEN PLASTİK SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "BDO DENET BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 117626476.0,
+    "CostOfRevenue": -58623213.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 59003263.0,
+    "NetProfit": 29864500.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -8027937.0,
+      "MarketingExpenses": -12773735.0,
+      "RD_Expenses": -423418.0,
+      "OtherExpenses": -2111360.0
+    },
+    "Tax": {
+      "Tax1": -7150347.0,
+      "Tax2": 77552.0
+    },
+    "Amortization": 1487719.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ÖZERDEN PLASTİK SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

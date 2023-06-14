@@ -1,0 +1,31 @@
+{
+  "Code": "MEGAP",
+  "Name": "MEGA POLİETİLEN KÖPÜK SANAYİ VE TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "HSY DANIŞMANLIK VE BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 441508403.0,
+    "CostOfRevenue": -371505105.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 70003298.0,
+    "NetProfit": 41319748.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -7862961.0,
+      "MarketingExpenses": -2477749.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -28181812.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -7152758.0
+    },
+    "Amortization": 1642760.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MEGA POLİETİLEN KÖPÜK SANAYİ VE TİCARET A.Ş.(10.05.2023).xlsx"
+}

@@ -1,0 +1,31 @@
+{
+  "Code": "CONSE",
+  "Name": "CONSUS ENERJİ İŞLETMECİLİĞİ VE HİZMETLERİ A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PKF ADAY BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 172028850.0,
+    "CostOfRevenue": -140558816.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 31470034.0,
+    "NetProfit": 1554026.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -21743668.0,
+      "MarketingExpenses": 0.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -2414447.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 3573829.0
+    },
+    "Amortization": 13486977.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/CONSUS ENERJİ İŞLETMECİLİĞİ VE HİZMETLERİ A.Ş.(9.05.2023).xlsx"
+}

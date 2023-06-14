@@ -1,0 +1,31 @@
+{
+  "Code": "IPEKE",
+  "Name": "İPEK DOĞAL ENERJİ KAYNAKLARI ARAŞTIRMA VE ÜRETİM A.Ş.",
+  "City": "ANKARA",
+  "IndependentAuditingFirm": "GÜNEY BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 1704213.0,
+    "CostOfRevenue": -1086074.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 618139.0,
+    "NetProfit": 1394027.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -197842.0,
+      "MarketingExpenses": -2005.0,
+      "RD_Expenses": -147858.0,
+      "OtherExpenses": -347751.0
+    },
+    "Tax": {
+      "Tax1": -135177.0,
+      "Tax2": 58401.0
+    },
+    "Amortization": 72574.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/İPEK DOĞAL ENERJİ KAYNAKLARI ARAŞTIRMA VE ÜRETİM A.Ş.(2.05.2023).xlsx"
+}

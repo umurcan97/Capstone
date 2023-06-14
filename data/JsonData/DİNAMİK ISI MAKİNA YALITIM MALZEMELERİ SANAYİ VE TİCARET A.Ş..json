@@ -1,0 +1,31 @@
+{
+  "Code": "DNISI",
+  "Name": "DİNAMİK ISI MAKİNA YALITIM MALZEMELERİ SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "HSY DANIŞMANLIK VE BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 62270087.0,
+    "CostOfRevenue": -53019378.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 9250709.0,
+    "NetProfit": 2671313.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -1523611.0,
+      "MarketingExpenses": -3921454.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -1637118.0
+    },
+    "Tax": {
+      "Tax1": -51524.0,
+      "Tax2": -403244.0
+    },
+    "Amortization": 628133.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/DİNAMİK ISI MAKİNA YALITIM MALZEMELERİ SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

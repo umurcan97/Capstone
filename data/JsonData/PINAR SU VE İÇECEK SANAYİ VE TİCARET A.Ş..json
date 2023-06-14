@@ -1,0 +1,31 @@
+{
+  "Code": "PINSU",
+  "Name": "PINAR SU VE İÇECEK SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 171293315.0,
+    "CostOfRevenue": -97174911.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 74118404.0,
+    "NetProfit": -16758568.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -19287985.0,
+      "MarketingExpenses": -52711625.0,
+      "RD_Expenses": -400290.0,
+      "OtherExpenses": -4318637.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 1378270.0
+    },
+    "Amortization": 11667287.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/PINAR SU VE İÇECEK SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

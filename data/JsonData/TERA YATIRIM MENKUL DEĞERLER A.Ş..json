@@ -1,0 +1,31 @@
+{
+  "Code": "TERA, TRA",
+  "Name": "TERA YATIRIM MENKUL DEĞERLER A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "ULUSAL BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 322666585.0,
+    "CostOfRevenue": -268223562.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 54443023.0,
+    "NetProfit": 21517304.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -36268405.0,
+      "MarketingExpenses": -1998834.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -441613.0
+    },
+    "Tax": {
+      "Tax1": -4614426.0,
+      "Tax2": 584938.0
+    },
+    "Amortization": 897021.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/TERA YATIRIM MENKUL DEĞERLER A.Ş.(10.05.2023).xlsx"
+}

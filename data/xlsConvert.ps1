@@ -1,7 +1,8 @@
 param(
     $downloadfolder
 )
-#$downloadfolder="C:\Users\SnorlaX\Downloads\at\Capstone\data"         # folder where the .xls files are
+
+#$downloadfolder="C:\Users\SnorlaX\Downloads\Yeni klasör\Capstone\data"         # folder where the .xls files are
 
 $uploadfolder   = "$downloadfolder/Upload"  # folder that uploads the .xlsx files
 $backupfolder   = "$downloadfolder/Backup"  # folder that has .xls files as backup
@@ -36,6 +37,15 @@ ForEach-Object {
         $workbook = $excel.Workbooks.Open($xlsfilename)
         # save converted file (as xlsx) directly to the upload folder
         $newfilename = Join-Path -Path $uploadfolder -ChildPath ('{0}.xlsx' -f $_.BaseName)
+        $name2 = $xlsfilename.Substring(0,$xlsfilename.IndexOf('('))
+        $name2 = $name2.Substring($name2.IndexOf("data\") + 5)
+        if ($name2.Length -gt 31)
+        {
+            $name2 = $name2.Substring(0,31)
+        }
+        echo $name2
+        $worksheet = $workbook.worksheets.item(1)
+        $worksheet.name = "$name2"
         $workbook.SaveAs($newfilename, $xlFixedFormat)
 		$workbook.Close()
         #remove old file

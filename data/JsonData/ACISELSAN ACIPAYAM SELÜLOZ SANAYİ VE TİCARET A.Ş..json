@@ -1,0 +1,31 @@
+{
+  "Code": "ACSEL",
+  "Name": "ACISELSAN ACIPAYAM SELÜLOZ SANAYİ VE TİCARET A.Ş.",
+  "City": "DENİZLİ",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 78487560.0,
+    "CostOfRevenue": -65930503.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 12557057.0,
+    "NetProfit": 5795466.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -4272569.0,
+      "MarketingExpenses": -1288610.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -147749.0
+    },
+    "Tax": {
+      "Tax1": -1191399.0,
+      "Tax2": 87878.0
+    },
+    "Amortization": 201837.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ACISELSAN ACIPAYAM SELÜLOZ SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

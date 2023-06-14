@@ -1,0 +1,31 @@
+{
+  "Code": "SAFKR",
+  "Name": "SAFKAR EGE SOĞUTMACILIK KLİMA SOĞUK HAVA TESİSLERİ İHRACAT İTHALAT SANAYİ VE TİCARET A.Ş.",
+  "City": "İZMİR",
+  "IndependentAuditingFirm": "ÇÖZÜM ÜNLÜER BAĞIMSIZ DENETİM VE YEMİNLİ MALİ MÜŞAVİRLİK A.Ş.",
+  "Data": {
+    "Revenue": 99214238.0,
+    "CostOfRevenue": -70315676.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 28898562.0,
+    "NetProfit": 7099134.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -15881765.0,
+      "MarketingExpenses": -6475312.0,
+      "RD_Expenses": -2544610.0,
+      "OtherExpenses": -2571620.0
+    },
+    "Tax": {
+      "Tax1": -359035.0,
+      "Tax2": 2870850.0
+    },
+    "Amortization": 371335.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/SAFKAR EGE SOĞUTMACILIK KLİMA SOĞUK HAVA TESİSLERİ İHRACAT İTHALAT SANAYİ VE TİCARET A.Ş.(2.05.2023).xlsx"
+}

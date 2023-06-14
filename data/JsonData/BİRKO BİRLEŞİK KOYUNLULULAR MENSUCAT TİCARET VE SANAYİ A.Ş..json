@@ -1,0 +1,31 @@
+{
+  "Code": "BRKO",
+  "Name": "BİRKO BİRLEŞİK KOYUNLULULAR MENSUCAT TİCARET VE SANAYİ A.Ş.",
+  "City": "NİĞDE",
+  "IndependentAuditingFirm": "AAC BAĞIMSIZ DENETİM VE DANIŞMANLIK A.Ş.",
+  "Data": {
+    "Revenue": 1033035.0,
+    "CostOfRevenue": -952695.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 80340.0,
+    "NetProfit": 74150201.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -2830590.0,
+      "MarketingExpenses": -19567.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -10268790.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": 87114150.0
+    },
+    "Amortization": 0.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/BİRKO BİRLEŞİK KOYUNLULULAR MENSUCAT TİCARET VE SANAYİ A.Ş.(13.06.2023).xlsx"
+}

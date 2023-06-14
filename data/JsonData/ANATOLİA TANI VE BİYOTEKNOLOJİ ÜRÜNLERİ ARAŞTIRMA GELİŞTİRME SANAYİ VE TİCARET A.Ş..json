@@ -1,0 +1,31 @@
+{
+  "Code": "ANGEN",
+  "Name": "ANATOLİA TANI VE BİYOTEKNOLOJİ ÜRÜNLERİ ARAŞTIRMA GELİŞTİRME SANAYİ VE TİCARET A.Ş.",
+  "City": "",
+  "IndependentAuditingFirm": "EREN BAĞIMSIZ DENETİM A.Ş.",
+  "Data": {
+    "Revenue": 27138367.0,
+    "CostOfRevenue": -5553359.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 21585008.0,
+    "NetProfit": 11916771.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -17262555.0,
+      "MarketingExpenses": -12461408.0,
+      "RD_Expenses": -392442.0,
+      "OtherExpenses": -6400356.0
+    },
+    "Tax": {
+      "Tax1": -1516752.0,
+      "Tax2": -203147.0
+    },
+    "Amortization": 2207811.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/ANATOLİA TANI VE BİYOTEKNOLOJİ ÜRÜNLERİ ARAŞTIRMA GELİŞTİRME SANAYİ VE TİCARET A.Ş.(8.05.2023).xlsx"
+}

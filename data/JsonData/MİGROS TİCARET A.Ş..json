@@ -1,0 +1,31 @@
+{
+  "Code": "MGROS",
+  "Name": "MİGROS TİCARET A.Ş.",
+  "City": "İSTANBUL",
+  "IndependentAuditingFirm": "PwC BAĞIMSIZ DENETİM VE SERBEST MUHASEBECİ MALİ MÜŞAVİRLİK A.Ş",
+  "Data": {
+    "Revenue": 27183374.0,
+    "CostOfRevenue": -20633764.0,
+    "OperatingProfit": 0.0,
+    "GrossProfit": 6549610.0,
+    "NetProfit": 565829.0,
+    "OperatingExpenses": {
+      "ManagementExpenses": -431868.0,
+      "MarketingExpenses": -4772620.0,
+      "RD_Expenses": 0.0,
+      "OtherExpenses": -492992.0
+    },
+    "Tax": {
+      "Tax1": 0.0,
+      "Tax2": -180286.0
+    },
+    "Amortization": 252546.0,
+    "Ratios": {
+      "GrossMargin": 0.0,
+      "OperatingMargin": 0.0,
+      "ReturnOnAssets": 0.0,
+      "ReturnOnEquity": 0.0
+    }
+  },
+  "xlsFile": "C:\\Users\\SnorlaX\\Downloads\\Yeni klasör\\Capstone\\data/Upload/MİGROS TİCARET A.Ş.(3.05.2023).xlsx"
+}
